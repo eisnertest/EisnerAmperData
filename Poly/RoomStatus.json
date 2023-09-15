@@ -1,1 +1,266 @@
-
+[
+    {
+        "Room": "Apollo",
+        "Mic": true,
+        "Camera": true,
+        "Controller": true
+    },
+    {
+        "Room": "The Met",
+        "Mic": true,
+        "Camera": true,
+        "Controller": true
+    },
+    {
+        "Room": "MC 10.52",
+        "Mic": true,
+        "Camera": true,
+        "Controller": true
+    },
+    {
+        "Room": "Columbus Circle",
+        "Mic": true,
+        "Camera": true,
+        "Controller": true
+    },
+    {
+        "Room": "Moma",
+        "Mic": true,
+        "Camera": true,
+        "Controller": true
+    },
+    {
+        "Room": "MC 9.52",
+        "Mic": true,
+        "Camera": true,
+        "Controller": true
+    },
+    {
+        "Room": "Bryant Park",
+        "Mic": true,
+        "Camera": true,
+        "Controller": true
+    },
+    {
+        "Room": "Rock Center",
+        "Mic": false,
+        "Camera": false,
+        "Controller": false
+    },
+    {
+        "Room": "MC 8.52",
+        "Mic": true,
+        "Camera": true,
+        "Controller": true
+    },
+    {
+        "Room": "Union Square",
+        "Mic": true,
+        "Camera": true,
+        "Controller": true
+    },
+    {
+        "Room": "High Line",
+        "Mic": true,
+        "Camera": true,
+        "Controller": true
+    },
+    {
+        "Room": "MC 7.85",
+        "Mic": true,
+        "Camera": true,
+        "Controller": true
+    },
+    {
+        "Room": "Grammercy",
+        "Mic": true,
+        "Camera": true,
+        "Controller": true
+    },
+    {
+        "Room": "Wall St",
+        "Mic": true,
+        "Camera": true,
+        "Controller": true
+    },
+    {
+        "Room": "Liberty",
+        "Mic": true,
+        "Camera": true,
+        "Controller": true
+    },
+    {
+        "Room": "MC 6.52",
+        "Mic": true,
+        "Camera": true,
+        "Controller": true
+    },
+    {
+        "Room": "MP 8322",
+        "Mic": true,
+        "Camera": true,
+        "Controller": true
+    },
+    {
+        "Room": "MP 8309",
+        "Mic": true,
+        "Camera": true,
+        "Controller": true
+    },
+    {
+        "Room": "MP 7366",
+        "Mic": true,
+        "Camera": true,
+        "Controller": true
+    },
+    {
+        "Room": "MP 7310",
+        "Mic": true,
+        "Camera": true,
+        "Controller": true
+    },
+    {
+        "Room": "MP 7202",
+        "Mic": true,
+        "Camera": true,
+        "Controller": true
+    },
+    {
+        "Room": "MP 7201",
+        "Mic": true,
+        "Camera": true,
+        "Controller": true
+    },
+    {
+        "Room": "MP 7107",
+        "Mic": true,
+        "Camera": true,
+        "Controller": true
+    },
+    {
+        "Room": "MP 6310",
+        "Mic": true,
+        "Camera": true,
+        "Controller": true
+    },
+    {
+        "Room": "MP 6309",
+        "Mic": true,
+        "Camera": true,
+        "Controller": true
+    },
+    {
+        "Room": "MP 6255",
+        "Mic": true,
+        "Camera": true,
+        "Controller": true
+    },
+    {
+        "Room": "MP 6203",
+        "Mic": true,
+        "Camera": true,
+        "Controller": true
+    },
+    {
+        "Room": "MP 6107",
+        "Mic": true,
+        "Camera": true,
+        "Controller": true
+    },
+    {
+        "Room": "MP 6003",
+        "Mic": true,
+        "Camera": true,
+        "Controller": true
+    },
+    {
+        "Room": "MP 6002",
+        "Mic": true,
+        "Camera": true,
+        "Controller": true
+    },
+    {
+        "Room": "MP TR A",
+        "Mic": true,
+        "Camera": true,
+        "Controller": true
+    },
+    {
+        "Room": "MP TR B",
+        "Mic": true,
+        "Camera": true,
+        "Controller": true
+    },
+    {
+        "Room": "Conf 30W 09",
+        "Mic": true,
+        "Camera": true,
+        "Controller": true
+    },
+    {
+        "Room": "Conf 30E 02",
+        "Mic": true,
+        "Camera": true,
+        "Controller": true
+    },
+    {
+        "Room": "Conf 30E 55",
+        "Mic": true,
+        "Camera": true,
+        "Controller": true
+    },
+    {
+        "Room": "Conf 29W 24",
+        "Mic": true,
+        "Camera": true,
+        "Controller": true
+    },
+    {
+        "Room": "Conf 29E 55",
+        "Mic": true,
+        "Camera": true,
+        "Controller": true
+    },
+    {
+        "Room": "Newton",
+        "Mic": false,
+        "Camera": false,
+        "Controller": true
+    },
+    {
+        "Room": "Einstein",
+        "Mic": false,
+        "Camera": false,
+        "Controller": true
+    },
+    {
+        "Room": "War Room",
+        "Mic": true,
+        "Camera": true,
+        "Controller": true
+    },
+    {
+        "Room": "Darth Vader",
+        "Mic": true,
+        "Camera": true,
+        "Controller": true
+    },
+    {
+        "Room": "Iron Man",
+        "Mic": true,
+        "Camera": true,
+        "Controller": true
+    },
+    {
+        "Room": "Bond007",
+        "Mic": true,
+        "Camera": true,
+        "Controller": true
+    },
+    {
+        "Room": "God Father",
+        "Mic": true,
+        "Camera": true,
+        "Controller": true
+    }
+]

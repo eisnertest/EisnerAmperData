@@ -43,9 +43,9 @@
     },
     {
         "Room": "Rock Center",
-        "Mic": false,
-        "Camera": false,
-        "Controller": false
+        "Mic": true,
+        "Camera": true,
+        "Controller": true
     },
     {
         "Room": "MC 8.52",

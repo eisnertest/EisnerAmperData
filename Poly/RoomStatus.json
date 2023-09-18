@@ -241,8 +241,8 @@
     },
     {
         "Room": "Darth Vader",
-        "Mic": true,
-        "Camera": true,
+        "Mic": false,
+        "Camera": false,
         "Controller": true
     },
     {

@@ -181,9 +181,9 @@
     },
     {
         "Room": "MP TR A",
-        "Mic": false,
-        "Camera": false,
-        "Controller": false
+        "Mic": true,
+        "Camera": true,
+        "Controller": true
     },
     {
         "Room": "MP TR B",

@@ -13,9 +13,9 @@
     },
     {
         "Room": "MC 10.52",
-        "Mic": true,
-        "Camera": true,
-        "Controller": true
+        "Mic": false,
+        "Camera": false,
+        "Controller": false
     },
     {
         "Room": "Columbus Circle",
@@ -229,8 +229,8 @@
     },
     {
         "Room": "Einstein",
-        "Mic": false,
-        "Camera": false,
+        "Mic": true,
+        "Camera": true,
         "Controller": true
     },
     {
@@ -241,8 +241,8 @@
     },
     {
         "Room": "Darth Vader",
-        "Mic": false,
-        "Camera": false,
+        "Mic": true,
+        "Camera": true,
         "Controller": true
     },
     {

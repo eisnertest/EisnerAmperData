@@ -286,5 +286,11 @@
         "Mic": true,
         "Camera": true,
         "Controller": true
+    },
+    {
+        "Room": "Mt. Laurel Conf Rm",
+        "Mic": true,
+        "Camera": true,
+        "Controller": true
     }
 ]

@@ -262,5 +262,29 @@
         "Mic": true,
         "Camera": true,
         "Controller": true
+    },
+    {
+        "Room": "Melville Conf RM 2.14",
+        "Mic": true,
+        "Camera": true,
+        "Controller": true
+    },
+    {
+        "Room": "Melville Conf RM 2.89",
+        "Mic": true,
+        "Camera": true,
+        "Controller": true
+    },
+    {
+        "Room": "Melville Conf RM 2.90",
+        "Mic": true,
+        "Camera": true,
+        "Controller": true
+    },
+    {
+        "Room": "Melville Conf RM 2.91",
+        "Mic": true,
+        "Camera": true,
+        "Controller": true
     }
 ]

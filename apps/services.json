@@ -1,78 +1,6 @@
 [
     {
-        "Service": "Outlook.com",
-        "Status": true
-    },
-    {
-        "Service": "OneDriveConsumer",
-        "Status": true
-    },
-    {
-        "Service": "microsofttodo",
-        "Status": true
-    },
-    {
-        "Service": "Skype",
-        "Status": true
-    },
-    {
-        "Service": "OfficeOnlineConsumer",
-        "Status": true
-    },
-    {
-        "Service": "Whiteboard",
-        "Status": true
-    },
-    {
-        "Service": "YourPhone",
-        "Status": true
-    },
-    {
-        "Service": "TeamsforLife",
-        "Status": true
-    },
-    {
         "Service": "ConsumerList",
-        "Status": true
-    },
-    {
-        "Service": "Mobile",
-        "Status": true
-    },
-    {
-        "Service": "Japan - e-Bunsho for Expense",
-        "Status": true
-    },
-    {
-        "Service": "Travel",
-        "Status": true
-    },
-    {
-        "Service": "Compleat (TMC Services)",
-        "Status": true
-    },
-    {
-        "Service": "Request",
-        "Status": true
-    },
-    {
-        "Service": "Japan - Japan Public Transportation (JPT)",
-        "Status": true
-    },
-    {
-        "Service": "Analysis/Intelligence",
-        "Status": true
-    },
-    {
-        "Service": "Japan - e-Bunsho for Invoice",
-        "Status": true
-    },
-    {
-        "Service": "Imaging",
-        "Status": true
-    },
-    {
-        "Service": "Invoice",
         "Status": true
     },
     {
@@ -81,10 +9,6 @@
     },
     {
         "Service": "Okta",
-        "Status": true
-    },
-    {
-        "name": "Replicon",
         "Status": true
     }
 ]

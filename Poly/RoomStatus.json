@@ -292,5 +292,29 @@
         "Mic": true,
         "Camera": true,
         "Controller": true
+    },
+    {
+        "Room": "WPB 10th Conf RM",
+        "Mic": false,
+        "Camera": false,
+        "Controller": true
+    },
+    {
+        "Room": "Falaknuma",
+        "Mic": true,
+        "Camera": true,
+        "Controller": true
+    },
+    {
+        "Room": "Koh-i-Noor",
+        "Mic": true,
+        "Camera": true,
+        "Controller": true
+    },
+    {
+        "Room": "Woodcliff Lake New Jersey",
+        "Mic": true,
+        "Camera": true,
+        "Controller": true
     }
 ]

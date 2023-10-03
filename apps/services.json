@@ -82,7 +82,7 @@
     {
         "Service": "Okta",
         "Status": true
-    }
+    },
     {
         "name": "Replicon",
         "Status": true

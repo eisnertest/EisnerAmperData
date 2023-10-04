@@ -277,9 +277,9 @@
     },
     {
         "Room": "Melville Conf RM 2.90",
-        "Mic": true,
-        "Camera": true,
-        "Controller": true
+        "Mic": false,
+        "Camera": false,
+        "Controller": false
     },
     {
         "Room": "Melville Conf RM 2.91",

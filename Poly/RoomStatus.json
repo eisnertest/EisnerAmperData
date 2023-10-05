@@ -63,7 +63,7 @@
         "Room": "High Line",
         "Mic": true,
         "Camera": true,
-        "Controller": false
+        "Controller": true
     },
     {
         "Room": "MC 7.85",

@@ -223,13 +223,13 @@
     },
     {
         "Room": "Newton",
-        "Mic": false,
+        "Mic": true,
         "Camera": false,
         "Controller": true
     },
     {
         "Room": "Einstein",
-        "Mic": false,
+        "Mic": true,
         "Camera": true,
         "Controller": true
     },

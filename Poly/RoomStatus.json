@@ -296,7 +296,7 @@
     {
         "Room": "WPB 10th Conf RM",
         "Mic": true,
-        "Camera": false,
+        "Camera": true,
         "Controller": true
     },
     {

@@ -1,14 +1,1 @@
-[
-    {
-        "Service": "ConsumerList",
-        "Status": true
-    },
-    {
-        "Service": "Expense",
-        "Status": true
-    },
-    {
-        "Service": "Okta",
-        "Status": true
-    }
-]
+[]

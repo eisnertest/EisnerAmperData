@@ -99,19 +99,19 @@
         "Room": "MP 8322",
         "Mic": true,
         "Camera": true,
-        "Controller": false
+        "Controller": true
     },
     {
         "Room": "MP 8309",
         "Mic": true,
         "Camera": true,
-        "Controller": false
+        "Controller": true
     },
     {
         "Room": "MP 7366",
         "Mic": true,
         "Camera": true,
-        "Controller": false
+        "Controller": true
     },
     {
         "Room": "MP 7310",
@@ -123,19 +123,19 @@
         "Room": "MP 7202",
         "Mic": true,
         "Camera": true,
-        "Controller": false
+        "Controller": true
     },
     {
         "Room": "MP 7201",
         "Mic": true,
         "Camera": true,
-        "Controller": false
+        "Controller": true
     },
     {
         "Room": "MP 7107",
         "Mic": true,
         "Camera": true,
-        "Controller": false
+        "Controller": true
     },
     {
         "Room": "MP 6310",

@@ -117,7 +117,7 @@
         "Room": "MP 7310",
         "Mic": true,
         "Camera": true,
-        "Controller": false
+        "Controller": true
     },
     {
         "Room": "MP 7202",

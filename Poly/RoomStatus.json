@@ -1,5 +1,11 @@
 [
     {
+        "Room": "Apollo",
+        "Mic": true,
+        "Camera": true,
+        "Controller": true
+    },
+    {
         "Room": "The Met",
         "Mic": true,
         "Camera": true,

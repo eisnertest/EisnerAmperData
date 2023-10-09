@@ -105,13 +105,13 @@
         "Room": "MP 8309",
         "Mic": true,
         "Camera": true,
-        "Controller": true
+        "Controller": false
     },
     {
         "Room": "MP 7366",
         "Mic": true,
         "Camera": true,
-        "Controller": true
+        "Controller": false
     },
     {
         "Room": "MP 7310",
@@ -135,7 +135,7 @@
         "Room": "MP 7107",
         "Mic": true,
         "Camera": true,
-        "Controller": true
+        "Controller": false
     },
     {
         "Room": "MP 6310",

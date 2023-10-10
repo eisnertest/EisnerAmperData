@@ -192,6 +192,12 @@
         "Controller": true
     },
     {
+        "Room": "Metropark Boardroom",
+        "Mic": false,
+        "Camera": true,
+        "Controller": true
+    },
+    {
         "Room": "Conf 30W 09",
         "Mic": true,
         "Camera": true,

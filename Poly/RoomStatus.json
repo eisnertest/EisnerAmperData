@@ -90,6 +90,24 @@
         "Controller": true
     },
     {
+        "Room": "Metropark Boardroom",
+        "Mic": false,
+        "Camera": true,
+        "Controller": true
+    },
+    {
+        "Room": "MP TR A",
+        "Mic": true,
+        "Camera": true,
+        "Controller": true
+    },
+    {
+        "Room": "MP TR B",
+        "Mic": true,
+        "Camera": true,
+        "Controller": true
+    },
+    {
         "Room": "MC 6.52",
         "Mic": true,
         "Camera": true,
@@ -176,24 +194,6 @@
     {
         "Room": "MP 6002",
         "Mic": true,
-        "Camera": true,
-        "Controller": true
-    },
-    {
-        "Room": "MP TR A",
-        "Mic": true,
-        "Camera": true,
-        "Controller": true
-    },
-    {
-        "Room": "MP TR B",
-        "Mic": true,
-        "Camera": true,
-        "Controller": true
-    },
-    {
-        "Room": "Metropark Boardroom",
-        "Mic": false,
         "Camera": true,
         "Controller": true
     },

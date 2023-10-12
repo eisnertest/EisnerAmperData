@@ -12,12 +12,6 @@
         "Controller": true
     },
     {
-        "Room": "MC 10.52",
-        "Mic": false,
-        "Camera": false,
-        "Controller": false
-    },
-    {
         "Room": "Columbus Circle",
         "Mic": true,
         "Camera": true,

@@ -13,8 +13,8 @@
     },
     {
         "Room": "MC 10.52",
-        "Mic": true,
-        "Camera": true,
+        "Mic": false,
+        "Camera": false,
         "Controller": false
     },
     {

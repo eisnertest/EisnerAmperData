@@ -13,8 +13,8 @@
     },
     {
         "Room": "MC 10.52",
-        "Mic": false,
-        "Camera": false,
+        "Mic": true,
+        "Camera": true,
         "Controller": false
     },
     {
@@ -159,7 +159,7 @@
         "Room": "MP 6310",
         "Mic": true,
         "Camera": true,
-        "Controller": false
+        "Controller": true
     },
     {
         "Room": "MP 6309",

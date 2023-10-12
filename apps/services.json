@@ -1,17 +1,8 @@
 [
     {
-        "page": {
-            "id": "f2yvtgjrx0qt",
-            "name": "Replicon",
-            "url": "https://status.replicon.com",
-            "time_zone": "Etc/UTC",
-            "updated_at": "2023-10-09T22:44:08.066Z"
-        },
-        "status": {
-            "indicator": "none",
-            "description": "All Systems Operational"
-        }
-    }
+        "Service": "Replicon",
+        "Status": true
+    },
     {
         "Service": "Outlook.com",
         "Status": true
@@ -96,5 +87,4 @@
         "Service": "Okta",
         "Status": true
     }
-]
 ]

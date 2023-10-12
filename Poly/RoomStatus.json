@@ -230,7 +230,7 @@
     {
         "Room": "Newton",
         "Mic": false,
-        "Camera": false,
+        "Camera": true,
         "Controller": true
     },
     {

@@ -1,1 +1,19 @@
-
+[
+    {
+        "page": {
+            "id": "f2yvtgjrx0qt",
+            "name": "Replicon",
+            "url": "https://status.replicon.com",
+            "time_zone": "Etc/UTC",
+            "updated_at": "2023-10-15T22:45:10.653Z"
+        },
+        "status": {
+            "indicator": "none",
+            "description": "All Systems Operational"
+        }
+    },
+    {
+        "name": "Replicon",
+        "status": true
+    }
+]

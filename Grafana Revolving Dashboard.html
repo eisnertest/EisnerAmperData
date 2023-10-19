@@ -1,0 +1,35 @@
+
+
+<html>
+    <head>
+        <title>My Grafana Dashboard Rotate TEST</title>
+        <style>
+            body{
+                margin:0;
+            }
+            #dashboard{
+                height: 100%;
+                width: 100%;
+                border:none;
+
+            }
+        </style>
+    </head>
+    <body>
+        <iframe src="" frameborder="0" id="dashboard"></iframe>
+        <script>
+            var listOfDashboardUrls = [
+                "https://eisamp.grafana.net/d/cebb186d-b8ae-4797-82e0-84a152630460/all-poly-rooms?orgId=1&refresh=1m","https://eisamp.grafana.net/d/ca4c03e1-6c00-4af1-b58f-fa188a7026a4/new-york-city-dashboard?orgId=1&refresh=5s", "https://eisamp.grafana.net/d/add7721a-2afd-4471-abb8-aeb3b22fb233/easervices?orgId=1&refresh=5s&from=1693401132225&to=1693422732225"
+            ];
+            var totalDashboards = listOfDashboardUrls.length;
+            var currentDashboard = 0;
+            function rotateDashboard(){
+                dashboardElement = document.getElementById('dashboard');
+                dashboardElement.setAttribute("src", listOfDashboardUrls[currentDashboard]);
+                currentDashboard += 1;
+                currentDashboard = currentDashboard == totalDashboards ? 0:currentDashboard;
+                setTimeout(rotateDashboard, 30011);
+            }
+            rotateDashboard();
+    </script>
+    </body>

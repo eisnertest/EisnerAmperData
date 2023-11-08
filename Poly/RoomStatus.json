@@ -261,7 +261,7 @@
         "Room": "Bond007",
         "Mic": true,
         "Camera": true,
-        "Controller": true
+        "Controller": false
     },
     {
         "Room": "God Father",

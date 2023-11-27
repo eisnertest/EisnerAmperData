@@ -180,6 +180,12 @@
         "Controller": true
     },
     {
+        "Room": "MP 6107",
+        "Mic": true,
+        "Camera": true,
+        "Controller": true
+    },
+    {
         "Room": "MP 6003",
         "Mic": true,
         "Camera": true,

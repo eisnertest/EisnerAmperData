@@ -141,13 +141,13 @@
         "Room": "MP 7202",
         "Mic": true,
         "Camera": true,
-        "Controller": true
+        "Controller": false
     },
     {
         "Room": "MP 7201",
-        "Mic": true,
-        "Camera": true,
-        "Controller": true
+        "Mic": false,
+        "Camera": false,
+        "Controller": false
     },
     {
         "Room": "MP 7107",
@@ -199,9 +199,9 @@
     },
     {
         "Room": "Conf 30W 09",
-        "Mic": true,
-        "Camera": true,
-        "Controller": true
+        "Mic": false,
+        "Camera": false,
+        "Controller": false
     },
     {
         "Room": "Conf 30E 02",

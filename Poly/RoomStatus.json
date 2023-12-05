@@ -289,9 +289,9 @@
     },
     {
         "Room": "Melville Conf RM 2.91",
-        "Mic": false,
-        "Camera": false,
-        "Controller": false
+        "Mic": true,
+        "Camera": true,
+        "Controller": true
     },
     {
         "Room": "Mt. Laurel Conf Rm",

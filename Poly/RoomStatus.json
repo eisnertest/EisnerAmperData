@@ -301,8 +301,8 @@
     },
     {
         "Room": "WPB 10th Conf RM",
-        "Mic": true,
-        "Camera": true,
+        "Mic": false,
+        "Camera": false,
         "Controller": true
     },
     {

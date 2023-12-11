@@ -139,9 +139,9 @@
     },
     {
         "Room": "MP 7202",
-        "Mic": false,
-        "Camera": false,
-        "Controller": false
+        "Mic": true,
+        "Camera": true,
+        "Controller": true
     },
     {
         "Room": "MP 7201",
@@ -157,9 +157,9 @@
     },
     {
         "Room": "MP 6310",
-        "Mic": true,
-        "Camera": true,
-        "Controller": true
+        "Mic": false,
+        "Camera": false,
+        "Controller": false
     },
     {
         "Room": "MP 6309",
@@ -315,7 +315,7 @@
         "Room": "Koh-i-Noor",
         "Mic": true,
         "Camera": true,
-        "Controller": true
+        "Controller": false
     },
     {
         "Room": "Woodcliff Lake New Jersey",

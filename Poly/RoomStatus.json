@@ -57,7 +57,7 @@
         "Room": "Union Square",
         "Mic": true,
         "Camera": true,
-        "Controller": false
+        "Controller": true
     },
     {
         "Room": "High Line",
@@ -189,7 +189,7 @@
         "Room": "MP 6003",
         "Mic": true,
         "Camera": true,
-        "Controller": true
+        "Controller": false
     },
     {
         "Room": "MP 6002",

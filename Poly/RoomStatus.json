@@ -19,8 +19,8 @@
     },
     {
         "Room": "Columbus Circle",
-        "Mic": false,
-        "Camera": false,
+        "Mic": true,
+        "Camera": true,
         "Controller": true
     },
     {

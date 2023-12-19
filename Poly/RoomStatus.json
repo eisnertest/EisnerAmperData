@@ -228,6 +228,12 @@
         "Controller": true
     },
     {
+        "Room": "Newton",
+        "Mic": false,
+        "Camera": true,
+        "Controller": true
+    },
+    {
         "Room": "Einstein",
         "Mic": true,
         "Camera": true,

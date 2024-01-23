@@ -211,8 +211,8 @@
     },
     {
         "Room": "Conf 30E 55",
-        "Mic": false,
-        "Camera": false,
+        "Mic": true,
+        "Camera": true,
         "Controller": false
     },
     {

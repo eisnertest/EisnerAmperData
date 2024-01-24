@@ -309,7 +309,7 @@
         "Room": "Falaknuma",
         "Mic": true,
         "Camera": true,
-        "Controller": true
+        "Controller": false
     },
     {
         "Room": "Koh-i-Noor",

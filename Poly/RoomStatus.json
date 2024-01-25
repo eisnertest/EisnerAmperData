@@ -322,5 +322,29 @@
         "Mic": true,
         "Camera": true,
         "Controller": true
+    },
+    {
+        "Room": "Lurie Room - MCC",
+        "Mic": true,
+        "Camera": true,
+        "Controller": true
+    },
+    {
+        "Room": "Boardroom",
+        "Mic": true,
+        "Camera": true,
+        "Controller": true
+    },
+    {
+        "Room": "GLickman",
+        "Mic": false,
+        "Camera": false,
+        "Controller": false
+    },
+    {
+        "Room": "Eiger RM",
+        "Mic": false,
+        "Camera": false,
+        "Controller": false
     }
 ]

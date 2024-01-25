@@ -325,8 +325,8 @@
     },
     {
         "Room": "Lurie Room - MCC",
-        "Mic": true,
-        "Camera": true,
+        "Mic": false,
+        "Camera": false,
         "Controller": true
     },
     {

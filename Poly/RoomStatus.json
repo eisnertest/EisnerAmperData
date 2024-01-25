@@ -346,5 +346,53 @@
         "Mic": false,
         "Camera": false,
         "Controller": false
+    },
+    {
+        "Room": "The Shores",
+        "Mic": true,
+        "Camera": true,
+        "Controller": true
+    },
+    {
+        "Room": "The Cove",
+        "Mic": true,
+        "Camera": true,
+        "Controller": true
+    },
+    {
+        "Room": "Guruku",
+        "Mic": false,
+        "Camera": true,
+        "Controller": true
+    },
+    {
+        "Room": "Anfield",
+        "Mic": false,
+        "Camera": true,
+        "Controller": true
+    },
+    {
+        "Room": "OldTrafford",
+        "Mic": true,
+        "Camera": true,
+        "Controller": true
+    },
+    {
+        "Room": "SanSiro",
+        "Mic": true,
+        "Camera": true,
+        "Controller": true
+    },
+    {
+        "Room": "CampNou",
+        "Mic": true,
+        "Camera": true,
+        "Controller": true
+    },
+    {
+        "Room": "Eden",
+        "Mic": true,
+        "Camera": true,
+        "Controller": true
     }
 ]

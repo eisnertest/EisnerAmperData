@@ -325,8 +325,8 @@
     },
     {
         "Room": "Lurie Room - MCC",
-        "Mic": false,
-        "Camera": false,
+        "Mic": true,
+        "Camera": true,
         "Controller": true
     },
     {
@@ -336,16 +336,10 @@
         "Controller": true
     },
     {
-        "Room": "GLickman",
-        "Mic": false,
-        "Camera": false,
-        "Controller": false
-    },
-    {
-        "Room": "Eiger RM",
-        "Mic": false,
-        "Camera": false,
-        "Controller": false
+        "Room": "Eiger Room",
+        "Mic": true,
+        "Camera": true,
+        "Controller": true
     },
     {
         "Room": "The Shores",
@@ -361,13 +355,13 @@
     },
     {
         "Room": "Guruku",
-        "Mic": false,
+        "Mic": true,
         "Camera": true,
         "Controller": true
     },
     {
         "Room": "Anfield",
-        "Mic": false,
+        "Mic": true,
         "Camera": true,
         "Controller": true
     },

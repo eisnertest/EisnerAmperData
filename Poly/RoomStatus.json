@@ -324,13 +324,13 @@
         "Controller": true
     },
     {
-        "Room": "Lurie Room - MCC",
+        "Room": "MCC",
         "Mic": true,
         "Camera": true,
         "Controller": true
     },
     {
-        "Room": "Boardroom",
+        "Room": "Minneapolis Boardroom",
         "Mic": true,
         "Camera": true,
         "Controller": true

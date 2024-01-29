@@ -307,8 +307,8 @@
     },
     {
         "Room": "Falaknuma",
-        "Mic": true,
-        "Camera": true,
+        "Mic": false,
+        "Camera": false,
         "Controller": false
     },
     {

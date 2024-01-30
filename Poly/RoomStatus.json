@@ -331,9 +331,9 @@
     },
     {
         "Room": "Minneapolis Boardroom",
-        "Mic": true,
-        "Camera": true,
-        "Controller": true
+        "Mic": false,
+        "Camera": false,
+        "Controller": false
     },
     {
         "Room": "Eiger Room",

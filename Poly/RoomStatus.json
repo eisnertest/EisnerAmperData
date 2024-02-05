@@ -74,7 +74,7 @@
         "Mic": false,
         "Camera": false,
         "Controller": false,
-        "Alert": true
+        "Alert": false
     },
     {
         "Room": "MC 7.85",
@@ -144,7 +144,7 @@
         "Mic": true,
         "Camera": true,
         "Controller": false,
-        "Alert": true
+        "Alert": false
     },
     {
         "Room": "MP 7366",
@@ -249,14 +249,14 @@
         "Mic": true,
         "Camera": true,
         "Controller": false,
-        "Alert": true
+        "Alert": false
     },
     {
         "Room": "Conf 29W 24",
         "Mic": false,
         "Camera": false,
         "Controller": false,
-        "Alert": true
+        "Alert": false
     },
     {
         "Room": "Conf 29E 55",
@@ -270,7 +270,7 @@
         "Mic": false,
         "Camera": true,
         "Controller": true,
-        "Alert": true
+        "Alert": false
     },
     {
         "Room": "Einstein",
@@ -340,7 +340,7 @@
         "Mic": false,
         "Camera": false,
         "Controller": false,
-        "Alert": true
+        "Alert": false
     },
     {
         "Room": "Mt. Laurel Conf Rm",
@@ -354,7 +354,7 @@
         "Mic": false,
         "Camera": false,
         "Controller": true,
-        "Alert": true
+        "Alert": false
     },
     {
         "Room": "Falaknuma",

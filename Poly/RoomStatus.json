@@ -3,390 +3,378 @@
         "Room": "Apollo",
         "Mic": true,
         "Camera": true,
-        "Controller": true
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "The Met",
         "Mic": true,
         "Camera": true,
-        "Controller": true
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "MC 10.52",
         "Mic": true,
         "Camera": true,
-        "Controller": true
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "Columbus Circle",
         "Mic": true,
         "Camera": true,
-        "Controller": true
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "Moma",
         "Mic": true,
         "Camera": true,
-        "Controller": true
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "MC 9.52",
         "Mic": true,
         "Camera": true,
-        "Controller": true
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "Bryant Park",
         "Mic": true,
         "Camera": true,
-        "Controller": true
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "Rock Center",
         "Mic": true,
         "Camera": true,
-        "Controller": true
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "MC 8.52",
         "Mic": true,
         "Camera": true,
-        "Controller": true
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "Union Square",
         "Mic": true,
         "Camera": true,
-        "Controller": true
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "High Line",
         "Mic": false,
         "Camera": false,
-        "Controller": false
+        "Controller": false,
+        "Alert": true
     },
     {
         "Room": "MC 7.85",
         "Mic": true,
         "Camera": true,
-        "Controller": true
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "Grammercy",
         "Mic": true,
         "Camera": true,
-        "Controller": true
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "Wall St",
         "Mic": true,
         "Camera": true,
-        "Controller": true
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "Liberty",
         "Mic": true,
         "Camera": true,
-        "Controller": true
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "Metropark Boardroom",
         "Mic": true,
         "Camera": true,
-        "Controller": true
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "MP TR A",
         "Mic": true,
         "Camera": true,
-        "Controller": true
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "MP TR B",
         "Mic": true,
         "Camera": true,
-        "Controller": true
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "MC 6.52",
         "Mic": true,
         "Camera": true,
-        "Controller": true
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "MP 8322",
         "Mic": true,
         "Camera": true,
-        "Controller": true
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "MP 8309",
         "Mic": true,
         "Camera": true,
-        "Controller": false
+        "Controller": false,
+        "Alert": true
     },
     {
         "Room": "MP 7366",
         "Mic": true,
         "Camera": true,
-        "Controller": true
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "MP 7310",
         "Mic": true,
         "Camera": true,
-        "Controller": true
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "MP 7202",
         "Mic": true,
         "Camera": true,
-        "Controller": true
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "MP 7201",
         "Mic": true,
         "Camera": true,
-        "Controller": true
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "MP 7107",
         "Mic": true,
         "Camera": true,
-        "Controller": true
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "MP 6310",
         "Mic": true,
         "Camera": true,
-        "Controller": true
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "MP 6309",
         "Mic": true,
         "Camera": true,
-        "Controller": true
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "MP 6255",
         "Mic": true,
         "Camera": true,
-        "Controller": true
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "MP 6203",
         "Mic": true,
         "Camera": true,
-        "Controller": true
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "MP 6107",
         "Mic": true,
         "Camera": true,
-        "Controller": true
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "MP 6003",
         "Mic": true,
         "Camera": true,
-        "Controller": true
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "MP 6002",
         "Mic": true,
         "Camera": true,
-        "Controller": true
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "Conf 30W 09",
         "Mic": true,
         "Camera": true,
-        "Controller": true
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "Conf 30E 02",
         "Mic": true,
         "Camera": true,
-        "Controller": true
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "Conf 30E 55",
         "Mic": true,
         "Camera": true,
-        "Controller": false
+        "Controller": false,
+        "Alert": true
     },
     {
         "Room": "Conf 29W 24",
         "Mic": false,
         "Camera": false,
-        "Controller": false
+        "Controller": false,
+        "Alert": true
     },
     {
         "Room": "Conf 29E 55",
         "Mic": true,
         "Camera": true,
-        "Controller": true
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "Newton",
         "Mic": false,
         "Camera": true,
-        "Controller": true
+        "Controller": true,
+        "Alert": true
     },
     {
         "Room": "Einstein",
         "Mic": true,
         "Camera": true,
-        "Controller": true
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "War Room",
         "Mic": true,
         "Camera": true,
-        "Controller": true
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "Darth Vader",
         "Mic": true,
         "Camera": true,
-        "Controller": true
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "Iron Man",
         "Mic": true,
         "Camera": true,
-        "Controller": true
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "Bond007",
         "Mic": true,
         "Camera": true,
-        "Controller": true
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "God Father",
         "Mic": true,
         "Camera": true,
-        "Controller": true
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "Melville Conf RM 2.14",
         "Mic": true,
         "Camera": true,
-        "Controller": true
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "Melville Conf RM 2.89",
         "Mic": true,
         "Camera": true,
-        "Controller": true
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "Melville Conf RM 2.90",
         "Mic": true,
         "Camera": true,
-        "Controller": true
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "Melville Conf RM 2.91",
         "Mic": false,
         "Camera": false,
-        "Controller": false
+        "Controller": false,
+        "Alert": true
     },
     {
         "Room": "Mt. Laurel Conf Rm",
         "Mic": true,
         "Camera": true,
-        "Controller": true
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "WPB 10th Conf RM",
-        "Mic": true,
-        "Camera": true,
-        "Controller": true
+        "Mic": false,
+        "Camera": false,
+        "Controller": true,
+        "Alert": true
     },
     {
         "Room": "Falaknuma",
         "Mic": true,
         "Camera": true,
-        "Controller": true
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "Koh-i-Noor",
         "Mic": true,
         "Camera": true,
-        "Controller": true
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "Woodcliff Lake New Jersey",
         "Mic": true,
         "Camera": true,
-        "Controller": true
-    },
-    {
-        "Room": "MCC",
-        "Mic": true,
-        "Camera": true,
-        "Controller": true
-    },
-    {
-        "Room": "Minneapolis Boardroom",
-        "Mic": true,
-        "Camera": true,
-        "Controller": true
-    },
-    {
-        "Room": "Eiger Room",
-        "Mic": true,
-        "Camera": true,
-        "Controller": true
-    },
-    {
-        "Room": "The Shores",
-        "Mic": true,
-        "Camera": true,
-        "Controller": true
-    },
-    {
-        "Room": "The Cove",
-        "Mic": true,
-        "Camera": true,
-        "Controller": true
-    },
-    {
-        "Room": "Guruku",
-        "Mic": true,
-        "Camera": true,
-        "Controller": true
-    },
-    {
-        "Room": "Anfield",
-        "Mic": true,
-        "Camera": true,
-        "Controller": true
-    },
-    {
-        "Room": "OldTrafford",
-        "Mic": true,
-        "Camera": true,
-        "Controller": true
-    },
-    {
-        "Room": "SanSiro",
-        "Mic": true,
-        "Camera": true,
-        "Controller": true
-    },
-    {
-        "Room": "CampNou",
-        "Mic": true,
-        "Camera": true,
-        "Controller": true
-    },
-    {
-        "Room": "Eden",
-        "Mic": true,
-        "Camera": true,
-        "Controller": true
+        "Controller": true,
+        "Alert": false
     }
 ]

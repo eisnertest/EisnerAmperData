@@ -403,8 +403,8 @@
     },
     {
         "Room": "Dallas Training Room",
-        "Mic": false,
-        "Camera": false,
+        "Mic": true,
+        "Camera": true,
         "Controller": true
     }
 ]

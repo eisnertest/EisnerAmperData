@@ -388,5 +388,23 @@
         "Mic": true,
         "Camera": true,
         "Controller": true
+    },
+    {
+        "Room": "JP Conference Room",
+        "Mic": true,
+        "Camera": true,
+        "Controller": true
+    },
+    {
+        "Room": "Dallas - Main Conference Room",
+        "Mic": true,
+        "Camera": true,
+        "Controller": true
+    },
+    {
+        "Room": "Dallas Training Room",
+        "Mic": false,
+        "Camera": false,
+        "Controller": true
     }
 ]

@@ -74,7 +74,7 @@
         "Mic": false,
         "Camera": false,
         "Controller": false,
-        "Alert": false
+        "Alert": true
     },
     {
         "Room": "MC 7.85",
@@ -249,14 +249,14 @@
         "Mic": true,
         "Camera": true,
         "Controller": false,
-        "Alert": false
+        "Alert": true
     },
     {
         "Room": "Conf 29W 24",
         "Mic": false,
         "Camera": false,
         "Controller": false,
-        "Alert": false
+        "Alert": true
     },
     {
         "Room": "Conf 29E 55",
@@ -270,7 +270,7 @@
         "Mic": false,
         "Camera": true,
         "Controller": true,
-        "Alert": false
+        "Alert": true
     },
     {
         "Room": "Einstein",
@@ -291,7 +291,7 @@
         "Mic": false,
         "Camera": false,
         "Controller": false,
-        "Alert": false
+        "Alert": true
     },
     {
         "Room": "Iron Man",
@@ -340,7 +340,7 @@
         "Mic": false,
         "Camera": false,
         "Controller": false,
-        "Alert": false
+        "Alert": true
     },
     {
         "Room": "Mt. Laurel Conf Rm",
@@ -396,7 +396,7 @@
         "Mic": false,
         "Camera": false,
         "Controller": false,
-        "Alert": false
+        "Alert": true
     },
     {
         "Room": "The Shores",

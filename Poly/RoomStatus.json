@@ -61,9 +61,9 @@
     },
     {
         "Room": "High Line",
-        "Mic": false,
-        "Camera": false,
-        "Controller": false
+        "Mic": true,
+        "Camera": true,
+        "Controller": true
     },
     {
         "Room": "MC 7.85",

@@ -228,7 +228,7 @@
         "Mic": false,
         "Camera": false,
         "Controller": false,
-        "Alert": false
+        "Alert": true
     },
     {
         "Room": "Conf 30W 09",
@@ -249,14 +249,14 @@
         "Mic": true,
         "Camera": true,
         "Controller": false,
-        "Alert": false
+        "Alert": true
     },
     {
         "Room": "Conf 29W 24",
         "Mic": false,
         "Camera": false,
         "Controller": false,
-        "Alert": false
+        "Alert": true
     },
     {
         "Room": "Conf 29E 55",
@@ -270,7 +270,7 @@
         "Mic": false,
         "Camera": true,
         "Controller": true,
-        "Alert": false
+        "Alert": true
     },
     {
         "Room": "Einstein",
@@ -291,7 +291,7 @@
         "Mic": false,
         "Camera": false,
         "Controller": false,
-        "Alert": false
+        "Alert": true
     },
     {
         "Room": "Iron Man",
@@ -333,14 +333,14 @@
         "Mic": false,
         "Camera": false,
         "Controller": false,
-        "Alert": false
+        "Alert": true
     },
     {
         "Room": "Melville Conf RM 2.91",
         "Mic": false,
         "Camera": false,
         "Controller": false,
-        "Alert": false
+        "Alert": true
     },
     {
         "Room": "Mt. Laurel Conf Rm",
@@ -379,8 +379,8 @@
     },
     {
         "Room": "MCC",
-        "Mic": false,
-        "Camera": false,
+        "Mic": true,
+        "Camera": true,
         "Controller": true,
         "Alert": false
     },
@@ -396,7 +396,7 @@
         "Mic": false,
         "Camera": false,
         "Controller": false,
-        "Alert": false
+        "Alert": true
     },
     {
         "Room": "The Shores",

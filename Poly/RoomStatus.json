@@ -193,9 +193,9 @@
     },
     {
         "Room": "MP 6002",
-        "Mic": false,
-        "Camera": false,
-        "Controller": false
+        "Mic": true,
+        "Camera": true,
+        "Controller": true
     },
     {
         "Room": "Conf 30W 09",
@@ -211,8 +211,8 @@
     },
     {
         "Room": "Conf 30E 55",
-        "Mic": true,
-        "Camera": true,
+        "Mic": false,
+        "Camera": false,
         "Controller": false
     },
     {

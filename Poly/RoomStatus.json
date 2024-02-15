@@ -25,7 +25,7 @@
         "Mic": false,
         "Camera": false,
         "Controller": true,
-        "Alert": false
+        "Alert": true
     },
     {
         "Room": "Moma",
@@ -256,7 +256,7 @@
         "Mic": false,
         "Camera": false,
         "Controller": false,
-        "Alert": false
+        "Alert": true
     },
     {
         "Room": "Conf 29E 55",

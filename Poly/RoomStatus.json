@@ -253,8 +253,8 @@
     },
     {
         "Room": "Iron Man",
-        "Mic": true,
-        "Camera": true,
+        "Mic": false,
+        "Camera": false,
         "Controller": true
     },
     {

@@ -25,7 +25,7 @@
         "Mic": false,
         "Camera": false,
         "Controller": true,
-        "Alert": false
+        "Alert": true
     },
     {
         "Room": "Moma",
@@ -263,14 +263,14 @@
         "Mic": false,
         "Camera": false,
         "Controller": false,
-        "Alert": false
+        "Alert": true
     },
     {
         "Room": "Newton",
         "Mic": false,
         "Camera": true,
         "Controller": true,
-        "Alert": false
+        "Alert": true
     },
     {
         "Room": "Einstein",
@@ -298,7 +298,7 @@
         "Mic": false,
         "Camera": false,
         "Controller": true,
-        "Alert": false
+        "Alert": true
     },
     {
         "Room": "Bond007",
@@ -347,7 +347,7 @@
         "Mic": false,
         "Camera": false,
         "Controller": false,
-        "Alert": false
+        "Alert": true
     },
     {
         "Room": "WPB 10th Conf RM",
@@ -358,10 +358,10 @@
     },
     {
         "Room": "Falaknuma",
-        "Mic": true,
-        "Camera": true,
-        "Controller": true,
-        "Alert": false
+        "Mic": false,
+        "Camera": false,
+        "Controller": false,
+        "Alert": true
     },
     {
         "Room": "Koh-i-Noor",

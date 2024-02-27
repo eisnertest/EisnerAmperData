@@ -260,10 +260,10 @@
     },
     {
         "Room": "Conf 29E 55",
-        "Mic": false,
-        "Camera": false,
-        "Controller": false,
-        "Alert": true
+        "Mic": true,
+        "Camera": true,
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "Newton",
@@ -344,10 +344,10 @@
     },
     {
         "Room": "Mt. Laurel Conf Rm",
-        "Mic": false,
-        "Camera": false,
-        "Controller": false,
-        "Alert": true
+        "Mic": true,
+        "Camera": true,
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "WPB 10th Conf RM",
@@ -358,10 +358,10 @@
     },
     {
         "Room": "Falaknuma",
-        "Mic": false,
-        "Camera": false,
-        "Controller": false,
-        "Alert": true
+        "Mic": true,
+        "Camera": true,
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "Koh-i-Noor",

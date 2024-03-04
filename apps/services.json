@@ -67,7 +67,7 @@
     {
         "Service": "Travel",
         "Status": false,
-        "Alert": true
+        "Alert": false
     },
     {
         "Service": "Compleat (TMC Services)",
@@ -77,7 +77,7 @@
     {
         "Service": "Request",
         "Status": false,
-        "Alert": true
+        "Alert": false
     },
     {
         "Service": "Japan - Japan Public Transportation (JPT)",
@@ -87,7 +87,7 @@
     {
         "Service": "Analysis/Intelligence",
         "Status": false,
-        "Alert": true
+        "Alert": false
     },
     {
         "Service": "Japan - e-Bunsho for Invoice",
@@ -102,12 +102,12 @@
     {
         "Service": "Invoice",
         "Status": false,
-        "Alert": true
+        "Alert": false
     },
     {
         "Service": "Expense",
         "Status": false,
-        "Alert": true
+        "Alert": false
     },
     {
         "Service": "Okta",

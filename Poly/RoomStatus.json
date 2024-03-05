@@ -127,8 +127,8 @@
     },
     {
         "Room": "MC 6.52",
-        "Mic": true,
-        "Camera": true,
+        "Mic": false,
+        "Camera": false,
         "Controller": false,
         "Alert": false
     },

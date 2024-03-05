@@ -358,10 +358,10 @@
     },
     {
         "Room": "Falaknuma",
-        "Mic": true,
-        "Camera": true,
-        "Controller": true,
-        "Alert": false
+        "Mic": false,
+        "Camera": false,
+        "Controller": false,
+        "Alert": true
     },
     {
         "Room": "Koh-i-Noor",
@@ -414,10 +414,10 @@
     },
     {
         "Room": "Guruku",
-        "Mic": true,
-        "Camera": true,
+        "Mic": false,
+        "Camera": false,
         "Controller": true,
-        "Alert": false
+        "Alert": true
     },
     {
         "Room": "Anfield",

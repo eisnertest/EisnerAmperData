@@ -351,10 +351,10 @@
     },
     {
         "Room": "WPB 10th Conf RM",
-        "Mic": true,
-        "Camera": true,
-        "Controller": true,
-        "Alert": false
+        "Mic": false,
+        "Camera": false,
+        "Controller": false,
+        "Alert": true
     },
     {
         "Room": "Falaknuma",

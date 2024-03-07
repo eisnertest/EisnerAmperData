@@ -50,10 +50,10 @@
     },
     {
         "Room": "Rock Center",
-        "Mic": false,
-        "Camera": false,
-        "Controller": false,
-        "Alert": true
+        "Mic": true,
+        "Camera": true,
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "MC 8.52",
@@ -85,23 +85,23 @@
     },
     {
         "Room": "Grammercy",
-        "Mic": false,
-        "Camera": false,
-        "Controller": false,
+        "Mic": true,
+        "Camera": true,
+        "Controller": true,
         "Alert": false
     },
     {
         "Room": "Wall St",
-        "Mic": false,
-        "Camera": false,
-        "Controller": false,
+        "Mic": true,
+        "Camera": true,
+        "Controller": true,
         "Alert": false
     },
     {
         "Room": "Liberty",
-        "Mic": false,
-        "Camera": false,
-        "Controller": false,
+        "Mic": true,
+        "Camera": true,
+        "Controller": true,
         "Alert": false
     },
     {
@@ -155,16 +155,16 @@
     },
     {
         "Room": "MP 7310",
-        "Mic": false,
-        "Camera": false,
-        "Controller": false,
+        "Mic": true,
+        "Camera": true,
+        "Controller": true,
         "Alert": false
     },
     {
         "Room": "MP 7202",
-        "Mic": false,
-        "Camera": false,
-        "Controller": false,
+        "Mic": true,
+        "Camera": true,
+        "Controller": true,
         "Alert": false
     },
     {
@@ -353,8 +353,8 @@
         "Room": "WPB 10th Conf RM",
         "Mic": true,
         "Camera": true,
-        "Controller": false,
-        "Alert": true
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "Falaknuma",

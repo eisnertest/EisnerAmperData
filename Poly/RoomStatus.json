@@ -213,8 +213,8 @@
         "Room": "MP 6107",
         "Mic": true,
         "Camera": true,
-        "Controller": true,
-        "Alert": false
+        "Controller": false,
+        "Alert": true
     },
     {
         "Room": "MP 6003",

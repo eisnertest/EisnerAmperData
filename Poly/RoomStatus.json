@@ -18,7 +18,7 @@
         "Mic": false,
         "Camera": false,
         "Controller": true,
-        "Alert": true
+        "Alert": false
     },
     {
         "Room": "Columbus Circle",

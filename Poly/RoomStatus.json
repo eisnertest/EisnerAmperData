@@ -353,7 +353,7 @@
         "Room": "WPB 10th Conf RM",
         "Mic": true,
         "Camera": true,
-        "Controller": false,
+        "Controller": true,
         "Alert": false
     },
     {

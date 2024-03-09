@@ -309,9 +309,9 @@
     },
     {
         "Room": "God Father",
-        "Mic": false,
-        "Camera": false,
-        "Controller": false,
+        "Mic": true,
+        "Camera": true,
+        "Controller": true,
         "Alert": false
     },
     {
@@ -358,10 +358,10 @@
     },
     {
         "Room": "Falaknuma",
-        "Mic": false,
-        "Camera": false,
-        "Controller": false,
-        "Alert": true
+        "Mic": true,
+        "Camera": true,
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "Koh-i-Noor",
@@ -414,10 +414,10 @@
     },
     {
         "Room": "Guruku",
-        "Mic": false,
+        "Mic": true,
         "Camera": true,
         "Controller": true,
-        "Alert": true
+        "Alert": false
     },
     {
         "Room": "Anfield",

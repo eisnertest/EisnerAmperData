@@ -1,10 +1,10 @@
 [
     {
         "Room": "Apollo",
-        "Mic": false,
-        "Camera": false,
-        "Controller": false,
-        "Alert": true
+        "Mic": true,
+        "Camera": true,
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "The Met",
@@ -45,8 +45,8 @@
         "Room": "Bryant Park",
         "Mic": true,
         "Camera": true,
-        "Controller": false,
-        "Alert": true
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "Rock Center",
@@ -66,8 +66,8 @@
         "Room": "Union Square",
         "Mic": true,
         "Camera": true,
-        "Controller": false,
-        "Alert": true
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "High Line",
@@ -206,8 +206,8 @@
         "Room": "MP 6203",
         "Mic": true,
         "Camera": true,
-        "Controller": false,
-        "Alert": true
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "MP 6107",

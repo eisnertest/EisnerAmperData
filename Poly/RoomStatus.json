@@ -50,9 +50,9 @@
     },
     {
         "Room": "Rock Center",
-        "Mic": true,
-        "Camera": true,
-        "Controller": true,
+        "Mic": false,
+        "Camera": false,
+        "Controller": false,
         "Alert": false
     },
     {
@@ -85,24 +85,24 @@
     },
     {
         "Room": "Grammercy",
-        "Mic": true,
-        "Camera": true,
-        "Controller": true,
+        "Mic": false,
+        "Camera": false,
+        "Controller": false,
         "Alert": false
     },
     {
         "Room": "Wall St",
-        "Mic": true,
-        "Camera": true,
-        "Controller": true,
+        "Mic": false,
+        "Camera": false,
+        "Controller": false,
         "Alert": false
     },
     {
         "Room": "Liberty",
-        "Mic": true,
-        "Camera": true,
-        "Controller": true,
-        "Alert": false
+        "Mic": false,
+        "Camera": false,
+        "Controller": false,
+        "Alert": true
     },
     {
         "Room": "Metropark Boardroom",
@@ -129,7 +129,7 @@
         "Room": "MC 6.52",
         "Mic": false,
         "Camera": false,
-        "Controller": true,
+        "Controller": false,
         "Alert": false
     },
     {
@@ -155,17 +155,17 @@
     },
     {
         "Room": "MP 7310",
-        "Mic": true,
-        "Camera": true,
-        "Controller": true,
-        "Alert": false
+        "Mic": false,
+        "Camera": false,
+        "Controller": false,
+        "Alert": true
     },
     {
         "Room": "MP 7202",
-        "Mic": true,
-        "Camera": true,
-        "Controller": true,
-        "Alert": false
+        "Mic": false,
+        "Camera": false,
+        "Controller": false,
+        "Alert": true
     },
     {
         "Room": "MP 7201",

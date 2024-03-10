@@ -22,10 +22,10 @@
     },
     {
         "Room": "Columbus Circle",
-        "Mic": true,
-        "Camera": true,
-        "Controller": true,
-        "Alert": false
+        "Mic": false,
+        "Camera": false,
+        "Controller": false,
+        "Alert": true
     },
     {
         "Room": "Moma",
@@ -73,8 +73,8 @@
         "Room": "High Line",
         "Mic": true,
         "Camera": true,
-        "Controller": true,
-        "Alert": false
+        "Controller": false,
+        "Alert": true
     },
     {
         "Room": "MC 7.85",

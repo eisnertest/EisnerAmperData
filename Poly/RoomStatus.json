@@ -367,8 +367,8 @@
         "Room": "Koh-i-Noor",
         "Mic": true,
         "Camera": true,
-        "Controller": true,
-        "Alert": false
+        "Controller": false,
+        "Alert": true
     },
     {
         "Room": "Woodcliff Lake New Jersey",

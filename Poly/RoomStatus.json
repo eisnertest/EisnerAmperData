@@ -367,7 +367,7 @@
         "Room": "Koh-i-Noor",
         "Mic": true,
         "Camera": true,
-        "Controller": false,
+        "Controller": true,
         "Alert": false
     },
     {

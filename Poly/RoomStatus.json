@@ -414,10 +414,10 @@
     },
     {
         "Room": "Guruku",
-        "Mic": false,
+        "Mic": true,
         "Camera": true,
         "Controller": true,
-        "Alert": true
+        "Alert": false
     },
     {
         "Room": "Anfield",

@@ -444,7 +444,7 @@
         "Room": "CampNou",
         "Mic": true,
         "Camera": true,
-        "Controller": true,
+        "Controller": false,
         "Alert": false
     },
     {

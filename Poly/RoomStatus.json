@@ -232,10 +232,10 @@
     },
     {
         "Room": "Conf 30W 09",
-        "Mic": true,
-        "Camera": true,
-        "Controller": true,
-        "Alert": false
+        "Mic": false,
+        "Camera": false,
+        "Controller": false,
+        "Alert": true
     },
     {
         "Room": "Conf 30E 02",

@@ -211,10 +211,10 @@
     },
     {
         "Room": "MP 6107",
-        "Mic": false,
-        "Camera": false,
-        "Controller": false,
-        "Alert": true
+        "Mic": true,
+        "Camera": true,
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "MP 6003",

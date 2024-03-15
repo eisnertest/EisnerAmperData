@@ -268,8 +268,8 @@
     {
         "Room": "Newton",
         "Mic": false,
-        "Camera": true,
-        "Controller": true,
+        "Camera": false,
+        "Controller": false,
         "Alert": false
     },
     {

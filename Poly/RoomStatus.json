@@ -36,10 +36,10 @@
     },
     {
         "Room": "MC 9.52",
-        "Mic": true,
-        "Camera": true,
-        "Controller": true,
-        "Alert": false
+        "Mic": false,
+        "Camera": false,
+        "Controller": false,
+        "Alert": true
     },
     {
         "Room": "Bryant Park",
@@ -130,7 +130,7 @@
         "Mic": false,
         "Camera": false,
         "Controller": true,
-        "Alert": true
+        "Alert": false
     },
     {
         "Room": "MP 8322",
@@ -235,7 +235,7 @@
         "Mic": false,
         "Camera": false,
         "Controller": false,
-        "Alert": true
+        "Alert": false
     },
     {
         "Room": "Conf 30E 02",
@@ -256,21 +256,21 @@
         "Mic": false,
         "Camera": false,
         "Controller": false,
-        "Alert": true
+        "Alert": false
     },
     {
         "Room": "Conf 29E 55",
         "Mic": false,
         "Camera": false,
         "Controller": false,
-        "Alert": true
+        "Alert": false
     },
     {
         "Room": "Newton",
         "Mic": false,
         "Camera": true,
         "Controller": true,
-        "Alert": true
+        "Alert": false
     },
     {
         "Room": "Einstein",
@@ -392,6 +392,13 @@
         "Alert": false
     },
     {
+        "Room": "Glickman",
+        "Mic": true,
+        "Camera": true,
+        "Controller": true,
+        "Alert": false
+    },
+    {
         "Room": "Eiger Room",
         "Mic": true,
         "Camera": true,
@@ -438,7 +445,7 @@
         "Mic": false,
         "Camera": false,
         "Controller": false,
-        "Alert": true
+        "Alert": false
     },
     {
         "Room": "CampNou",

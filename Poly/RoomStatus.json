@@ -107,9 +107,9 @@
     {
         "Room": "Metropark Boardroom",
         "Mic": true,
-        "Camera": true,
+        "Camera": false,
         "Controller": true,
-        "Alert": false
+        "Alert": true
     },
     {
         "Room": "MP TR A",

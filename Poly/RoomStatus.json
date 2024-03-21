@@ -66,8 +66,8 @@
         "Room": "Union Square",
         "Mic": true,
         "Camera": true,
-        "Controller": true,
-        "Alert": false
+        "Controller": false,
+        "Alert": true
     },
     {
         "Room": "High Line",

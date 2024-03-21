@@ -268,7 +268,7 @@
     {
         "Room": "Newton",
         "Mic": false,
-        "Camera": true,
+        "Camera": false,
         "Controller": true,
         "Alert": false
     },

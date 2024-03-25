@@ -1,9 +1,9 @@
 [
     {
-        "Room": "NJ MP Test7366 7th floor",
+        "Room": "NJ MP 7366 7th floor",
         "Mic": false,
         "Camera": false,
         "Controller": false,
-        "Alert": false
+        "Alert": true
     }
 ]

@@ -1,5 +1,76 @@
 "timestamp", "Room", "message"
 "timestamp", "Room", "message"
+2024-03-25 13:04:25, Dallas Training Room, 1
+2024-03-25 13:04:25, Dallas Main Conference Room, 1
+2024-03-25 13:04:25, Dallas JP Conference Room, 1
+2024-03-25 13:04:25, Bangalore Eden, 1
+2024-03-25 13:04:25, Bangalore CampNou, 1
+2024-03-25 13:04:25, Bangalore SanSiro, 0
+2024-03-25 13:04:25, Bangalore OldTrafford, 1
+2024-03-25 13:04:25, Bangalore Anfield, 0
+2024-03-25 13:04:25, Bangalore Guruku, 0
+2024-03-25 13:04:25, CA La Jolla The Cove, 1
+2024-03-25 13:04:25, CA La Jolla The Shores, 1
+2024-03-25 13:04:25, MN Eiger Room, 1
+2024-03-25 13:04:25, MN Glickman, 1
+2024-03-25 13:04:25, MN Boardroom, 1
+2024-03-25 13:04:25, MN Lurie Room MCC, 1
+2024-03-25 13:04:25, NJ Woodcliff Lake New Jersey, 1
+2024-03-25 13:04:25, Hyderabad Koh-i-Noor, 1
+2024-03-25 13:04:25, Hyderabad Falaknuma, 1
+2024-03-25 13:04:25, FL West Palm Beach Large Tax Conference, 1
+2024-03-25 13:04:25, FL West Palm Beach Audit Tax Conference, 1
+2024-03-25 13:04:25, FL West Palm Beach WPB 10th Conf RM, 1
+2024-03-25 13:04:25, NJ Mt. Laurel Conf Rm, 0
+2024-03-25 13:04:25, NY Melville Conf RM 2.91, 1
+2024-03-25 13:04:25, NY Melville Conf RM 2.90, 1
+2024-03-25 13:04:25, NY Melville Conf RM 2.89, 1
+2024-03-25 13:04:25, NY Melville Conf RM 2.14, 1
+2024-03-25 13:04:25, Mumbai God Father, 1
+2024-03-25 13:04:25, Mumbai Bond007, 1
+2024-03-25 13:04:25, Mumbai Iron Man, 1
+2024-03-25 13:04:25, Mumbai Darth Vader, 1
+2024-03-25 13:04:25, Mumbai War Room, 1
+2024-03-25 13:04:25, Mumbai Einstein, 0
+2024-03-25 13:04:25, Mumbai Newton, 0
+2024-03-25 13:04:25, PA Philly Conf 29E 55, 0
+2024-03-25 13:04:25, PA Philly Conf 29W 24, 0
+2024-03-25 13:04:25, PA Philly Conf 30E 55, 1
+2024-03-25 13:04:25, PA Philly Conf 30E 02, 1
+2024-03-25 13:04:25, PA Philly Conf 30W 09, 0
+2024-03-25 13:04:25, NJ MP 6002 6th floor, 1
+2024-03-25 13:04:25, NJ MP 6003 6th floor, 1
+2024-03-25 13:04:25, NJ MP 6107 6th floor, 1
+2024-03-25 13:04:25, NJ MP 6203 6th floor, 1
+2024-03-25 13:04:25, NJ MP 6255 6th floor, 1
+2024-03-25 13:04:25, NJ MP 6309 6th floor, 1
+2024-03-25 13:04:25, NJ MP 6310 6th floor, 1
+2024-03-25 13:04:25, NJ MP 7107 7th floor, 1
+2024-03-25 13:04:25, NJ MP 7201 7th floor, 1
+2024-03-25 13:04:25, NJ MP 7202 7th floor, 1
+2024-03-25 13:04:25, NJ MP 7310 7th floor, 1
+2024-03-25 13:04:25, NJ MP 7366 7th floor, 0
+2024-03-25 13:04:25, NJ MP 8309 8th floor, 1
+2024-03-25 13:04:25, NJ MP 8322 8th floor, 1
+2024-03-25 13:04:25, NJ MP TR B 1st floor, 0
+2024-03-25 13:04:25, NJ MP TR A 1st floor, 0
+2024-03-25 13:04:25, NJ Metropark Boardroom 6th floor, 1
+2024-03-25 13:04:25, NYC MC 6.52 6th floor, 0
+2024-03-25 13:04:25, NYC Liberty 6th floor, 1
+2024-03-25 13:04:25, NYC Wall St 6th floor, 1
+2024-03-25 13:04:25, NYC Grammercy 7th floor, 1
+2024-03-25 13:04:25, NYC MC 7.85 7th floor, 1
+2024-03-25 13:04:25, NYC High Line 7th floor, 1
+2024-03-25 13:04:25, NYC Union Square 7th floor, 1
+2024-03-25 13:04:25, NYC MC 8.52 8th floor, 1
+2024-03-25 13:04:25, NYC Rock Center 8th floor, 1
+2024-03-25 13:04:25, NYC Bryant Park 8th floor, 1
+2024-03-25 13:04:25, NYC MC 9.52 9th floor, 0
+2024-03-25 13:04:25, NYC Moma 9th floor, 1
+2024-03-25 13:04:25, NYC Columbus Circle 9th floor, 1
+2024-03-25 13:04:25, NYC MC 10.52 10th floor, 1
+2024-03-25 13:04:25, NYC The Met 10th floor, 1
+2024-03-25 13:04:25, NYC Apollo 10th floor, 1
 2024-03-25 12:54:22, Dallas Training Room, 1
 2024-03-25 12:54:22, Dallas Main Conference Room, 1
 2024-03-25 12:54:22, Dallas JP Conference Room, 1
@@ -929,74 +1000,3 @@
 2024-03-21 10:33:36, Eiger Room, 1
 2024-03-21 10:33:36, Glickman, 1
 2024-03-21 10:33:36, Minneapolis Boardroom, 1
-2024-03-21 10:33:36, MCC, 1
-2024-03-21 10:33:36, Woodcliff Lake New Jersey, 1
-2024-03-21 10:33:36, Koh-i-Noor, 1
-2024-03-21 10:33:36, Falaknuma, 1
-2024-03-21 10:33:36, WPB 10th Conf RM, 1
-2024-03-21 10:33:36, Mt. Laurel Conf Rm, 1
-2024-03-21 10:33:36, Melville Conf RM 2.91, 1
-2024-03-21 10:33:36, Melville Conf RM 2.90, 1
-2024-03-21 10:33:36, Melville Conf RM 2.89, 1
-2024-03-21 10:33:36, Melville Conf RM 2.14, 1
-2024-03-21 10:33:36, God Father, 1
-2024-03-21 10:33:36, Bond007, 1
-2024-03-21 10:33:36, Iron Man, 1
-2024-03-21 10:33:36, Darth Vader, 1
-2024-03-21 10:33:36, War Room, 1
-2024-03-21 10:33:36, Einstein, 1
-2024-03-21 10:33:36, Newton, 0
-2024-03-21 10:33:36, Conf 29E 55, 0
-2024-03-21 10:33:36, Conf 29W 24, 0
-2024-03-21 10:33:36, Conf 30E 55, 1
-2024-03-21 10:33:36, Conf 30E 02, 1
-2024-03-21 10:33:36, Conf 30W 09, 0
-2024-03-21 10:33:36, MP 6002, 1
-2024-03-21 10:33:36, MP 6003, 1
-2024-03-21 10:33:36, MP 6107, 1
-2024-03-21 10:33:36, MP 6203, 1
-2024-03-21 10:33:36, MP 6255, 1
-2024-03-21 10:33:36, MP 6309, 1
-2024-03-21 10:33:36, MP 6310, 1
-2024-03-21 10:33:36, MP 7107, 1
-2024-03-21 10:33:36, MP 7201, 1
-2024-03-21 10:33:36, MP 7202, 1
-2024-03-21 10:33:36, MP 7310, 1
-2024-03-21 10:33:36, MP 7366, 1
-2024-03-21 10:33:36, MP 8309, 1
-2024-03-21 10:33:36, MP 8322, 1
-2024-03-21 10:33:36, MC 6.52, 0
-2024-03-21 10:33:36, MP TR B, 1
-2024-03-21 10:33:36, MP TR A, 1
-2024-03-21 10:33:36, Metropark Boardroom, 1
-2024-03-21 10:33:36, Liberty, 1
-2024-03-21 10:33:36, Wall St, 1
-2024-03-21 10:33:36, Grammercy, 1
-2024-03-21 10:33:36, MC 7.85, 1
-2024-03-21 10:33:36, High Line, 1
-2024-03-21 10:33:36, Union Square, 1
-2024-03-21 10:33:36, MC 8.52, 1
-2024-03-21 10:33:36, Rock Center, 1
-2024-03-21 10:33:36, Bryant Park, 1
-2024-03-21 10:33:36, MC 9.52, 0
-2024-03-21 10:33:36, Moma, 1
-2024-03-21 10:33:36, Columbus Circle, 1
-2024-03-21 10:33:36, MC 10.52, 1
-2024-03-21 10:33:36, The Met, 1
-2024-03-21 10:33:36, Apollo, 1
-2024-03-21 10:23:37, Dallas Training Room, 1
-2024-03-21 10:23:37, Dallas - Main Conference Room, 1
-2024-03-21 10:23:37, JP Conference Room, 1
-2024-03-21 10:23:37, Eden, 1
-2024-03-21 10:23:37, CampNou, 1
-2024-03-21 10:23:37, SanSiro, 0
-2024-03-21 10:23:37, OldTrafford, 1
-2024-03-21 10:23:37, Anfield, 1
-2024-03-21 10:23:37, Guruku, 1
-2024-03-21 10:23:37, The Cove, 1
-2024-03-21 10:23:37, The Shores, 1
-2024-03-21 10:23:37, Eiger Room, 1
-2024-03-21 10:23:37, Glickman, 1
-2024-03-21 10:23:37, Minneapolis Boardroom, 1
-2024-03-21 10:23:37, MCC, 1
-2024-03-21 10:23:37, Woodcliff Lake New Jersey, 1

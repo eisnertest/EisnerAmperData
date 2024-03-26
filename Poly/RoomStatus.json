@@ -147,11 +147,11 @@
         "Alert": false
     },
     {
-        "Room": "Test 7366 7th floor",
+        "Room": "Test2 7366 7th floor",
         "Mic": false,
         "Camera": false,
         "Controller": false,
-        "Alert": false
+        "Alert": true
     },
     {
         "Room": "NJ MP 7310 7th floor",
@@ -347,7 +347,7 @@
         "Mic": false,
         "Camera": false,
         "Controller": false,
-        "Alert": false
+        "Alert": true
     },
     {
         "Room": "FL West Palm Beach WPB 10th Conf RM",

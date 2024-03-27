@@ -42,7 +42,7 @@
     {
         "Service": "TeamsforLife",
         "Status": false,
-        "Alert": false
+        "Alert": true
     },
     {
         "Service": "ConsumerList",

@@ -39,7 +39,7 @@
         "Mic": false,
         "Camera": false,
         "Controller": false,
-        "Alert": false
+        "Alert": true
     },
     {
         "Room": "NYC Bryant Park 8th floor",
@@ -109,7 +109,7 @@
         "Mic": false,
         "Camera": false,
         "Controller": true,
-        "Alert": false
+        "Alert": true
     },
     {
         "Room": "NJ Metropark Boardroom 6th floor",
@@ -123,14 +123,14 @@
         "Mic": false,
         "Camera": true,
         "Controller": true,
-        "Alert": false
+        "Alert": true
     },
     {
         "Room": "NJ MP TR B 1st floor",
         "Mic": false,
         "Camera": true,
         "Controller": true,
-        "Alert": false
+        "Alert": true
     },
     {
         "Room": "NJ MP 8322 8th floor",
@@ -235,7 +235,7 @@
         "Mic": false,
         "Camera": false,
         "Controller": false,
-        "Alert": false
+        "Alert": true
     },
     {
         "Room": "PA Philly Conf 30E 02",
@@ -256,28 +256,28 @@
         "Mic": false,
         "Camera": false,
         "Controller": false,
-        "Alert": false
+        "Alert": true
     },
     {
         "Room": "PA Philly Conf 29E 55",
         "Mic": false,
         "Camera": false,
         "Controller": false,
-        "Alert": false
+        "Alert": true
     },
     {
         "Room": "Mumbai Newton",
         "Mic": false,
         "Camera": false,
         "Controller": true,
-        "Alert": false
+        "Alert": true
     },
     {
         "Room": "Mumbai Einstein",
         "Mic": false,
         "Camera": true,
         "Controller": true,
-        "Alert": false
+        "Alert": true
     },
     {
         "Room": "Mumbai War Room",
@@ -438,14 +438,14 @@
         "Mic": false,
         "Camera": false,
         "Controller": true,
-        "Alert": false
+        "Alert": true
     },
     {
         "Room": "Bangalore Anfield",
         "Mic": false,
         "Camera": false,
         "Controller": true,
-        "Alert": false
+        "Alert": true
     },
     {
         "Room": "Bangalore OldTrafford",
@@ -459,7 +459,7 @@
         "Mic": false,
         "Camera": false,
         "Controller": false,
-        "Alert": false
+        "Alert": true
     },
     {
         "Room": "Bangalore CampNou",

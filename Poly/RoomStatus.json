@@ -162,10 +162,10 @@
     },
     {
         "Room": "NJ MP 7202 7th floor",
-        "Mic": true,
-        "Camera": true,
-        "Controller": true,
-        "Alert": false
+        "Mic": false,
+        "Camera": false,
+        "Controller": false,
+        "Alert": true
     },
     {
         "Room": "NJ MP 7201 7th floor",
@@ -351,10 +351,10 @@
     },
     {
         "Room": "FL West Palm Beach WPB 10th Conf RM",
-        "Mic": true,
-        "Camera": true,
-        "Controller": true,
-        "Alert": false
+        "Mic": false,
+        "Camera": false,
+        "Controller": false,
+        "Alert": true
     },
     {
         "Room": "FL West Palm Beach Audit Tax Conference",

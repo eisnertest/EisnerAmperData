@@ -51,7 +51,7 @@
     },
     {
         "Service": "Replicon",
-        "Status": false,
+        "Status": true,
         "Alert": false
     },
     {

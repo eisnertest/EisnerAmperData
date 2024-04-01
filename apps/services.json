@@ -61,8 +61,8 @@
     },
     {
         "Service": "Japan - e-Bunsho for Expense",
-        "Status": true,
-        "Alert": false
+        "Status": false,
+        "Alert": true
     },
     {
         "Service": "Travel",
@@ -106,7 +106,7 @@
     },
     {
         "Service": "Expense",
-        "Status": false,
+        "Status": true,
         "Alert": false
     },
     {

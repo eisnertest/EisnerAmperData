@@ -353,8 +353,8 @@
         "Room": "FL West Palm Beach WPB 10th Conf RM",
         "Mic": true,
         "Camera": true,
-        "Controller": false,
-        "Alert": true
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "FL West Palm Beach Audit Tax Conference",

@@ -61,7 +61,7 @@
     },
     {
         "Service": "Japan - e-Bunsho for Expense",
-        "Status": false,
+        "Status": true,
         "Alert": false
     },
     {
@@ -91,7 +91,7 @@
     },
     {
         "Service": "Japan - e-Bunsho for Invoice",
-        "Status": false,
+        "Status": true,
         "Alert": false
     },
     {

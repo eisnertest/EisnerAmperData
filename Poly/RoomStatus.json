@@ -52,7 +52,7 @@
         "Room": "NYC Rock Center 8th floor",
         "Mic": true,
         "Camera": true,
-        "Controller": false,
+        "Controller": true,
         "Alert": false
     },
     {

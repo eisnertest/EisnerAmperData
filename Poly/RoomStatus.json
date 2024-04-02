@@ -66,8 +66,8 @@
         "Room": "NYC Union Square 7th floor",
         "Mic": true,
         "Camera": true,
-        "Controller": true,
-        "Alert": false
+        "Controller": false,
+        "Alert": true
     },
     {
         "Room": "NYC High Line 7th floor",
@@ -155,10 +155,10 @@
     },
     {
         "Room": "NJ MP 7310 7th floor",
-        "Mic": false,
-        "Camera": false,
-        "Controller": false,
-        "Alert": true
+        "Mic": true,
+        "Camera": true,
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "NJ MP 7202 7th floor",

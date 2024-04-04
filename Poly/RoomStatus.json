@@ -162,10 +162,10 @@
     },
     {
         "Room": "NJ MP 7202 7th floor",
-        "Mic": true,
-        "Camera": true,
-        "Controller": true,
-        "Alert": false
+        "Mic": false,
+        "Camera": false,
+        "Controller": false,
+        "Alert": true
     },
     {
         "Room": "NJ MP 7201 7th floor",
@@ -204,10 +204,10 @@
     },
     {
         "Room": "NJ MP 6203 6th floor",
-        "Mic": true,
-        "Camera": true,
-        "Controller": true,
-        "Alert": false
+        "Mic": false,
+        "Camera": false,
+        "Controller": false,
+        "Alert": true
     },
     {
         "Room": "NJ MP 6107 6th floor",

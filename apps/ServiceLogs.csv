@@ -1,5 +1,51 @@
 "timestamp", "Service", "message"
 "timestamp", "Service", "message"
+2024-04-04 21:19:23, Okta, 0
+2024-04-04 21:19:23, Expense, 0
+2024-04-04 21:19:23, Invoice, 0
+2024-04-04 21:19:23, Imaging, 0
+2024-04-04 21:19:23, Japan - e-Bunsho for Invoice, 0
+2024-04-04 21:19:23, Analysis/Intelligence, 0
+2024-04-04 21:19:23, Japan - Japan Public Transportation (JPT), 0
+2024-04-04 21:19:23, Request, 0
+2024-04-04 21:19:23, Compleat (TMC Services), 0
+2024-04-04 21:19:23, Travel, 0
+2024-04-04 21:19:23, Japan - e-Bunsho for Expense, 0
+2024-04-04 21:19:23, Mobile, 0
+2024-04-04 21:19:23, Replicon, 0
+2024-04-04 21:19:23, ConsumerList, 0
+2024-04-04 21:19:23, TeamsforLife, 1
+2024-04-04 21:19:23, YourPhone, 0
+2024-04-04 21:19:23, Whiteboard, 0
+2024-04-04 21:19:23, OfficeOnlineConsumer, 0
+2024-04-04 21:19:23, Skype, 0
+2024-04-04 21:19:23, microsofttodo, 0
+2024-04-04 21:19:23, OneDriveConsumer, 0
+2024-04-04 21:19:23, Outlook.com, 0
+2024-04-04 21:19:23, M365Consumer, 0
+2024-04-04 21:19:22, Okta, 0
+2024-04-04 21:19:22, Expense, 0
+2024-04-04 21:19:22, Invoice, 0
+2024-04-04 21:19:22, Imaging, 0
+2024-04-04 21:19:22, Japan - e-Bunsho for Invoice, 0
+2024-04-04 21:19:22, Analysis/Intelligence, 0
+2024-04-04 21:19:22, Japan - Japan Public Transportation (JPT), 0
+2024-04-04 21:19:22, Request, 0
+2024-04-04 21:19:22, Compleat (TMC Services), 0
+2024-04-04 21:19:22, Travel, 0
+2024-04-04 21:19:22, Japan - e-Bunsho for Expense, 0
+2024-04-04 21:19:22, Mobile, 0
+2024-04-04 21:19:22, Replicon, 0
+2024-04-04 21:19:22, ConsumerList, 0
+2024-04-04 21:19:22, TeamsforLife, 1
+2024-04-04 21:19:22, YourPhone, 0
+2024-04-04 21:19:22, Whiteboard, 0
+2024-04-04 21:19:22, OfficeOnlineConsumer, 0
+2024-04-04 21:19:22, Skype, 0
+2024-04-04 21:19:22, microsofttodo, 0
+2024-04-04 21:19:22, OneDriveConsumer, 0
+2024-04-04 21:19:22, Outlook.com, 0
+2024-04-04 21:19:22, M365Consumer, 0
 2024-04-04 21:09:23, Okta, 0
 2024-04-04 21:09:23, Expense, 0
 2024-04-04 21:09:23, Invoice, 0
@@ -954,49 +1000,3 @@
 2024-04-04 12:54:44, Compleat (TMC Services), 0
 2024-04-04 12:54:44, Travel, 0
 2024-04-04 12:54:44, Japan - e-Bunsho for Expense, 0
-2024-04-04 12:54:44, Mobile, 0
-2024-04-04 12:54:44, Replicon, 0
-2024-04-04 12:54:44, ConsumerList, 0
-2024-04-04 12:54:44, TeamsforLife, 1
-2024-04-04 12:54:44, YourPhone, 0
-2024-04-04 12:54:44, Whiteboard, 0
-2024-04-04 12:54:44, OfficeOnlineConsumer, 0
-2024-04-04 12:54:44, Skype, 0
-2024-04-04 12:54:44, microsofttodo, 0
-2024-04-04 12:54:44, OneDriveConsumer, 0
-2024-04-04 12:54:44, Outlook.com, 0
-2024-04-04 12:54:44, M365Consumer, 0
-2024-04-04 12:44:43, Okta, 0
-2024-04-04 12:44:43, Expense, 0
-2024-04-04 12:44:43, Invoice, 0
-2024-04-04 12:44:43, Imaging, 0
-2024-04-04 12:44:43, Japan - e-Bunsho for Invoice, 0
-2024-04-04 12:44:43, Analysis/Intelligence, 0
-2024-04-04 12:44:43, Japan - Japan Public Transportation (JPT), 0
-2024-04-04 12:44:43, Request, 0
-2024-04-04 12:44:43, Compleat (TMC Services), 0
-2024-04-04 12:44:43, Travel, 0
-2024-04-04 12:44:43, Japan - e-Bunsho for Expense, 0
-2024-04-04 12:44:43, Mobile, 0
-2024-04-04 12:44:43, Replicon, 0
-2024-04-04 12:44:43, ConsumerList, 0
-2024-04-04 12:44:43, TeamsforLife, 1
-2024-04-04 12:44:43, YourPhone, 0
-2024-04-04 12:44:43, Whiteboard, 0
-2024-04-04 12:44:43, OfficeOnlineConsumer, 0
-2024-04-04 12:44:43, Skype, 0
-2024-04-04 12:44:43, microsofttodo, 0
-2024-04-04 12:44:43, OneDriveConsumer, 0
-2024-04-04 12:44:43, Outlook.com, 0
-2024-04-04 12:44:43, M365Consumer, 0
-2024-04-04 12:34:43, Okta, 0
-2024-04-04 12:34:43, Expense, 0
-2024-04-04 12:34:43, Invoice, 0
-2024-04-04 12:34:43, Imaging, 0
-2024-04-04 12:34:43, Japan - e-Bunsho for Invoice, 0
-2024-04-04 12:34:43, Analysis/Intelligence, 0
-2024-04-04 12:34:43, Japan - Japan Public Transportation (JPT), 0
-2024-04-04 12:34:43, Request, 0
-2024-04-04 12:34:43, Compleat (TMC Services), 0
-2024-04-04 12:34:43, Travel, 0
-2024-04-04 12:34:43, Japan - e-Bunsho for Expense, 0

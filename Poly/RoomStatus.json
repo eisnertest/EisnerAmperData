@@ -290,8 +290,8 @@
         "Room": "Mumbai Darth Vader",
         "Mic": true,
         "Camera": true,
-        "Controller": true,
-        "Alert": false
+        "Controller": false,
+        "Alert": true
     },
     {
         "Room": "Mumbai Iron Man",
@@ -302,17 +302,17 @@
     },
     {
         "Room": "Mumbai Bond007",
-        "Mic": true,
-        "Camera": true,
-        "Controller": true,
-        "Alert": false
+        "Mic": false,
+        "Camera": false,
+        "Controller": false,
+        "Alert": true
     },
     {
         "Room": "Mumbai God Father",
-        "Mic": true,
-        "Camera": true,
-        "Controller": true,
-        "Alert": false
+        "Mic": false,
+        "Camera": false,
+        "Controller": false,
+        "Alert": true
     },
     {
         "Room": "NY Melville Conf RM 2.14",
@@ -346,8 +346,8 @@
         "Room": "NJ Mt. Laurel Conf Rm",
         "Mic": true,
         "Camera": true,
-        "Controller": true,
-        "Alert": false
+        "Controller": false,
+        "Alert": true
     },
     {
         "Room": "FL West Palm Beach WPB 10th Conf RM",

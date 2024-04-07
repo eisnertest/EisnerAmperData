@@ -288,9 +288,9 @@
     },
     {
         "Room": "Mumbai Darth Vader",
-        "Mic": true,
-        "Camera": true,
-        "Controller": true,
+        "Mic": false,
+        "Camera": false,
+        "Controller": false,
         "Alert": false
     },
     {
@@ -374,8 +374,8 @@
         "Room": "Hyderabad Falaknuma",
         "Mic": true,
         "Camera": true,
-        "Controller": false,
-        "Alert": true
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "Hyderabad Koh-i-Noor",

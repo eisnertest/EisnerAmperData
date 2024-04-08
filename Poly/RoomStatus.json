@@ -92,10 +92,10 @@
     },
     {
         "Room": "NYC Wall St 6th floor",
-        "Mic": false,
-        "Camera": false,
+        "Mic": true,
+        "Camera": true,
         "Controller": false,
-        "Alert": true
+        "Alert": false
     },
     {
         "Room": "NYC Liberty 6th floor",

@@ -94,7 +94,7 @@
         "Room": "NYC Wall St 6th floor",
         "Mic": true,
         "Camera": true,
-        "Controller": true,
+        "Controller": false,
         "Alert": false
     },
     {

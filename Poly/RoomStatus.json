@@ -53,7 +53,7 @@
         "Mic": true,
         "Camera": true,
         "Controller": false,
-        "Alert": true
+        "Alert": false
     },
     {
         "Room": "NYC MC 8.52 8th floor",

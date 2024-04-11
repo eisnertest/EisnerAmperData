@@ -87,7 +87,7 @@
     {
         "Service": "Analysis/Intelligence",
         "Status": false,
-        "Alert": true
+        "Alert": false
     },
     {
         "Service": "Japan - e-Bunsho for Invoice",

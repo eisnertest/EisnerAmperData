@@ -288,10 +288,10 @@
     },
     {
         "Room": "Mumbai Darth Vader",
-        "Mic": true,
-        "Camera": true,
-        "Controller": true,
-        "Alert": false
+        "Mic": false,
+        "Camera": false,
+        "Controller": false,
+        "Alert": true
     },
     {
         "Room": "Mumbai Iron Man",
@@ -465,8 +465,8 @@
         "Room": "Bangalore CampNou",
         "Mic": true,
         "Camera": true,
-        "Controller": false,
-        "Alert": true
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "Bangalore Eden",

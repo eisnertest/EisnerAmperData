@@ -367,8 +367,8 @@
         "Room": "FL West Palm Beach Large Tax Conference",
         "Mic": true,
         "Camera": true,
-        "Controller": true,
-        "Alert": false
+        "Controller": false,
+        "Alert": true
     },
     {
         "Room": "Hyderabad Falaknuma",

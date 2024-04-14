@@ -449,8 +449,8 @@
     },
     {
         "Room": "Bangalore OldTrafford",
-        "Mic": false,
-        "Camera": false,
+        "Mic": true,
+        "Camera": true,
         "Controller": false,
         "Alert": false
     },
@@ -470,8 +470,8 @@
     },
     {
         "Room": "Bangalore Eden",
-        "Mic": true,
-        "Camera": true,
+        "Mic": false,
+        "Camera": false,
         "Controller": false,
         "Alert": false
     },

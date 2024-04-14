@@ -246,8 +246,8 @@
     },
     {
         "Room": "PA Philly Conf 30E 55",
-        "Mic": true,
-        "Camera": true,
+        "Mic": false,
+        "Camera": false,
         "Controller": false,
         "Alert": false
     },

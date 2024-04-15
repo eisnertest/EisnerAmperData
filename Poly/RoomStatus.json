@@ -288,10 +288,10 @@
     },
     {
         "Room": "Mumbai Darth Vader",
-        "Mic": false,
-        "Camera": false,
-        "Controller": false,
-        "Alert": true
+        "Mic": true,
+        "Camera": true,
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "Mumbai Iron Man",
@@ -372,10 +372,10 @@
     },
     {
         "Room": "Hyderabad Falaknuma",
-        "Mic": false,
-        "Camera": false,
-        "Controller": false,
-        "Alert": true
+        "Mic": true,
+        "Camera": true,
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "Hyderabad Koh-i-Noor",

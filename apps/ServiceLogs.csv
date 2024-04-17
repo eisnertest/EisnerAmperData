@@ -1,5 +1,28 @@
 "timestamp", "Service", "message"
 "timestamp", "Service", "message"
+2024-04-17 00:03:11, Okta, 1
+2024-04-17 00:03:11, Expense, 0
+2024-04-17 00:03:11, Invoice, 0
+2024-04-17 00:03:11, Imaging, 0
+2024-04-17 00:03:11, Japan - e-Bunsho for Invoice, 0
+2024-04-17 00:03:11, Analysis/Intelligence, 0
+2024-04-17 00:03:11, Japan - Japan Public Transportation (JPT), 0
+2024-04-17 00:03:11, Request, 0
+2024-04-17 00:03:11, Compleat (TMC Services), 0
+2024-04-17 00:03:11, Travel, 0
+2024-04-17 00:03:11, Japan - e-Bunsho for Expense, 0
+2024-04-17 00:03:11, Mobile, 0
+2024-04-17 00:03:11, Replicon, 0
+2024-04-17 00:03:11, ConsumerList, 0
+2024-04-17 00:03:11, TeamsforLife, 0
+2024-04-17 00:03:11, YourPhone, 0
+2024-04-17 00:03:11, Whiteboard, 0
+2024-04-17 00:03:11, OfficeOnlineConsumer, 0
+2024-04-17 00:03:11, Skype, 0
+2024-04-17 00:03:11, microsofttodo, 0
+2024-04-17 00:03:11, OneDriveConsumer, 0
+2024-04-17 00:03:11, Outlook.com, 0
+2024-04-17 00:03:11, M365Consumer, 0
 2024-04-16 23:18:11, Okta, 1
 2024-04-16 23:18:11, Expense, 0
 2024-04-16 23:18:11, Invoice, 0
@@ -977,26 +1000,3 @@
 2024-04-16 14:43:04, Compleat (TMC Services), 0
 2024-04-16 14:43:04, Travel, 0
 2024-04-16 14:43:04, Japan - e-Bunsho for Expense, 0
-2024-04-16 14:43:04, Mobile, 0
-2024-04-16 14:43:04, Replicon, 0
-2024-04-16 14:43:04, ConsumerList, 0
-2024-04-16 14:43:04, TeamsforLife, 0
-2024-04-16 14:43:04, YourPhone, 0
-2024-04-16 14:43:04, Whiteboard, 0
-2024-04-16 14:43:04, OfficeOnlineConsumer, 0
-2024-04-16 14:43:04, Skype, 0
-2024-04-16 14:43:04, microsofttodo, 0
-2024-04-16 14:43:04, OneDriveConsumer, 0
-2024-04-16 14:43:04, Outlook.com, 0
-2024-04-16 14:43:04, M365Consumer, 0
-2024-04-16 14:33:08, Okta, 0
-2024-04-16 14:33:08, Expense, 0
-2024-04-16 14:33:08, Invoice, 0
-2024-04-16 14:33:08, Imaging, 0
-2024-04-16 14:33:08, Japan - e-Bunsho for Invoice, 0
-2024-04-16 14:33:08, Analysis/Intelligence, 0
-2024-04-16 14:33:08, Japan - Japan Public Transportation (JPT), 0
-2024-04-16 14:33:08, Request, 0
-2024-04-16 14:33:08, Compleat (TMC Services), 0
-2024-04-16 14:33:08, Travel, 0
-2024-04-16 14:33:08, Japan - e-Bunsho for Expense, 0

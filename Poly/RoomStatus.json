@@ -388,8 +388,8 @@
         "Room": "NJ Woodcliff Lake New Jersey",
         "Mic": true,
         "Camera": true,
-        "Controller": true,
-        "Alert": false
+        "Controller": false,
+        "Alert": true
     },
     {
         "Room": "MN Lurie Room MCC",

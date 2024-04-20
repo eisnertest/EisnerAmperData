@@ -295,10 +295,10 @@
     },
     {
         "Room": "Mumbai Iron Man",
-        "Mic": true,
-        "Camera": true,
-        "Controller": true,
-        "Alert": false
+        "Mic": false,
+        "Camera": false,
+        "Controller": false,
+        "Alert": true
     },
     {
         "Room": "Mumbai Bond007",

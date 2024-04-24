@@ -218,10 +218,10 @@
     },
     {
         "Room": "NJ MP 6003 6th floor",
-        "Mic": false,
-        "Camera": false,
-        "Controller": false,
-        "Alert": true
+        "Mic": true,
+        "Camera": true,
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "NJ MP 6002 6th floor",
@@ -344,10 +344,10 @@
     },
     {
         "Room": "NJ Mt. Laurel Conf Rm",
-        "Mic": false,
-        "Camera": false,
-        "Controller": false,
-        "Alert": true
+        "Mic": true,
+        "Camera": true,
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "FL West Palm Beach WPB 10th Conf RM",

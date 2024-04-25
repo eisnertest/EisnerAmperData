@@ -114,9 +114,9 @@
     {
         "Room": "NJ Metropark Boardroom 6th floor",
         "Mic": true,
-        "Camera": true,
+        "Camera": false,
         "Controller": true,
-        "Alert": false
+        "Alert": true
     },
     {
         "Room": "NJ MP TR A 1st floor",
@@ -304,8 +304,8 @@
         "Room": "Mumbai Bond007",
         "Mic": true,
         "Camera": true,
-        "Controller": true,
-        "Alert": false
+        "Controller": false,
+        "Alert": true
     },
     {
         "Room": "Mumbai God Father",
@@ -470,10 +470,10 @@
     },
     {
         "Room": "Bangalore Eden",
-        "Mic": true,
-        "Camera": true,
-        "Controller": true,
-        "Alert": false
+        "Mic": false,
+        "Camera": false,
+        "Controller": false,
+        "Alert": true
     },
     {
         "Room": "Dallas JP Conference Room",

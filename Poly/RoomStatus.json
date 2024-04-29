@@ -495,5 +495,33 @@
         "Camera": true,
         "Controller": true,
         "Alert": false
+    },
+    {
+        "Room": "CA San Mateo",
+        "Mic": true,
+        "Camera": true,
+        "Controller": true,
+        "Alert": false
+    },
+    {
+        "Room": "MD Owing Mills Small Conf",
+        "Mic": true,
+        "Camera": true,
+        "Controller": true,
+        "Alert": false
+    },
+    {
+        "Room": "MD Owing Mills Medium Conf",
+        "Mic": true,
+        "Camera": true,
+        "Controller": true,
+        "Alert": false
+    },
+    {
+        "Room": "MD Owing Mills Large Conf",
+        "Mic": false,
+        "Camera": false,
+        "Controller": false,
+        "Alert": true
     }
 ]

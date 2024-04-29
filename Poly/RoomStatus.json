@@ -393,10 +393,10 @@
     },
     {
         "Room": "MN Lurie Room MCC",
-        "Mic": false,
-        "Camera": false,
+        "Mic": true,
+        "Camera": true,
         "Controller": true,
-        "Alert": true
+        "Alert": false
     },
     {
         "Room": "MN Boardroom",

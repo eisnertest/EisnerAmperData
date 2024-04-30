@@ -87,8 +87,8 @@
         "Room": "NYC Grammercy 7th floor",
         "Mic": true,
         "Camera": true,
-        "Controller": true,
-        "Alert": false
+        "Controller": false,
+        "Alert": true
     },
     {
         "Room": "NYC Wall St 6th floor",

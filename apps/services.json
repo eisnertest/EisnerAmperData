@@ -86,7 +86,7 @@
     },
     {
         "Service": "Analysis/Intelligence",
-        "Status": true,
+        "Status": false,
         "Alert": false
     },
     {
@@ -101,12 +101,12 @@
     },
     {
         "Service": "Invoice",
-        "Status": true,
+        "Status": false,
         "Alert": false
     },
     {
         "Service": "Expense",
-        "Status": true,
+        "Status": false,
         "Alert": false
     },
     {

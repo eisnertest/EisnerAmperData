@@ -1,5 +1,28 @@
 "timestamp", "Service", "message"
 "timestamp", "Service", "message"
+2024-05-01 10:32:50, Okta, 0
+2024-05-01 10:32:50, Expense, 0
+2024-05-01 10:32:50, Invoice, 0
+2024-05-01 10:32:50, Imaging, 0
+2024-05-01 10:32:50, Japan - e-Bunsho for Invoice, 0
+2024-05-01 10:32:50, Analysis/Intelligence, 0
+2024-05-01 10:32:50, Japan - Japan Public Transportation (JPT), 0
+2024-05-01 10:32:50, Request, 0
+2024-05-01 10:32:50, Compleat (TMC Services), 0
+2024-05-01 10:32:50, Travel, 0
+2024-05-01 10:32:50, Japan - e-Bunsho for Expense, 0
+2024-05-01 10:32:50, Mobile, 0
+2024-05-01 10:32:50, Replicon, 1
+2024-05-01 10:32:50, ConsumerList, 0
+2024-05-01 10:32:50, TeamsforLife, 0
+2024-05-01 10:32:50, YourPhone, 0
+2024-05-01 10:32:50, Whiteboard, 0
+2024-05-01 10:32:50, OfficeOnlineConsumer, 0
+2024-05-01 10:32:50, Skype, 0
+2024-05-01 10:32:50, microsofttodo, 0
+2024-05-01 10:32:50, OneDriveConsumer, 0
+2024-05-01 10:32:50, Outlook.com, 0
+2024-05-01 10:32:50, M365Consumer, 0
 2024-05-01 10:22:52, Okta, 0
 2024-05-01 10:22:52, Expense, 0
 2024-05-01 10:22:52, Invoice, 0
@@ -966,29 +989,6 @@
 2024-05-01 03:34:04, OneDriveConsumer, 0
 2024-05-01 03:34:04, Outlook.com, 0
 2024-05-01 03:34:04, M365Consumer, 0
-2024-05-01 01:32:28, Okta, 0
-2024-05-01 01:32:28, Expense, 0
-2024-05-01 01:32:28, Invoice, 0
-2024-05-01 01:32:28, Imaging, 0
-2024-05-01 01:32:28, Japan - e-Bunsho for Invoice, 0
-2024-05-01 01:32:28, Analysis/Intelligence, 0
-2024-05-01 01:32:28, Japan - Japan Public Transportation (JPT), 0
-2024-05-01 01:32:28, Request, 0
-2024-05-01 01:32:28, Compleat (TMC Services), 0
-2024-05-01 01:32:28, Travel, 0
-2024-05-01 01:32:28, Japan - e-Bunsho for Expense, 0
-2024-05-01 01:32:28, Mobile, 0
-2024-05-01 01:32:28, Replicon, 0
-2024-05-01 01:32:28, ConsumerList, 0
-2024-05-01 01:32:28, TeamsforLife, 0
-2024-05-01 01:32:28, YourPhone, 0
-2024-05-01 01:32:28, Whiteboard, 0
-2024-05-01 01:32:28, OfficeOnlineConsumer, 0
-2024-05-01 01:32:28, Skype, 0
-2024-05-01 01:32:28, microsofttodo, 0
-2024-05-01 01:32:28, OneDriveConsumer, 0
-2024-05-01 01:32:28, Outlook.com, 0
-2024-05-01 01:32:28, M365Consumer, 0
 2024-05-01 01:32:28, Okta, 0
 2024-05-01 01:32:28, Expense, 0
 2024-05-01 01:32:28, Invoice, 0

@@ -449,7 +449,7 @@
     },
     {
         "Room": "Bangalore OldTrafford",
-        "Mic": false,
+        "Mic": true,
         "Camera": true,
         "Controller": true,
         "Alert": false

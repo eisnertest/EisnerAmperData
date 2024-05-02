@@ -29,8 +29,8 @@
     },
     {
         "Room": "NYC Moma 9th floor",
-        "Mic": true,
-        "Camera": true,
+        "Mic": false,
+        "Camera": false,
         "Controller": false,
         "Alert": false
     },

@@ -52,7 +52,7 @@
     {
         "Service": "Replicon",
         "Status": false,
-        "Alert": true
+        "Alert": false
     },
     {
         "Service": "Mobile",

@@ -21,7 +21,7 @@
     },
     {
         "Service": "Skype",
-        "Status": false,
+        "Status": true,
         "Alert": false
     },
     {

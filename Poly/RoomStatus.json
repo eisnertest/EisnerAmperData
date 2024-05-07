@@ -164,8 +164,8 @@
         "Room": "NJ MP 7202 7th floor",
         "Mic": true,
         "Camera": true,
-        "Controller": false,
-        "Alert": true
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "NJ MP 7201 7th floor",

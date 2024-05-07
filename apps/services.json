@@ -22,7 +22,7 @@
     {
         "Service": "Skype",
         "Status": false,
-        "Alert": true
+        "Alert": false
     },
     {
         "Service": "OfficeOnlineConsumer",

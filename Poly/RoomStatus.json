@@ -11,7 +11,7 @@
         "Mic": true,
         "Camera": true,
         "Controller": false,
-        "Alert": true
+        "Alert": false
     },
     {
         "Room": "NYC MC 10.52 10th floor",
@@ -60,7 +60,7 @@
         "Mic": false,
         "Camera": false,
         "Controller": false,
-        "Alert": true
+        "Alert": false
     },
     {
         "Room": "NYC Union Square 7th floor",
@@ -172,7 +172,7 @@
         "Mic": false,
         "Camera": false,
         "Controller": false,
-        "Alert": true
+        "Alert": false
     },
     {
         "Room": "NJ MP 7107 7th floor",
@@ -284,7 +284,7 @@
         "Mic": true,
         "Camera": true,
         "Controller": false,
-        "Alert": true
+        "Alert": false
     },
     {
         "Room": "Mumbai Darth Vader",
@@ -326,7 +326,7 @@
         "Mic": false,
         "Camera": false,
         "Controller": false,
-        "Alert": true
+        "Alert": false
     },
     {
         "Room": "NY Melville Conf RM 2.90",
@@ -368,7 +368,7 @@
         "Mic": true,
         "Camera": true,
         "Controller": false,
-        "Alert": true
+        "Alert": false
     },
     {
         "Room": "Hyderabad Falaknuma",
@@ -494,14 +494,14 @@
         "Mic": false,
         "Camera": false,
         "Controller": true,
-        "Alert": true
+        "Alert": false
     },
     {
         "Room": "CA San Mateo",
         "Mic": false,
         "Camera": false,
         "Controller": false,
-        "Alert": true
+        "Alert": false
     },
     {
         "Room": "MD Owing Mills Small Conf",

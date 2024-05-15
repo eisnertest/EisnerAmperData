@@ -288,10 +288,10 @@
     },
     {
         "Room": "Mumbai Darth Vader",
-        "Mic": true,
-        "Camera": true,
-        "Controller": true,
-        "Alert": false
+        "Mic": false,
+        "Camera": false,
+        "Controller": false,
+        "Alert": true
     },
     {
         "Room": "Mumbai Iron Man",
@@ -379,10 +379,10 @@
     },
     {
         "Room": "Hyderabad Koh-i-Noor",
-        "Mic": true,
-        "Camera": true,
-        "Controller": true,
-        "Alert": false
+        "Mic": false,
+        "Camera": false,
+        "Controller": false,
+        "Alert": true
     },
     {
         "Room": "NJ Woodcliff Lake New Jersey",
@@ -463,10 +463,10 @@
     },
     {
         "Room": "Bangalore CampNou",
-        "Mic": false,
-        "Camera": false,
+        "Mic": true,
+        "Camera": true,
         "Controller": false,
-        "Alert": true
+        "Alert": false
     },
     {
         "Room": "Bangalore Eden",

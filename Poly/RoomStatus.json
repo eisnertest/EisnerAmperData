@@ -305,7 +305,7 @@
         "Mic": true,
         "Camera": true,
         "Controller": false,
-        "Alert": true
+        "Alert": false
     },
     {
         "Room": "Mumbai God Father",
@@ -323,9 +323,9 @@
     },
     {
         "Room": "NY Melville Conf RM 2.89",
-        "Mic": false,
-        "Camera": false,
-        "Controller": false,
+        "Mic": true,
+        "Camera": true,
+        "Controller": true,
         "Alert": false
     },
     {

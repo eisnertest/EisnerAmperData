@@ -269,14 +269,14 @@
         "Room": "Mumbai Newton",
         "Mic": false,
         "Camera": false,
-        "Controller": false,
+        "Controller": true,
         "Alert": false
     },
     {
         "Room": "Mumbai Einstein",
         "Mic": false,
-        "Camera": false,
-        "Controller": false,
+        "Camera": true,
+        "Controller": true,
         "Alert": false
     },
     {
@@ -295,17 +295,17 @@
     },
     {
         "Room": "Mumbai Iron Man",
-        "Mic": false,
-        "Camera": false,
+        "Mic": true,
+        "Camera": true,
         "Controller": false,
         "Alert": false
     },
     {
         "Room": "Mumbai Bond007",
-        "Mic": false,
-        "Camera": false,
-        "Controller": false,
-        "Alert": true
+        "Mic": true,
+        "Camera": true,
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "Mumbai God Father",
@@ -444,15 +444,15 @@
         "Room": "Bangalore Anfield",
         "Mic": false,
         "Camera": false,
-        "Controller": false,
+        "Controller": true,
         "Alert": false
     },
     {
         "Room": "Bangalore OldTrafford",
-        "Mic": false,
-        "Camera": false,
-        "Controller": false,
-        "Alert": true
+        "Mic": true,
+        "Camera": true,
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "Bangalore SanSiro",

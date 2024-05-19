@@ -269,7 +269,7 @@
         "Room": "Mumbai Newton",
         "Mic": false,
         "Camera": false,
-        "Controller": false,
+        "Controller": true,
         "Alert": false
     },
     {

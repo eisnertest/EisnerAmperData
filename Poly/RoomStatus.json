@@ -10,7 +10,7 @@
         "Room": "NYC The Met 10th floor",
         "Mic": true,
         "Camera": true,
-        "Controller": false,
+        "Controller": true,
         "Alert": false
     },
     {

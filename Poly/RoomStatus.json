@@ -148,9 +148,9 @@
     },
     {
         "Room": "NJ MP 7366 7th floor",
-        "Mic": true,
-        "Camera": true,
-        "Controller": true,
+        "Mic": false,
+        "Camera": false,
+        "Controller": false,
         "Alert": false
     },
     {

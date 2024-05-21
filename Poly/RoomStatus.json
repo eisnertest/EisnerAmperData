@@ -302,10 +302,10 @@
     },
     {
         "Room": "Mumbai Bond007",
-        "Mic": true,
+        "Mic": false,
         "Camera": true,
         "Controller": true,
-        "Alert": false
+        "Alert": true
     },
     {
         "Room": "Mumbai God Father",

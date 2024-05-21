@@ -437,7 +437,7 @@
         "Room": "Bangalore Guruku",
         "Mic": false,
         "Camera": false,
-        "Controller": false,
+        "Controller": true,
         "Alert": false
     },
     {
@@ -472,8 +472,8 @@
         "Room": "Bangalore Eden",
         "Mic": true,
         "Camera": true,
-        "Controller": true,
-        "Alert": false
+        "Controller": false,
+        "Alert": true
     },
     {
         "Room": "Dallas JP Conference Room",

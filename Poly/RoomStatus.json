@@ -10,8 +10,8 @@
         "Room": "NYC The Met 10th floor",
         "Mic": true,
         "Camera": true,
-        "Controller": true,
-        "Alert": false
+        "Controller": false,
+        "Alert": true
     },
     {
         "Room": "NYC MC 10.52 10th floor",

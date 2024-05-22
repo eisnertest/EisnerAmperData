@@ -206,8 +206,8 @@
         "Room": "NJ MP 6203 6th floor",
         "Mic": true,
         "Camera": true,
-        "Controller": false,
-        "Alert": true
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "NJ MP 6107 6th floor",
@@ -276,7 +276,7 @@
         "Room": "Mumbai Einstein",
         "Mic": false,
         "Camera": true,
-        "Controller": true,
+        "Controller": false,
         "Alert": false
     },
     {

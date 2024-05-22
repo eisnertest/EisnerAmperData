@@ -3,7 +3,7 @@
         "Room": "NYC Apollo 10th floor",
         "Mic": true,
         "Camera": true,
-        "Controller": true,
+        "Controller": false,
         "Alert": false
     },
     {
@@ -92,10 +92,10 @@
     },
     {
         "Room": "NYC Wall St 6th floor",
-        "Mic": true,
-        "Camera": true,
-        "Controller": true,
-        "Alert": false
+        "Mic": false,
+        "Camera": false,
+        "Controller": false,
+        "Alert": true
     },
     {
         "Room": "NYC Liberty 6th floor",

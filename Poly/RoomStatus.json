@@ -46,7 +46,7 @@
         "Mic": true,
         "Camera": true,
         "Controller": false,
-        "Alert": true
+        "Alert": false
     },
     {
         "Room": "NYC Rock Center 8th floor",
@@ -74,7 +74,7 @@
         "Mic": false,
         "Camera": false,
         "Controller": false,
-        "Alert": true
+        "Alert": false
     },
     {
         "Room": "NYC MC 7.85 7th floor",
@@ -116,7 +116,7 @@
         "Mic": true,
         "Camera": true,
         "Controller": false,
-        "Alert": true
+        "Alert": false
     },
     {
         "Room": "NJ MP TR A 1st floor",
@@ -143,8 +143,8 @@
         "Room": "NJ MP 8309 8th floor",
         "Mic": true,
         "Camera": true,
-        "Controller": true,
-        "Alert": false
+        "Controller": false,
+        "Alert": true
     },
     {
         "Room": "NJ MP 7366 7th floor",
@@ -186,7 +186,7 @@
         "Mic": false,
         "Camera": false,
         "Controller": false,
-        "Alert": true
+        "Alert": false
     },
     {
         "Room": "NJ MP 6309 6th floor",

@@ -337,10 +337,10 @@
     },
     {
         "Room": "NY Melville Conf RM 2.91",
-        "Mic": true,
-        "Camera": true,
-        "Controller": true,
-        "Alert": false
+        "Mic": false,
+        "Camera": false,
+        "Controller": false,
+        "Alert": true
     },
     {
         "Room": "NJ Mt. Laurel Conf Rm",

@@ -1,8 +1,8 @@
 [
     {
         "Room": "NYC Apollo 10th floor",
-        "Mic": true,
-        "Camera": true,
+        "Mic": false,
+        "Camera": false,
         "Controller": false,
         "Alert": false
     },
@@ -36,10 +36,10 @@
     },
     {
         "Room": "NYC MC 9.52 9th floor",
-        "Mic": true,
-        "Camera": true,
+        "Mic": false,
+        "Camera": false,
         "Controller": false,
-        "Alert": true
+        "Alert": false
     },
     {
         "Room": "NYC Bryant Park 8th floor",
@@ -81,7 +81,7 @@
         "Mic": true,
         "Camera": true,
         "Controller": false,
-        "Alert": true
+        "Alert": false
     },
     {
         "Room": "NYC Grammercy 7th floor",
@@ -94,7 +94,7 @@
         "Room": "NYC Wall St 6th floor",
         "Mic": true,
         "Camera": true,
-        "Controller": true,
+        "Controller": false,
         "Alert": false
     },
     {
@@ -108,7 +108,7 @@
         "Room": "NYC MC 6.52 6th floor",
         "Mic": false,
         "Camera": false,
-        "Controller": true,
+        "Controller": false,
         "Alert": false
     },
     {

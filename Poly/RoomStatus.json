@@ -15,9 +15,9 @@
     },
     {
         "Room": "NYC MC 10.52 10th floor",
-        "Mic": true,
-        "Camera": true,
-        "Controller": true,
+        "Mic": false,
+        "Camera": false,
+        "Controller": false,
         "Alert": false
     },
     {
@@ -45,8 +45,8 @@
         "Room": "NYC Bryant Park 8th floor",
         "Mic": true,
         "Camera": true,
-        "Controller": true,
-        "Alert": false
+        "Controller": false,
+        "Alert": true
     },
     {
         "Room": "NYC Rock Center 8th floor",
@@ -71,10 +71,10 @@
     },
     {
         "Room": "NYC High Line 7th floor",
-        "Mic": true,
-        "Camera": true,
-        "Controller": true,
-        "Alert": false
+        "Mic": false,
+        "Camera": false,
+        "Controller": false,
+        "Alert": true
     },
     {
         "Room": "NYC MC 7.85 7th floor",
@@ -115,8 +115,8 @@
         "Room": "NJ Metropark Boardroom 6th floor",
         "Mic": true,
         "Camera": true,
-        "Controller": true,
-        "Alert": false
+        "Controller": false,
+        "Alert": true
     },
     {
         "Room": "NJ MP TR A 1st floor",
@@ -183,10 +183,10 @@
     },
     {
         "Room": "NJ MP 6310 6th floor",
-        "Mic": true,
-        "Camera": true,
-        "Controller": true,
-        "Alert": false
+        "Mic": false,
+        "Camera": false,
+        "Controller": false,
+        "Alert": true
     },
     {
         "Room": "NJ MP 6309 6th floor",
@@ -204,9 +204,9 @@
     },
     {
         "Room": "NJ MP 6203 6th floor",
-        "Mic": true,
-        "Camera": true,
-        "Controller": true,
+        "Mic": false,
+        "Camera": false,
+        "Controller": false,
         "Alert": false
     },
     {

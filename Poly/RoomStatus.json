@@ -500,8 +500,8 @@
         "Room": "CA San Mateo",
         "Mic": true,
         "Camera": true,
-        "Controller": false,
-        "Alert": true
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "MD Owing Mills Small Conf",

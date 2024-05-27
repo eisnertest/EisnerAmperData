@@ -275,7 +275,7 @@
     {
         "Room": "Mumbai Einstein",
         "Mic": false,
-        "Camera": true,
+        "Camera": false,
         "Controller": false,
         "Alert": false
     },
@@ -302,10 +302,10 @@
     },
     {
         "Room": "Mumbai Bond007",
-        "Mic": false,
-        "Camera": false,
-        "Controller": false,
-        "Alert": true
+        "Mic": true,
+        "Camera": true,
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "Mumbai God Father",
@@ -472,8 +472,8 @@
         "Room": "Bangalore Eden",
         "Mic": true,
         "Camera": true,
-        "Controller": false,
-        "Alert": true
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "Dallas JP Conference Room",

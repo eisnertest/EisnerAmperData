@@ -275,7 +275,7 @@
     {
         "Room": "Mumbai Einstein",
         "Mic": false,
-        "Camera": false,
+        "Camera": true,
         "Controller": false,
         "Alert": false
     },

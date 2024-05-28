@@ -269,22 +269,22 @@
         "Room": "Mumbai Newton",
         "Mic": false,
         "Camera": false,
-        "Controller": false,
+        "Controller": true,
         "Alert": false
     },
     {
         "Room": "Mumbai Einstein",
         "Mic": false,
-        "Camera": false,
+        "Camera": true,
         "Controller": false,
         "Alert": false
     },
     {
         "Room": "Mumbai War Room",
-        "Mic": false,
-        "Camera": false,
-        "Controller": false,
-        "Alert": true
+        "Mic": true,
+        "Camera": true,
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "Mumbai Darth Vader",
@@ -302,16 +302,16 @@
     },
     {
         "Room": "Mumbai Bond007",
-        "Mic": false,
-        "Camera": false,
-        "Controller": false,
+        "Mic": true,
+        "Camera": true,
+        "Controller": true,
         "Alert": false
     },
     {
         "Room": "Mumbai God Father",
-        "Mic": false,
-        "Camera": false,
-        "Controller": false,
+        "Mic": true,
+        "Camera": true,
+        "Controller": true,
         "Alert": false
     },
     {

@@ -351,10 +351,10 @@
     },
     {
         "Room": "FL West Palm Beach WPB 10th Conf RM",
-        "Mic": false,
-        "Camera": false,
-        "Controller": false,
-        "Alert": true
+        "Mic": true,
+        "Camera": true,
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "FL West Palm Beach Audit Tax Conference",
@@ -393,10 +393,10 @@
     },
     {
         "Room": "MN Lurie Room MCC",
-        "Mic": true,
-        "Camera": true,
+        "Mic": false,
+        "Camera": false,
         "Controller": true,
-        "Alert": false
+        "Alert": true
     },
     {
         "Room": "MN Boardroom",

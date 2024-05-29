@@ -381,8 +381,8 @@
         "Room": "Hyderabad Koh-i-Noor",
         "Mic": true,
         "Camera": true,
-        "Controller": true,
-        "Alert": false
+        "Controller": false,
+        "Alert": true
     },
     {
         "Room": "NJ Woodcliff Lake New Jersey",
@@ -449,10 +449,10 @@
     },
     {
         "Room": "Bangalore OldTrafford",
-        "Mic": false,
-        "Camera": false,
-        "Controller": false,
-        "Alert": true
+        "Mic": true,
+        "Camera": true,
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "Bangalore SanSiro",
@@ -463,17 +463,17 @@
     },
     {
         "Room": "Bangalore CampNou",
-        "Mic": true,
-        "Camera": true,
-        "Controller": true,
-        "Alert": false
-    },
-    {
-        "Room": "Bangalore Eden",
         "Mic": false,
         "Camera": false,
         "Controller": false,
         "Alert": true
+    },
+    {
+        "Room": "Bangalore Eden",
+        "Mic": true,
+        "Camera": true,
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "Dallas JP Conference Room",

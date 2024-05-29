@@ -393,9 +393,9 @@
     },
     {
         "Room": "MN Lurie Room MCC",
-        "Mic": false,
-        "Camera": false,
-        "Controller": false,
+        "Mic": true,
+        "Camera": true,
+        "Controller": true,
         "Alert": false
     },
     {

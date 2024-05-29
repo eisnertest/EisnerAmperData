@@ -55,12 +55,7 @@
         "Alert": false
     },
     {
-        "Service": "Mobile",
-        "Status": true,
-        "Alert": false
-    },
-    {
-        "Service": "Japan - e-Bunsho for Expense",
+        "Service": "Expense",
         "Status": true,
         "Alert": false
     },
@@ -70,7 +65,7 @@
         "Alert": false
     },
     {
-        "Service": "Compleat (TMC Services)",
+        "Service": "Invoice",
         "Status": true,
         "Alert": false
     },
@@ -80,7 +75,7 @@
         "Alert": false
     },
     {
-        "Service": "Japan - Japan Public Transportation (JPT)",
+        "Service": "Imaging",
         "Status": true,
         "Alert": false
     },
@@ -90,22 +85,27 @@
         "Alert": false
     },
     {
+        "Service": "Mobile",
+        "Status": true,
+        "Alert": false
+    },
+    {
+        "Service": "Compleat (TMC Services)",
+        "Status": true,
+        "Alert": false
+    },
+    {
+        "Service": "Japan - e-Bunsho for Expense",
+        "Status": true,
+        "Alert": false
+    },
+    {
+        "Service": "Japan - Japan Public Transportation (JPT)",
+        "Status": true,
+        "Alert": false
+    },
+    {
         "Service": "Japan - e-Bunsho for Invoice",
-        "Status": true,
-        "Alert": false
-    },
-    {
-        "Service": "Imaging",
-        "Status": true,
-        "Alert": false
-    },
-    {
-        "Service": "Invoice",
-        "Status": true,
-        "Alert": false
-    },
-    {
-        "Service": "Expense",
         "Status": true,
         "Alert": false
     },

@@ -108,5 +108,10 @@
         "Service": "Japan - e-Bunsho for Invoice",
         "Status": true,
         "Alert": false
+    },
+    {
+        "Service": "Okta",
+        "Status": true,
+        "Alert": false
     }
 ]

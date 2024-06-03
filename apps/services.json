@@ -82,7 +82,7 @@
     {
         "Service": "Analysis/Intelligence",
         "Status": false,
-        "Alert": true
+        "Alert": false
     },
     {
         "Service": "Mobile",

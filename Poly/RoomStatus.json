@@ -372,9 +372,9 @@
     },
     {
         "Room": "Hyderabad Falaknuma",
-        "Mic": true,
-        "Camera": true,
-        "Controller": true,
+        "Mic": false,
+        "Camera": false,
+        "Controller": false,
         "Alert": false
     },
     {

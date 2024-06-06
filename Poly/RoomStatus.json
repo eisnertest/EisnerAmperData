@@ -134,10 +134,10 @@
     },
     {
         "Room": "NJ MP 8322 8th floor",
-        "Mic": false,
-        "Camera": false,
-        "Controller": false,
-        "Alert": true
+        "Mic": true,
+        "Camera": true,
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "NJ MP 8309 8th floor",

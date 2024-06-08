@@ -395,8 +395,8 @@
         "Room": "MN Lurie Room MCC",
         "Mic": true,
         "Camera": true,
-        "Controller": true,
-        "Alert": false
+        "Controller": false,
+        "Alert": true
     },
     {
         "Room": "MN Boardroom",

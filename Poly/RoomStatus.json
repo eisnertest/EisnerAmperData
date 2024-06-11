@@ -295,7 +295,7 @@
     },
     {
         "Room": "Mumbai Iron Man",
-        "Mic": true,
+        "Mic": false,
         "Camera": true,
         "Controller": false,
         "Alert": false

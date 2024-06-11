@@ -393,15 +393,15 @@
     },
     {
         "Room": "MN Lurie Room MCC",
-        "Mic": true,
-        "Camera": true,
-        "Controller": true,
+        "Mic": false,
+        "Camera": false,
+        "Controller": false,
         "Alert": false
     },
     {
         "Room": "MN Boardroom",
-        "Mic": true,
-        "Camera": true,
+        "Mic": false,
+        "Camera": false,
         "Controller": false,
         "Alert": false
     },
@@ -409,7 +409,7 @@
         "Room": "MN Glickman",
         "Mic": true,
         "Camera": true,
-        "Controller": false,
+        "Controller": true,
         "Alert": false
     },
     {

@@ -484,8 +484,8 @@
     },
     {
         "Room": "Dallas Main Conference Room",
-        "Mic": false,
-        "Camera": false,
+        "Mic": true,
+        "Camera": true,
         "Controller": false,
         "Alert": false
     },

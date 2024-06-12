@@ -115,8 +115,8 @@
         "Room": "NJ Metropark Boardroom 6th floor",
         "Mic": true,
         "Camera": true,
-        "Controller": true,
-        "Alert": false
+        "Controller": false,
+        "Alert": true
     },
     {
         "Room": "NJ MP TR A 1st floor",

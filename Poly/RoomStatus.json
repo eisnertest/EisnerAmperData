@@ -269,7 +269,7 @@
         "Room": "Mumbai Newton",
         "Mic": false,
         "Camera": false,
-        "Controller": true,
+        "Controller": false,
         "Alert": false
     },
     {
@@ -309,7 +309,7 @@
     },
     {
         "Room": "Mumbai God Father",
-        "Mic": false,
+        "Mic": true,
         "Camera": true,
         "Controller": true,
         "Alert": false
@@ -444,7 +444,7 @@
         "Room": "Bangalore Anfield",
         "Mic": false,
         "Camera": false,
-        "Controller": true,
+        "Controller": false,
         "Alert": false
     },
     {
@@ -472,8 +472,8 @@
         "Room": "Bangalore Eden",
         "Mic": true,
         "Camera": true,
-        "Controller": true,
-        "Alert": false
+        "Controller": false,
+        "Alert": true
     },
     {
         "Room": "Dallas JP Conference Room",
@@ -491,9 +491,9 @@
     },
     {
         "Room": "Dallas Training Room",
-        "Mic": false,
-        "Camera": false,
-        "Controller": false,
+        "Mic": true,
+        "Camera": true,
+        "Controller": true,
         "Alert": false
     },
     {

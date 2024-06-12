@@ -246,9 +246,9 @@
     },
     {
         "Room": "PA Philly Conf 30E 55",
-        "Mic": false,
-        "Camera": false,
-        "Controller": false,
+        "Mic": true,
+        "Camera": true,
+        "Controller": true,
         "Alert": false
     },
     {
@@ -260,9 +260,9 @@
     },
     {
         "Room": "PA Philly Conf 29E 55",
-        "Mic": false,
-        "Camera": false,
-        "Controller": false,
+        "Mic": true,
+        "Camera": true,
+        "Controller": true,
         "Alert": false
     },
     {
@@ -479,8 +479,8 @@
         "Room": "Dallas JP Conference Room",
         "Mic": true,
         "Camera": true,
-        "Controller": false,
-        "Alert": true
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "Dallas Main Conference Room",

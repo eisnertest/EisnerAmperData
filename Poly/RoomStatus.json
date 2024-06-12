@@ -249,7 +249,7 @@
         "Mic": true,
         "Camera": true,
         "Controller": false,
-        "Alert": true
+        "Alert": false
     },
     {
         "Room": "PA Philly Conf 29W 24",
@@ -262,8 +262,8 @@
         "Room": "PA Philly Conf 29E 55",
         "Mic": true,
         "Camera": true,
-        "Controller": true,
-        "Alert": false
+        "Controller": false,
+        "Alert": true
     },
     {
         "Room": "Mumbai Newton",
@@ -491,10 +491,10 @@
     },
     {
         "Room": "Dallas Training Room",
-        "Mic": true,
-        "Camera": true,
-        "Controller": true,
-        "Alert": false
+        "Mic": false,
+        "Camera": false,
+        "Controller": false,
+        "Alert": true
     },
     {
         "Room": "CA San Mateo",

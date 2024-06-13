@@ -262,7 +262,7 @@
         "Room": "PA Philly Conf 29E 55",
         "Mic": true,
         "Camera": true,
-        "Controller": true,
+        "Controller": false,
         "Alert": false
     },
     {

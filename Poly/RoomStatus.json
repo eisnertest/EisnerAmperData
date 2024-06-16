@@ -183,10 +183,10 @@
     },
     {
         "Room": "NJ MP 6310 6th floor",
-        "Mic": true,
-        "Camera": true,
-        "Controller": true,
-        "Alert": false
+        "Mic": false,
+        "Camera": false,
+        "Controller": false,
+        "Alert": true
     },
     {
         "Room": "NJ MP 6309 6th floor",
@@ -358,10 +358,10 @@
     },
     {
         "Room": "FL West Palm Beach Audit Tax Conference",
-        "Mic": false,
-        "Camera": false,
-        "Controller": false,
-        "Alert": true
+        "Mic": true,
+        "Camera": true,
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "FL West Palm Beach Large Tax Conference",

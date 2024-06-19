@@ -36,10 +36,10 @@
     },
     {
         "Room": "NYC MC 9.52 9th floor",
-        "Mic": false,
-        "Camera": false,
-        "Controller": false,
-        "Alert": true
+        "Mic": true,
+        "Camera": true,
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "NYC Bryant Park 8th floor",
@@ -158,7 +158,7 @@
         "Mic": true,
         "Camera": true,
         "Controller": false,
-        "Alert": true
+        "Alert": false
     },
     {
         "Room": "NJ MP 7202 7th floor",

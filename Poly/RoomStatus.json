@@ -484,10 +484,10 @@
     },
     {
         "Room": "Dallas Main Conference Room",
-        "Mic": true,
-        "Camera": true,
+        "Mic": false,
+        "Camera": false,
         "Controller": false,
-        "Alert": true
+        "Alert": false
     },
     {
         "Room": "Dallas Training Room",
@@ -507,8 +507,8 @@
         "Room": "MD Owing Mills Small Conf",
         "Mic": true,
         "Camera": true,
-        "Controller": true,
-        "Alert": false
+        "Controller": false,
+        "Alert": true
     },
     {
         "Room": "MD Owing Mills Medium Conf",

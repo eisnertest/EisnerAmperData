@@ -297,8 +297,8 @@
         "Room": "Mumbai Iron Man",
         "Mic": true,
         "Camera": true,
-        "Controller": false,
-        "Alert": true
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "Mumbai Bond007",
@@ -309,10 +309,10 @@
     },
     {
         "Room": "Mumbai God Father",
-        "Mic": false,
-        "Camera": false,
-        "Controller": false,
-        "Alert": true
+        "Mic": true,
+        "Camera": true,
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "NY Melville Conf RM 2.14",

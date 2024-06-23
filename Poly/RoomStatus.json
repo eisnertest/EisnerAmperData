@@ -36,10 +36,10 @@
     },
     {
         "Room": "NYC MC 9.52 9th floor",
-        "Mic": true,
-        "Camera": true,
-        "Controller": true,
-        "Alert": false
+        "Mic": false,
+        "Camera": false,
+        "Controller": false,
+        "Alert": true
     },
     {
         "Room": "NYC Bryant Park 8th floor",
@@ -260,10 +260,10 @@
     },
     {
         "Room": "PA Philly Conf 29E 55",
-        "Mic": false,
-        "Camera": false,
-        "Controller": false,
-        "Alert": true
+        "Mic": true,
+        "Camera": true,
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "Mumbai Newton",
@@ -337,17 +337,17 @@
     },
     {
         "Room": "NY Melville Conf RM 2.91",
-        "Mic": true,
-        "Camera": true,
-        "Controller": true,
-        "Alert": false
-    },
-    {
-        "Room": "NJ Mt. Laurel Conf Rm",
         "Mic": false,
         "Camera": false,
         "Controller": false,
         "Alert": true
+    },
+    {
+        "Room": "NJ Mt. Laurel Conf Rm",
+        "Mic": true,
+        "Camera": true,
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "FL West Palm Beach WPB 10th Conf RM",
@@ -514,8 +514,8 @@
         "Room": "MD Owing Mills Medium Conf",
         "Mic": true,
         "Camera": true,
-        "Controller": true,
-        "Alert": false
+        "Controller": false,
+        "Alert": true
     },
     {
         "Room": "MD Owing Mills Large Conf",

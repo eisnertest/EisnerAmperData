@@ -116,19 +116,19 @@
         "Mic": false,
         "Camera": false,
         "Controller": false,
-        "Alert": true
+        "Alert": false
     },
     {
         "Room": "NJ MP TR A 1st floor",
         "Mic": false,
-        "Camera": false,
+        "Camera": true,
         "Controller": false,
         "Alert": false
     },
     {
         "Room": "NJ MP TR B 1st floor",
         "Mic": false,
-        "Camera": false,
+        "Camera": true,
         "Controller": false,
         "Alert": false
     },
@@ -207,7 +207,7 @@
         "Mic": false,
         "Camera": false,
         "Controller": false,
-        "Alert": true
+        "Alert": false
     },
     {
         "Room": "NJ MP 6107 6th floor",

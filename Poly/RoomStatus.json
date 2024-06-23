@@ -36,10 +36,10 @@
     },
     {
         "Room": "NYC MC 9.52 9th floor",
-        "Mic": false,
-        "Camera": false,
-        "Controller": false,
-        "Alert": true
+        "Mic": true,
+        "Camera": true,
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "NYC Bryant Park 8th floor",
@@ -337,10 +337,10 @@
     },
     {
         "Room": "NY Melville Conf RM 2.91",
-        "Mic": false,
-        "Camera": false,
-        "Controller": false,
-        "Alert": true
+        "Mic": true,
+        "Camera": true,
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "NJ Mt. Laurel Conf Rm",
@@ -514,8 +514,8 @@
         "Room": "MD Owing Mills Medium Conf",
         "Mic": true,
         "Camera": true,
-        "Controller": false,
-        "Alert": true
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "MD Owing Mills Large Conf",

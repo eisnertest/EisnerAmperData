@@ -129,7 +129,7 @@
         "Room": "NJ MP TR B 1st floor",
         "Mic": false,
         "Camera": true,
-        "Controller": false,
+        "Controller": true,
         "Alert": false
     },
     {
@@ -437,7 +437,7 @@
         "Room": "Bangalore Guruku",
         "Mic": false,
         "Camera": false,
-        "Controller": true,
+        "Controller": false,
         "Alert": false
     },
     {
@@ -472,8 +472,8 @@
         "Room": "Bangalore Eden",
         "Mic": true,
         "Camera": true,
-        "Controller": true,
-        "Alert": false
+        "Controller": false,
+        "Alert": true
     },
     {
         "Room": "Dallas JP Conference Room",

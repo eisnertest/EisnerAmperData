@@ -24,8 +24,8 @@
         "Room": "NYC Columbus Circle 9th floor",
         "Mic": true,
         "Camera": true,
-        "Controller": true,
-        "Alert": false
+        "Controller": false,
+        "Alert": true
     },
     {
         "Room": "NYC Moma 9th floor",

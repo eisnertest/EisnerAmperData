@@ -304,7 +304,7 @@
         "Room": "Mumbai Bond007",
         "Mic": true,
         "Camera": true,
-        "Controller": false,
+        "Controller": true,
         "Alert": false
     },
     {
@@ -393,10 +393,10 @@
     },
     {
         "Room": "MN Lurie Room MCC",
-        "Mic": false,
-        "Camera": false,
-        "Controller": false,
-        "Alert": true
+        "Mic": true,
+        "Camera": true,
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "MN Boardroom",

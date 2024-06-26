@@ -298,7 +298,7 @@
         "Mic": true,
         "Camera": true,
         "Controller": false,
-        "Alert": true
+        "Alert": false
     },
     {
         "Room": "Mumbai Bond007",

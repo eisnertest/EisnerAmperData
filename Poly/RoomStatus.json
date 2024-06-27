@@ -302,7 +302,7 @@
     },
     {
         "Room": "Mumbai Bond007",
-        "Mic": false,
+        "Mic": true,
         "Camera": true,
         "Controller": true,
         "Alert": false
@@ -465,8 +465,8 @@
         "Room": "Bangalore CampNou",
         "Mic": true,
         "Camera": true,
-        "Controller": true,
-        "Alert": false
+        "Controller": false,
+        "Alert": true
     },
     {
         "Room": "Bangalore Eden",

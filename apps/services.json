@@ -101,8 +101,8 @@
     },
     {
         "Service": "Japan - Japan Public Transportation (JPT)",
-        "Status": false,
-        "Alert": true
+        "Status": true,
+        "Alert": false
     },
     {
         "Service": "Japan - e-Bunsho for Invoice",

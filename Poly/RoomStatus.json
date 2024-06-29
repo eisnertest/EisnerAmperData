@@ -190,10 +190,10 @@
     },
     {
         "Room": "NJ MP 6309 6th floor",
-        "Mic": false,
-        "Camera": false,
-        "Controller": false,
-        "Alert": true
+        "Mic": true,
+        "Camera": true,
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "NJ MP 6255 6th floor",
@@ -477,9 +477,9 @@
     },
     {
         "Room": "Dallas JP Conference Room",
-        "Mic": false,
-        "Camera": false,
-        "Controller": false,
+        "Mic": true,
+        "Camera": true,
+        "Controller": true,
         "Alert": false
     },
     {

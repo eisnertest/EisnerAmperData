@@ -379,8 +379,8 @@
     },
     {
         "Room": "Hyderabad Koh-i-Noor",
-        "Mic": false,
-        "Camera": false,
+        "Mic": true,
+        "Camera": true,
         "Controller": false,
         "Alert": false
     },

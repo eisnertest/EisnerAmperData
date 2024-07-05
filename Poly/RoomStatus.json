@@ -444,7 +444,7 @@
         "Room": "Bangalore Anfield",
         "Mic": false,
         "Camera": false,
-        "Controller": true,
+        "Controller": false,
         "Alert": false
     },
     {
@@ -463,10 +463,10 @@
     },
     {
         "Room": "Bangalore CampNou",
-        "Mic": false,
-        "Camera": false,
-        "Controller": false,
-        "Alert": true
+        "Mic": true,
+        "Camera": true,
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "Bangalore Eden",

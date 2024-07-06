@@ -288,10 +288,10 @@
     },
     {
         "Room": "Mumbai Darth Vader",
-        "Mic": true,
-        "Camera": true,
-        "Controller": true,
-        "Alert": false
+        "Mic": false,
+        "Camera": false,
+        "Controller": false,
+        "Alert": true
     },
     {
         "Room": "Mumbai Iron Man",
@@ -449,8 +449,8 @@
     },
     {
         "Room": "Bangalore OldTrafford",
-        "Mic": false,
-        "Camera": false,
+        "Mic": true,
+        "Camera": true,
         "Controller": false,
         "Alert": false
     },
@@ -470,10 +470,10 @@
     },
     {
         "Room": "Bangalore Eden",
-        "Mic": false,
-        "Camera": false,
-        "Controller": false,
-        "Alert": true
+        "Mic": true,
+        "Camera": true,
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "Dallas JP Conference Room",

@@ -385,6 +385,13 @@
         "Alert": false
     },
     {
+        "Room": "Hyderabad Kakatiya Training Room",
+        "Mic": true,
+        "Camera": false,
+        "Controller": true,
+        "Alert": true
+    },
+    {
         "Room": "NJ Woodcliff Lake New Jersey",
         "Mic": true,
         "Camera": true,

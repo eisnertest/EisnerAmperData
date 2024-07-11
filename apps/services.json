@@ -15,6 +15,11 @@
         "Alert": false
     },
     {
+        "Service": "CopilotConsumer",
+        "Status": true,
+        "Alert": false
+    },
+    {
         "Service": "microsofttodo",
         "Status": true,
         "Alert": false

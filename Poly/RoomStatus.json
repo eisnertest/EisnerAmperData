@@ -379,16 +379,16 @@
     },
     {
         "Room": "Hyderabad Koh-i-Noor",
-        "Mic": true,
-        "Camera": true,
-        "Controller": true,
-        "Alert": false
-    },
-    {
-        "Room": "Hyderabad Kakatiya Training Room",
         "Mic": false,
         "Camera": false,
         "Controller": false,
+        "Alert": true
+    },
+    {
+        "Room": "Hyderabad Kakatiya Training Room",
+        "Mic": true,
+        "Camera": false,
+        "Controller": true,
         "Alert": false
     },
     {
@@ -477,10 +477,10 @@
     },
     {
         "Room": "Bangalore Eden",
-        "Mic": false,
-        "Camera": false,
-        "Controller": false,
-        "Alert": true
+        "Mic": true,
+        "Camera": true,
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "Dallas JP Conference Room",

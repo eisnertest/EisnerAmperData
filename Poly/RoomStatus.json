@@ -1,17 +1,17 @@
 [
     {
         "Room": "NYC Apollo 10th floor",
-        "Mic": false,
-        "Camera": false,
-        "Controller": false,
-        "Alert": true
+        "Mic": true,
+        "Camera": true,
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "NYC The Met 10th floor",
-        "Mic": false,
-        "Camera": false,
-        "Controller": false,
-        "Alert": true
+        "Mic": true,
+        "Camera": true,
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "NYC MC 10.52 10th floor",
@@ -269,14 +269,14 @@
         "Room": "Mumbai Newton",
         "Mic": false,
         "Camera": false,
-        "Controller": true,
+        "Controller": false,
         "Alert": false
     },
     {
         "Room": "Mumbai Einstein",
         "Mic": false,
         "Camera": false,
-        "Controller": true,
+        "Controller": false,
         "Alert": false
     },
     {

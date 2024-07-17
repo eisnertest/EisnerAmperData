@@ -241,8 +241,8 @@
         "Room": "PA Philly Conf 30E 02",
         "Mic": true,
         "Camera": true,
-        "Controller": true,
-        "Alert": false
+        "Controller": false,
+        "Alert": true
     },
     {
         "Room": "PA Philly Conf 30E 55",
@@ -351,10 +351,10 @@
     },
     {
         "Room": "FL West Palm Beach WPB 10th Conf RM",
-        "Mic": false,
-        "Camera": false,
-        "Controller": false,
-        "Alert": true
+        "Mic": true,
+        "Camera": true,
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "FL West Palm Beach Audit Tax Conference",
@@ -472,7 +472,7 @@
         "Room": "Bangalore CampNou",
         "Mic": true,
         "Camera": true,
-        "Controller": false,
+        "Controller": true,
         "Alert": false
     },
     {

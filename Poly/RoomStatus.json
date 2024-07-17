@@ -101,7 +101,7 @@
         "Room": "NYC Liberty 6th floor",
         "Mic": true,
         "Camera": true,
-        "Controller": false,
+        "Controller": true,
         "Alert": false
     },
     {

@@ -409,7 +409,7 @@
         "Room": "MN Boardroom",
         "Mic": true,
         "Camera": true,
-        "Controller": false,
+        "Controller": true,
         "Alert": false
     },
     {

@@ -2,7 +2,7 @@
     {
         "Service": "M365Consumer",
         "Status": false,
-        "Alert": true
+        "Alert": false
     },
     {
         "Service": "Outlook.com",
@@ -46,7 +46,7 @@
     },
     {
         "Service": "TeamsforLife",
-        "Status": false,
+        "Status": true,
         "Alert": false
     },
     {

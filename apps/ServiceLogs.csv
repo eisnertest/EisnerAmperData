@@ -1,5 +1,29 @@
 "timestamp", "Service", "message"
 "timestamp", "Service", "message"
+2024-07-18 20:49:02, Okta, 0
+2024-07-18 20:49:02, Japan - e-Bunsho for Invoice, 0
+2024-07-18 20:49:02, Japan - Japan Public Transportation (JPT), 0
+2024-07-18 20:49:02, Japan - e-Bunsho for Expense, 0
+2024-07-18 20:49:02, Compleat (TMC Services), 0
+2024-07-18 20:49:02, Mobile, 0
+2024-07-18 20:49:02, Analysis/Intelligence, 0
+2024-07-18 20:49:02, Imaging, 0
+2024-07-18 20:49:02, Request, 0
+2024-07-18 20:49:02, Invoice, 0
+2024-07-18 20:49:02, Travel, 0
+2024-07-18 20:49:02, Expense, 0
+2024-07-18 20:49:02, Replicon, 0
+2024-07-18 20:49:02, ConsumerList, 0
+2024-07-18 20:49:02, TeamsforLife, 0
+2024-07-18 20:49:02, YourPhone, 0
+2024-07-18 20:49:02, Whiteboard, 0
+2024-07-18 20:49:02, OfficeOnlineConsumer, 0
+2024-07-18 20:49:02, Skype, 0
+2024-07-18 20:49:02, microsofttodo, 0
+2024-07-18 20:49:02, CopilotConsumer, 0
+2024-07-18 20:49:02, OneDriveConsumer, 0
+2024-07-18 20:49:02, Outlook.com, 0
+2024-07-18 20:49:02, M365Consumer, 1
 2024-07-18 20:39:01, Okta, 0
 2024-07-18 20:39:01, Japan - e-Bunsho for Invoice, 0
 2024-07-18 20:39:01, Japan - Japan Public Transportation (JPT), 0
@@ -976,27 +1000,3 @@
 2024-07-18 12:34:03, ConsumerList, 0
 2024-07-18 12:34:03, TeamsforLife, 1
 2024-07-18 12:34:03, YourPhone, 0
-2024-07-18 12:34:03, Whiteboard, 0
-2024-07-18 12:34:03, OfficeOnlineConsumer, 0
-2024-07-18 12:34:03, Skype, 1
-2024-07-18 12:34:03, microsofttodo, 0
-2024-07-18 12:34:03, CopilotConsumer, 0
-2024-07-18 12:34:03, OneDriveConsumer, 0
-2024-07-18 12:34:03, Outlook.com, 0
-2024-07-18 12:34:03, M365Consumer, 0
-2024-07-18 12:24:04, Okta, 0
-2024-07-18 12:24:04, Japan - e-Bunsho for Invoice, 0
-2024-07-18 12:24:04, Japan - Japan Public Transportation (JPT), 0
-2024-07-18 12:24:04, Japan - e-Bunsho for Expense, 0
-2024-07-18 12:24:04, Compleat (TMC Services), 0
-2024-07-18 12:24:04, Mobile, 0
-2024-07-18 12:24:04, Analysis/Intelligence, 0
-2024-07-18 12:24:04, Imaging, 0
-2024-07-18 12:24:04, Request, 0
-2024-07-18 12:24:04, Invoice, 0
-2024-07-18 12:24:04, Travel, 0
-2024-07-18 12:24:04, Expense, 0
-2024-07-18 12:24:04, Replicon, 0
-2024-07-18 12:24:04, ConsumerList, 0
-2024-07-18 12:24:04, TeamsforLife, 1
-2024-07-18 12:24:04, YourPhone, 0

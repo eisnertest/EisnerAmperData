@@ -269,28 +269,28 @@
         "Room": "Mumbai Newton",
         "Mic": false,
         "Camera": false,
-        "Controller": true,
+        "Controller": false,
         "Alert": false
     },
     {
         "Room": "Mumbai Einstein",
         "Mic": false,
         "Camera": false,
-        "Controller": false,
+        "Controller": true,
         "Alert": false
     },
     {
         "Room": "Mumbai War Room",
         "Mic": true,
         "Camera": true,
-        "Controller": true,
+        "Controller": false,
         "Alert": false
     },
     {
         "Room": "Mumbai Darth Vader",
         "Mic": true,
         "Camera": true,
-        "Controller": true,
+        "Controller": false,
         "Alert": false
     },
     {
@@ -304,15 +304,15 @@
         "Room": "Mumbai Bond007",
         "Mic": true,
         "Camera": true,
-        "Controller": true,
-        "Alert": false
+        "Controller": false,
+        "Alert": true
     },
     {
         "Room": "Mumbai God Father",
         "Mic": true,
         "Camera": true,
-        "Controller": true,
-        "Alert": false
+        "Controller": false,
+        "Alert": true
     },
     {
         "Room": "NY Melville Conf RM 2.14",
@@ -444,7 +444,7 @@
         "Room": "Bangalore Guruku",
         "Mic": false,
         "Camera": false,
-        "Controller": false,
+        "Controller": true,
         "Alert": false
     },
     {

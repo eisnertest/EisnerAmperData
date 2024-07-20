@@ -38,8 +38,8 @@
         "Room": "NYC MC 9.52 9th floor",
         "Mic": true,
         "Camera": true,
-        "Controller": true,
-        "Alert": false
+        "Controller": false,
+        "Alert": true
     },
     {
         "Room": "NYC Bryant Park 8th floor",
@@ -239,10 +239,10 @@
     },
     {
         "Room": "PA Philly Conf 30E 02",
-        "Mic": false,
-        "Camera": false,
-        "Controller": false,
-        "Alert": true
+        "Mic": true,
+        "Camera": true,
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "PA Philly Conf 30E 55",
@@ -253,10 +253,10 @@
     },
     {
         "Room": "PA Philly Conf 29W 24",
-        "Mic": true,
-        "Camera": true,
-        "Controller": true,
-        "Alert": false
+        "Mic": false,
+        "Camera": false,
+        "Controller": false,
+        "Alert": true
     },
     {
         "Room": "PA Philly Conf 29E 55",

@@ -344,9 +344,9 @@
     },
     {
         "Room": "NJ Mt. Laurel Conf Rm",
-        "Mic": false,
-        "Camera": false,
-        "Controller": false,
+        "Mic": true,
+        "Camera": true,
+        "Controller": true,
         "Alert": false
     },
     {
@@ -514,8 +514,8 @@
         "Room": "MD Owing Mills Small Conf",
         "Mic": true,
         "Camera": true,
-        "Controller": true,
-        "Alert": false
+        "Controller": false,
+        "Alert": true
     },
     {
         "Room": "MD Owing Mills Medium Conf",

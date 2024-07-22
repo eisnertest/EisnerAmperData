@@ -302,17 +302,17 @@
     },
     {
         "Room": "Mumbai Bond007",
-        "Mic": true,
-        "Camera": true,
-        "Controller": true,
-        "Alert": false
+        "Mic": false,
+        "Camera": false,
+        "Controller": false,
+        "Alert": true
     },
     {
         "Room": "Mumbai God Father",
         "Mic": true,
         "Camera": true,
-        "Controller": false,
-        "Alert": true
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "NY Melville Conf RM 2.14",
@@ -444,7 +444,7 @@
         "Room": "Bangalore Guruku",
         "Mic": false,
         "Camera": false,
-        "Controller": true,
+        "Controller": false,
         "Alert": false
     },
     {
@@ -526,9 +526,23 @@
     },
     {
         "Room": "MD Owing Mills Large Conf",
+        "Mic": true,
+        "Camera": true,
+        "Controller": true,
+        "Alert": false
+    },
+    {
+        "Room": "Chicago Small Conf Room",
         "Mic": false,
         "Camera": false,
         "Controller": false,
-        "Alert": false
+        "Alert": true
+    },
+    {
+        "Room": "Chicago Large Conf Room",
+        "Mic": false,
+        "Camera": false,
+        "Controller": false,
+        "Alert": true
     }
 ]

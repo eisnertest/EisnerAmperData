@@ -232,10 +232,10 @@
     },
     {
         "Room": "PA Philly Conf 30W 09",
-        "Mic": true,
-        "Camera": true,
-        "Controller": true,
-        "Alert": false
+        "Mic": false,
+        "Camera": false,
+        "Controller": false,
+        "Alert": true
     },
     {
         "Room": "PA Philly Conf 30E 02",
@@ -514,8 +514,8 @@
         "Room": "MD Owing Mills Small Conf",
         "Mic": true,
         "Camera": true,
-        "Controller": false,
-        "Alert": true
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "MD Owing Mills Medium Conf",

@@ -92,10 +92,10 @@
     },
     {
         "Room": "NYC Wall St 6th floor",
-        "Mic": true,
+        "Mic": false,
         "Camera": true,
-        "Controller": true,
-        "Alert": false
+        "Controller": false,
+        "Alert": true
     },
     {
         "Room": "NYC Liberty 6th floor",
@@ -260,10 +260,10 @@
     },
     {
         "Room": "PA Philly Conf 29E 55",
-        "Mic": true,
-        "Camera": true,
-        "Controller": true,
-        "Alert": false
+        "Mic": false,
+        "Camera": false,
+        "Controller": false,
+        "Alert": true
     },
     {
         "Room": "Mumbai Newton",

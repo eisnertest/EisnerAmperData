@@ -92,9 +92,9 @@
     },
     {
         "Room": "NYC Wall St 6th floor",
-        "Mic": false,
+        "Mic": true,
         "Camera": true,
-        "Controller": false,
+        "Controller": true,
         "Alert": false
     },
     {
@@ -157,7 +157,7 @@
         "Room": "NJ MP 7310 7th floor",
         "Mic": true,
         "Camera": true,
-        "Controller": false,
+        "Controller": true,
         "Alert": false
     },
     {

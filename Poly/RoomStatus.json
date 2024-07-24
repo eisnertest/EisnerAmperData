@@ -78,10 +78,10 @@
     },
     {
         "Room": "NYC MC 7.85 7th floor",
-        "Mic": true,
-        "Camera": true,
-        "Controller": true,
-        "Alert": false
+        "Mic": false,
+        "Camera": false,
+        "Controller": false,
+        "Alert": true
     },
     {
         "Room": "NYC Grammercy 7th floor",

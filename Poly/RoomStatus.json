@@ -309,10 +309,10 @@
     },
     {
         "Room": "Mumbai God Father",
-        "Mic": true,
-        "Camera": true,
-        "Controller": true,
-        "Alert": false
+        "Mic": false,
+        "Camera": false,
+        "Controller": false,
+        "Alert": true
     },
     {
         "Room": "NY Melville Conf RM 2.14",
@@ -374,8 +374,8 @@
         "Room": "Hyderabad Falaknuma",
         "Mic": true,
         "Camera": true,
-        "Controller": true,
-        "Alert": false
+        "Controller": false,
+        "Alert": true
     },
     {
         "Room": "Hyderabad Koh-i-Noor",
@@ -444,7 +444,7 @@
         "Room": "Bangalore Guruku",
         "Mic": false,
         "Camera": false,
-        "Controller": false,
+        "Controller": true,
         "Alert": false
     },
     {
@@ -456,10 +456,10 @@
     },
     {
         "Room": "Bangalore OldTrafford",
-        "Mic": false,
-        "Camera": false,
-        "Controller": false,
-        "Alert": true
+        "Mic": true,
+        "Camera": true,
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "Bangalore SanSiro",
@@ -470,10 +470,10 @@
     },
     {
         "Room": "Bangalore CampNou",
-        "Mic": false,
-        "Camera": false,
-        "Controller": false,
-        "Alert": true
+        "Mic": true,
+        "Camera": true,
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "Bangalore Eden",

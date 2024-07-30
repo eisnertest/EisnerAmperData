@@ -225,7 +225,7 @@
     },
     {
         "Room": "NJ MP 6002 6th floor",
-        "Mic": true,
+        "Mic": false,
         "Camera": true,
         "Controller": true,
         "Alert": false

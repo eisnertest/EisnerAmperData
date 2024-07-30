@@ -386,7 +386,7 @@
     },
     {
         "Room": "Hyderabad Kakatiya Training Room",
-        "Mic": true,
+        "Mic": false,
         "Camera": false,
         "Controller": false,
         "Alert": false

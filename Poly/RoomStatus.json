@@ -64,10 +64,10 @@
     },
     {
         "Room": "NYC Union Square 7th floor",
-        "Mic": true,
-        "Camera": true,
-        "Controller": true,
-        "Alert": false
+        "Mic": false,
+        "Camera": false,
+        "Controller": false,
+        "Alert": true
     },
     {
         "Room": "NYC High Line 7th floor",

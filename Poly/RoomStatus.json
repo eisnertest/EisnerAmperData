@@ -92,10 +92,10 @@
     },
     {
         "Room": "NYC Wall St 6th floor",
-        "Mic": false,
-        "Camera": false,
-        "Controller": false,
-        "Alert": true
+        "Mic": true,
+        "Camera": true,
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "NYC Liberty 6th floor",
@@ -213,7 +213,7 @@
         "Room": "NJ MP 6107 6th floor",
         "Mic": true,
         "Camera": true,
-        "Controller": false,
+        "Controller": true,
         "Alert": false
     },
     {
@@ -239,10 +239,10 @@
     },
     {
         "Room": "PA Philly Conf 30E 02",
-        "Mic": true,
-        "Camera": true,
-        "Controller": true,
-        "Alert": false
+        "Mic": false,
+        "Camera": false,
+        "Controller": false,
+        "Alert": true
     },
     {
         "Room": "PA Philly Conf 30E 55",
@@ -395,7 +395,7 @@
         "Room": "NJ Woodcliff Lake New Jersey",
         "Mic": true,
         "Camera": true,
-        "Controller": true,
+        "Controller": false,
         "Alert": false
     },
     {

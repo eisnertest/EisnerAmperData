@@ -225,7 +225,7 @@
     },
     {
         "Room": "NJ MP 6002 6th floor",
-        "Mic": false,
+        "Mic": true,
         "Camera": true,
         "Controller": true,
         "Alert": false
@@ -239,10 +239,10 @@
     },
     {
         "Room": "PA Philly Conf 30E 02",
-        "Mic": false,
-        "Camera": false,
-        "Controller": false,
-        "Alert": true
+        "Mic": true,
+        "Camera": true,
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "PA Philly Conf 30E 55",
@@ -395,7 +395,7 @@
         "Room": "NJ Woodcliff Lake New Jersey",
         "Mic": true,
         "Camera": true,
-        "Controller": false,
+        "Controller": true,
         "Alert": false
     },
     {

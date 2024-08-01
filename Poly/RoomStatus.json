@@ -305,7 +305,7 @@
         "Mic": true,
         "Camera": true,
         "Controller": false,
-        "Alert": true
+        "Alert": false
     },
     {
         "Room": "Mumbai God Father",
@@ -386,9 +386,9 @@
     },
     {
         "Room": "Hyderabad Kakatiya Training Room",
-        "Mic": true,
+        "Mic": false,
         "Camera": false,
-        "Controller": true,
+        "Controller": false,
         "Alert": false
     },
     {

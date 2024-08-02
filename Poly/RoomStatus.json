@@ -288,22 +288,22 @@
     },
     {
         "Room": "Mumbai Darth Vader",
-        "Mic": false,
-        "Camera": false,
-        "Controller": false,
-        "Alert": true
-    },
-    {
-        "Room": "Mumbai Iron Man",
         "Mic": true,
         "Camera": true,
         "Controller": true,
         "Alert": false
     },
     {
-        "Room": "Mumbai Bond007",
+        "Room": "Mumbai Iron Man",
         "Mic": false,
         "Camera": false,
+        "Controller": false,
+        "Alert": true
+    },
+    {
+        "Room": "Mumbai Bond007",
+        "Mic": true,
+        "Camera": true,
         "Controller": false,
         "Alert": false
     },
@@ -379,10 +379,10 @@
     },
     {
         "Room": "Hyderabad Koh-i-Noor",
-        "Mic": false,
-        "Camera": false,
-        "Controller": false,
-        "Alert": true
+        "Mic": true,
+        "Camera": true,
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "Hyderabad Kakatiya Training Room",

@@ -282,9 +282,9 @@
     {
         "Room": "Mumbai War Room",
         "Mic": true,
-        "Camera": true,
-        "Controller": true,
-        "Alert": false
+        "Camera": false,
+        "Controller": false,
+        "Alert": true
     },
     {
         "Room": "Mumbai Darth Vader",
@@ -472,8 +472,8 @@
         "Room": "Bangalore CampNou",
         "Mic": true,
         "Camera": true,
-        "Controller": true,
-        "Alert": false
+        "Controller": false,
+        "Alert": true
     },
     {
         "Room": "Bangalore Eden",

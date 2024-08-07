@@ -309,10 +309,10 @@
     },
     {
         "Room": "Mumbai God Father",
-        "Mic": true,
-        "Camera": true,
-        "Controller": true,
-        "Alert": false
+        "Mic": false,
+        "Camera": false,
+        "Controller": false,
+        "Alert": true
     },
     {
         "Room": "NY Melville Conf RM 2.14",
@@ -386,9 +386,9 @@
     },
     {
         "Room": "Hyderabad Kakatiya Training Room",
-        "Mic": true,
+        "Mic": false,
         "Camera": false,
-        "Controller": true,
+        "Controller": false,
         "Alert": false
     },
     {

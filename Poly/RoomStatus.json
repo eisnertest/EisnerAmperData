@@ -323,10 +323,10 @@
     },
     {
         "Room": "NY Melville Conf RM 2.89",
-        "Mic": true,
-        "Camera": true,
-        "Controller": true,
-        "Alert": false
+        "Mic": false,
+        "Camera": false,
+        "Controller": false,
+        "Alert": true
     },
     {
         "Room": "NY Melville Conf RM 2.90",

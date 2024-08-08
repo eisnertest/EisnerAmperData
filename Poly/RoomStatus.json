@@ -38,8 +38,8 @@
         "Room": "NYC MC 9.52 9th floor",
         "Mic": true,
         "Camera": true,
-        "Controller": true,
-        "Alert": false
+        "Controller": false,
+        "Alert": true
     },
     {
         "Room": "NYC Bryant Park 8th floor",
@@ -129,7 +129,7 @@
         "Room": "NJ MP TR B 1st floor",
         "Mic": false,
         "Camera": true,
-        "Controller": true,
+        "Controller": false,
         "Alert": false
     },
     {
@@ -304,7 +304,7 @@
         "Room": "Mumbai Bond007",
         "Mic": true,
         "Camera": true,
-        "Controller": false,
+        "Controller": true,
         "Alert": false
     },
     {
@@ -323,10 +323,10 @@
     },
     {
         "Room": "NY Melville Conf RM 2.89",
-        "Mic": false,
-        "Camera": false,
-        "Controller": false,
-        "Alert": true
+        "Mic": true,
+        "Camera": true,
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "NY Melville Conf RM 2.90",
@@ -519,10 +519,10 @@
     },
     {
         "Room": "MD Owing Mills Medium Conf",
-        "Mic": true,
-        "Camera": true,
-        "Controller": true,
-        "Alert": false
+        "Mic": false,
+        "Camera": false,
+        "Controller": false,
+        "Alert": true
     },
     {
         "Room": "MD Owing Mills Large Conf",
@@ -547,9 +547,9 @@
     },
     {
         "Room": "FL Fort Lauderdale Conf Room",
-        "Mic": true,
-        "Camera": true,
-        "Controller": true,
-        "Alert": false
+        "Mic": false,
+        "Camera": false,
+        "Controller": false,
+        "Alert": true
     }
 ]

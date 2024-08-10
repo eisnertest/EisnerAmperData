@@ -36,9 +36,9 @@
     },
     {
         "Room": "NYC MC 9.52 9th floor",
-        "Mic": true,
-        "Camera": true,
-        "Controller": true,
+        "Mic": false,
+        "Camera": false,
+        "Controller": false,
         "Alert": false
     },
     {
@@ -351,10 +351,10 @@
     },
     {
         "Room": "FL West Palm Beach WPB 10th Conf RM",
-        "Mic": true,
-        "Camera": true,
-        "Controller": true,
-        "Alert": false
+        "Mic": false,
+        "Camera": false,
+        "Controller": false,
+        "Alert": true
     },
     {
         "Room": "FL West Palm Beach Audit Tax Conference",
@@ -547,9 +547,9 @@
     },
     {
         "Room": "FL Fort Lauderdale Conf Room",
-        "Mic": true,
-        "Camera": true,
-        "Controller": true,
-        "Alert": false
+        "Mic": false,
+        "Camera": false,
+        "Controller": false,
+        "Alert": true
     }
 ]

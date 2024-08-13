@@ -305,7 +305,7 @@
         "Mic": false,
         "Camera": true,
         "Controller": true,
-        "Alert": true
+        "Alert": false
     },
     {
         "Room": "Mumbai God Father",

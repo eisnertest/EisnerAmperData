@@ -45,8 +45,8 @@
         "Room": "NYC Bryant Park 8th floor",
         "Mic": true,
         "Camera": true,
-        "Controller": true,
-        "Alert": false
+        "Controller": false,
+        "Alert": true
     },
     {
         "Room": "NYC Rock Center 8th floor",
@@ -220,8 +220,8 @@
         "Room": "NJ MP 6003 6th floor",
         "Mic": true,
         "Camera": true,
-        "Controller": true,
-        "Alert": false
+        "Controller": false,
+        "Alert": true
     },
     {
         "Room": "NJ MP 6002 6th floor",
@@ -325,8 +325,8 @@
         "Room": "NY Melville Conf RM 2.89",
         "Mic": true,
         "Camera": true,
-        "Controller": false,
-        "Alert": true
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "NY Melville Conf RM 2.90",

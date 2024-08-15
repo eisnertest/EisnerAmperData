@@ -38,8 +38,8 @@
         "Room": "NYC MC 9.52 9th floor",
         "Mic": true,
         "Camera": true,
-        "Controller": true,
-        "Alert": false
+        "Controller": false,
+        "Alert": true
     },
     {
         "Room": "NYC Bryant Park 8th floor",
@@ -176,10 +176,10 @@
     },
     {
         "Room": "NJ MP 7107 7th floor",
-        "Mic": true,
-        "Camera": true,
-        "Controller": true,
-        "Alert": false
+        "Mic": false,
+        "Camera": false,
+        "Controller": false,
+        "Alert": true
     },
     {
         "Room": "NJ MP 6310 6th floor",
@@ -393,10 +393,10 @@
     },
     {
         "Room": "NJ Woodcliff Lake New Jersey",
-        "Mic": true,
-        "Camera": true,
-        "Controller": true,
-        "Alert": false
+        "Mic": false,
+        "Camera": false,
+        "Controller": false,
+        "Alert": true
     },
     {
         "Room": "MN Lurie Room MCC",

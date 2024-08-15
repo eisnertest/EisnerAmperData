@@ -114,7 +114,7 @@
     {
         "Room": "NJ Metropark Boardroom 6th floor",
         "Mic": true,
-        "Camera": false,
+        "Camera": true,
         "Controller": true,
         "Alert": false
     },
@@ -549,7 +549,7 @@
         "Room": "FL Fort Lauderdale Conf Room",
         "Mic": true,
         "Camera": true,
-        "Controller": false,
-        "Alert": true
+        "Controller": true,
+        "Alert": false
     }
 ]

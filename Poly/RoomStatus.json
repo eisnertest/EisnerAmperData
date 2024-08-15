@@ -423,8 +423,8 @@
         "Room": "MN Eiger Room",
         "Mic": true,
         "Camera": true,
-        "Controller": false,
-        "Alert": true
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "CA La Jolla The Shores",

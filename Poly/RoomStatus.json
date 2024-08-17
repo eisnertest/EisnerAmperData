@@ -533,10 +533,10 @@
     },
     {
         "Room": "Chicago Small Conf Room",
-        "Mic": true,
-        "Camera": true,
-        "Controller": true,
-        "Alert": false
+        "Mic": false,
+        "Camera": false,
+        "Controller": false,
+        "Alert": true
     },
     {
         "Room": "Chicago Large Conf Room",

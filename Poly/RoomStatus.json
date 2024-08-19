@@ -304,7 +304,7 @@
         "Room": "Mumbai Bond007",
         "Mic": true,
         "Camera": true,
-        "Controller": false,
+        "Controller": true,
         "Alert": false
     },
     {
@@ -444,7 +444,7 @@
         "Room": "Bangalore Guruku",
         "Mic": false,
         "Camera": false,
-        "Controller": false,
+        "Controller": true,
         "Alert": false
     },
     {

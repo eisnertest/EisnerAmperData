@@ -486,8 +486,8 @@
         "Room": "Dallas JP Conference Room",
         "Mic": true,
         "Camera": true,
-        "Controller": true,
-        "Alert": false
+        "Controller": false,
+        "Alert": true
     },
     {
         "Room": "Dallas Main Conference Room",

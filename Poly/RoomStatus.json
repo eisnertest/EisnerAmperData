@@ -129,7 +129,7 @@
         "Room": "NJ MP TR B 1st floor",
         "Mic": false,
         "Camera": true,
-        "Controller": true,
+        "Controller": false,
         "Alert": false
     },
     {

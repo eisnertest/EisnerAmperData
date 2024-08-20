@@ -276,7 +276,7 @@
         "Room": "Mumbai Einstein",
         "Mic": false,
         "Camera": false,
-        "Controller": true,
+        "Controller": false,
         "Alert": false
     },
     {
@@ -486,7 +486,7 @@
         "Room": "Dallas JP Conference Room",
         "Mic": true,
         "Camera": true,
-        "Controller": false,
+        "Controller": true,
         "Alert": false
     },
     {

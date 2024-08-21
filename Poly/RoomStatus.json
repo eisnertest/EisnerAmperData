@@ -284,21 +284,21 @@
         "Mic": false,
         "Camera": false,
         "Controller": false,
-        "Alert": true
+        "Alert": false
     },
     {
         "Room": "Mumbai Darth Vader",
         "Mic": false,
         "Camera": false,
         "Controller": false,
-        "Alert": true
+        "Alert": false
     },
     {
         "Room": "Mumbai Iron Man",
-        "Mic": false,
-        "Camera": false,
-        "Controller": false,
-        "Alert": true
+        "Mic": true,
+        "Camera": true,
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "Mumbai Bond007",
@@ -312,7 +312,7 @@
         "Mic": false,
         "Camera": false,
         "Controller": false,
-        "Alert": true
+        "Alert": false
     },
     {
         "Room": "NY Melville Conf RM 2.14",

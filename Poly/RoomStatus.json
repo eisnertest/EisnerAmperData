@@ -361,7 +361,7 @@
         "Mic": false,
         "Camera": false,
         "Controller": false,
-        "Alert": true
+        "Alert": false
     },
     {
         "Room": "FL West Palm Beach Large Tax Conference",

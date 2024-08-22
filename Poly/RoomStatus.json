@@ -50,10 +50,10 @@
     },
     {
         "Room": "NYC Rock Center 8th floor",
-        "Mic": false,
-        "Camera": false,
-        "Controller": false,
-        "Alert": true
+        "Mic": true,
+        "Camera": true,
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "NYC MC 8.52 8th floor",
@@ -129,7 +129,7 @@
         "Room": "NJ MP TR B 1st floor",
         "Mic": false,
         "Camera": true,
-        "Controller": false,
+        "Controller": true,
         "Alert": false
     },
     {
@@ -241,8 +241,8 @@
         "Room": "PA Philly Conf 30E 02",
         "Mic": true,
         "Camera": true,
-        "Controller": false,
-        "Alert": true
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "PA Philly Conf 30E 55",
@@ -316,10 +316,10 @@
     },
     {
         "Room": "NY Melville Conf RM 2.14",
-        "Mic": false,
-        "Camera": false,
-        "Controller": false,
-        "Alert": true
+        "Mic": true,
+        "Camera": true,
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "NY Melville Conf RM 2.89",
@@ -332,8 +332,8 @@
         "Room": "NY Melville Conf RM 2.90",
         "Mic": true,
         "Camera": true,
-        "Controller": true,
-        "Alert": false
+        "Controller": false,
+        "Alert": true
     },
     {
         "Room": "NY Melville Conf RM 2.91",
@@ -549,7 +549,7 @@
         "Room": "FL Fort Lauderdale Conf Room",
         "Mic": true,
         "Camera": true,
-        "Controller": true,
-        "Alert": false
+        "Controller": false,
+        "Alert": true
     }
 ]

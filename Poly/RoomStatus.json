@@ -232,10 +232,10 @@
     },
     {
         "Room": "PA Philly Conf 30W 09",
-        "Mic": false,
-        "Camera": false,
-        "Controller": false,
-        "Alert": true
+        "Mic": true,
+        "Camera": true,
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "PA Philly Conf 30E 02",

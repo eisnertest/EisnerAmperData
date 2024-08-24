@@ -31,8 +31,8 @@
         "Room": "NYC Moma 9th floor",
         "Mic": true,
         "Camera": true,
-        "Controller": false,
-        "Alert": true
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "NYC MC 9.52 9th floor",
@@ -85,10 +85,10 @@
     },
     {
         "Room": "NYC Grammercy 7th floor",
-        "Mic": true,
-        "Camera": true,
-        "Controller": true,
-        "Alert": false
+        "Mic": false,
+        "Camera": false,
+        "Controller": false,
+        "Alert": true
     },
     {
         "Room": "NYC Wall St 6th floor",
@@ -239,10 +239,10 @@
     },
     {
         "Room": "PA Philly Conf 30E 02",
-        "Mic": false,
-        "Camera": false,
-        "Controller": false,
-        "Alert": true
+        "Mic": true,
+        "Camera": true,
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "PA Philly Conf 30E 55",
@@ -344,10 +344,10 @@
     },
     {
         "Room": "NJ Mt. Laurel Conf Rm",
-        "Mic": true,
-        "Camera": true,
-        "Controller": true,
-        "Alert": false
+        "Mic": false,
+        "Camera": false,
+        "Controller": false,
+        "Alert": true
     },
     {
         "Room": "FL West Palm Beach WPB 10th Conf RM",

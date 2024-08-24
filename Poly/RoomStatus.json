@@ -31,8 +31,8 @@
         "Room": "NYC Moma 9th floor",
         "Mic": true,
         "Camera": true,
-        "Controller": true,
-        "Alert": false
+        "Controller": false,
+        "Alert": true
     },
     {
         "Room": "NYC MC 9.52 9th floor",
@@ -239,10 +239,10 @@
     },
     {
         "Room": "PA Philly Conf 30E 02",
-        "Mic": true,
-        "Camera": true,
-        "Controller": true,
-        "Alert": false
+        "Mic": false,
+        "Camera": false,
+        "Controller": false,
+        "Alert": true
     },
     {
         "Room": "PA Philly Conf 30E 55",

@@ -290,8 +290,8 @@
         "Room": "Mumbai Darth Vader",
         "Mic": true,
         "Camera": true,
-        "Controller": true,
-        "Alert": false
+        "Controller": false,
+        "Alert": true
     },
     {
         "Room": "Mumbai Iron Man",
@@ -451,7 +451,7 @@
         "Room": "Bangalore Anfield",
         "Mic": false,
         "Camera": false,
-        "Controller": false,
+        "Controller": true,
         "Alert": false
     },
     {

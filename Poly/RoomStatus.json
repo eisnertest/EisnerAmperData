@@ -290,8 +290,8 @@
         "Room": "Mumbai Darth Vader",
         "Mic": true,
         "Camera": true,
-        "Controller": false,
-        "Alert": true
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "Mumbai Iron Man",

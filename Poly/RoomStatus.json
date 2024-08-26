@@ -288,9 +288,9 @@
     },
     {
         "Room": "Mumbai Darth Vader",
-        "Mic": true,
-        "Camera": true,
-        "Controller": true,
+        "Mic": false,
+        "Camera": false,
+        "Controller": false,
         "Alert": false
     },
     {

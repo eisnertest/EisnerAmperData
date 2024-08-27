@@ -178,8 +178,8 @@
         "Room": "NJ MP 7107 7th floor",
         "Mic": true,
         "Camera": true,
-        "Controller": false,
-        "Alert": true
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "NJ MP 6310 6th floor",
@@ -255,8 +255,8 @@
         "Room": "PA Philly Conf 29W 24",
         "Mic": true,
         "Camera": true,
-        "Controller": true,
-        "Alert": false
+        "Controller": false,
+        "Alert": true
     },
     {
         "Room": "PA Philly Conf 29E 55",

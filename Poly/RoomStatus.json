@@ -276,15 +276,15 @@
         "Room": "Mumbai Einstein",
         "Mic": false,
         "Camera": false,
-        "Controller": false,
+        "Controller": true,
         "Alert": false
     },
     {
         "Room": "Mumbai War Room",
-        "Mic": false,
-        "Camera": false,
-        "Controller": false,
-        "Alert": true
+        "Mic": true,
+        "Camera": true,
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "Mumbai Darth Vader",
@@ -311,7 +311,7 @@
         "Room": "Mumbai God Father",
         "Mic": true,
         "Camera": true,
-        "Controller": false,
+        "Controller": true,
         "Alert": false
     },
     {
@@ -372,10 +372,10 @@
     },
     {
         "Room": "Hyderabad Falaknuma",
-        "Mic": false,
-        "Camera": false,
-        "Controller": false,
-        "Alert": true
+        "Mic": true,
+        "Camera": true,
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "Hyderabad Koh-i-Noor",

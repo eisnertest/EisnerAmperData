@@ -311,7 +311,7 @@
         "Room": "Mumbai God Father",
         "Mic": true,
         "Camera": true,
-        "Controller": true,
+        "Controller": false,
         "Alert": false
     },
     {

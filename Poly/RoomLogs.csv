@@ -1,1 +1,1002 @@
 "timestamp", "Room", "message"
+"timestamp", "Room", "message"
+2024-08-28 17:34:17, FL Fort Lauderdale Conf Room, 0
+2024-08-28 17:34:17, Chicago Large Conf Room, 0
+2024-08-28 17:34:17, Chicago Small Conf Room, 1
+2024-08-28 17:34:17, MD Owing Mills Large Conf, 0
+2024-08-28 17:34:17, MD Owing Mills Medium Conf, 0
+2024-08-28 17:34:17, MD Owing Mills Small Conf, 0
+2024-08-28 17:34:17, CA San Mateo, 0
+2024-08-28 17:34:17, Dallas Training Room, 0
+2024-08-28 17:34:17, Dallas Main Conference Room, 0
+2024-08-28 17:34:17, Dallas JP Conference Room, 0
+2024-08-28 17:34:17, Bangalore Eden, 0
+2024-08-28 17:34:17, Bangalore CampNou, 0
+2024-08-28 17:34:17, Bangalore SanSiro, 1
+2024-08-28 17:34:17, Bangalore OldTrafford, 0
+2024-08-28 17:34:17, Bangalore Anfield, 1
+2024-08-28 17:34:17, Bangalore Guruku, 1
+2024-08-28 17:34:17, CA La Jolla The Cove, 0
+2024-08-28 17:34:17, CA La Jolla The Shores, 0
+2024-08-28 17:34:17, MN Eiger Room, 0
+2024-08-28 17:34:17, MN Glickman, 0
+2024-08-28 17:34:17, MN Boardroom, 0
+2024-08-28 17:34:17, MN Lurie Room MCC, 0
+2024-08-28 17:34:17, NJ Woodcliff Lake New Jersey, 0
+2024-08-28 17:34:17, Hyderabad Kakatiya Training Room, 1
+2024-08-28 17:34:17, Hyderabad Koh-i-Noor, 0
+2024-08-28 17:34:17, Hyderabad Falaknuma, 0
+2024-08-28 17:34:17, FL West Palm Beach Large Tax Conference, 0
+2024-08-28 17:34:17, FL West Palm Beach Audit Tax Conference, 1
+2024-08-28 17:34:17, FL West Palm Beach WPB 10th Conf RM, 0
+2024-08-28 17:34:17, NJ Mt. Laurel Conf Rm, 0
+2024-08-28 17:34:17, NY Melville Conf RM 2.91, 0
+2024-08-28 17:34:17, NY Melville Conf RM 2.90, 0
+2024-08-28 17:34:17, NY Melville Conf RM 2.89, 0
+2024-08-28 17:34:17, NY Melville Conf RM 2.14, 0
+2024-08-28 17:34:17, Mumbai God Father, 0
+2024-08-28 17:34:17, Mumbai Bond007, 0
+2024-08-28 17:34:17, Mumbai Iron Man, 0
+2024-08-28 17:34:17, Mumbai Darth Vader, 0
+2024-08-28 17:34:17, Mumbai War Room, 0
+2024-08-28 17:34:17, Mumbai Einstein, 1
+2024-08-28 17:34:17, Mumbai Newton, 1
+2024-08-28 17:34:17, PA Philly Conf 29E 55, 0
+2024-08-28 17:34:17, PA Philly Conf 29W 24, 0
+2024-08-28 17:34:17, PA Philly Conf 30E 55, 0
+2024-08-28 17:34:17, PA Philly Conf 30E 02, 0
+2024-08-28 17:34:17, PA Philly Conf 30W 09, 0
+2024-08-28 17:34:17, NJ MP 6002 6th floor, 0
+2024-08-28 17:34:17, NJ MP 6003 6th floor, 1
+2024-08-28 17:34:17, NJ MP 6107 6th floor, 0
+2024-08-28 17:34:17, NJ MP 6203 6th floor, 0
+2024-08-28 17:34:17, NJ MP 6255 6th floor, 0
+2024-08-28 17:34:17, NJ MP 6309 6th floor, 0
+2024-08-28 17:34:17, NJ MP 6310 6th floor, 0
+2024-08-28 17:34:17, NJ MP 7107 7th floor, 0
+2024-08-28 17:34:17, NJ MP 7201 7th floor, 1
+2024-08-28 17:34:17, NJ MP 7202 7th floor, 0
+2024-08-28 17:34:17, NJ MP 7310 7th floor, 0
+2024-08-28 17:34:17, NJ MP 7366 7th floor, 0
+2024-08-28 17:34:17, NJ MP 8309 8th floor, 0
+2024-08-28 17:34:17, NJ MP 8322 8th floor, 0
+2024-08-28 17:34:17, NJ MP TR B 1st floor, 1
+2024-08-28 17:34:17, NJ MP TR A 1st floor, 1
+2024-08-28 17:34:17, NJ Metropark Boardroom 6th floor, 0
+2024-08-28 17:34:17, NYC MC 6.52 6th floor, 1
+2024-08-28 17:34:17, NYC Liberty 6th floor, 0
+2024-08-28 17:34:17, NYC Wall St 6th floor, 0
+2024-08-28 17:34:17, NYC Grammercy 7th floor, 0
+2024-08-28 17:34:17, NYC MC 7.85 7th floor, 0
+2024-08-28 17:34:17, NYC High Line 7th floor, 0
+2024-08-28 17:34:17, NYC Union Square 7th floor, 0
+2024-08-28 17:34:17, NYC MC 8.52 8th floor, 1
+2024-08-28 17:34:17, NYC Rock Center 8th floor, 0
+2024-08-28 17:34:17, NYC Bryant Park 8th floor, 0
+2024-08-28 17:34:17, NYC MC 9.52 9th floor, 0
+2024-08-28 17:34:17, NYC Moma 9th floor, 0
+2024-08-28 17:34:17, NYC Columbus Circle 9th floor, 0
+2024-08-28 17:34:17, NYC MC 10.52 10th floor, 0
+2024-08-28 17:34:17, NYC The Met 10th floor, 0
+2024-08-28 17:34:17, NYC Apollo 10th floor, 0
+2024-08-28 17:34:14, FL Fort Lauderdale Conf Room, 0
+2024-08-28 17:34:14, Chicago Large Conf Room, 0
+2024-08-28 17:34:14, Chicago Small Conf Room, 1
+2024-08-28 17:34:14, MD Owing Mills Large Conf, 0
+2024-08-28 17:34:14, MD Owing Mills Medium Conf, 0
+2024-08-28 17:34:14, MD Owing Mills Small Conf, 0
+2024-08-28 17:34:14, CA San Mateo, 0
+2024-08-28 17:34:14, Dallas Training Room, 0
+2024-08-28 17:34:14, Dallas Main Conference Room, 0
+2024-08-28 17:34:14, Dallas JP Conference Room, 0
+2024-08-28 17:34:14, Bangalore Eden, 0
+2024-08-28 17:34:14, Bangalore CampNou, 0
+2024-08-28 17:34:14, Bangalore SanSiro, 1
+2024-08-28 17:34:14, Bangalore OldTrafford, 0
+2024-08-28 17:34:14, Bangalore Anfield, 1
+2024-08-28 17:34:14, Bangalore Guruku, 1
+2024-08-28 17:34:14, CA La Jolla The Cove, 0
+2024-08-28 17:34:14, CA La Jolla The Shores, 0
+2024-08-28 17:34:14, MN Eiger Room, 0
+2024-08-28 17:34:14, MN Glickman, 0
+2024-08-28 17:34:14, MN Boardroom, 0
+2024-08-28 17:34:14, MN Lurie Room MCC, 0
+2024-08-28 17:34:14, NJ Woodcliff Lake New Jersey, 0
+2024-08-28 17:34:14, Hyderabad Kakatiya Training Room, 1
+2024-08-28 17:34:14, Hyderabad Koh-i-Noor, 0
+2024-08-28 17:34:14, Hyderabad Falaknuma, 0
+2024-08-28 17:34:14, FL West Palm Beach Large Tax Conference, 0
+2024-08-28 17:34:14, FL West Palm Beach Audit Tax Conference, 1
+2024-08-28 17:34:14, FL West Palm Beach WPB 10th Conf RM, 0
+2024-08-28 17:34:14, NJ Mt. Laurel Conf Rm, 0
+2024-08-28 17:34:14, NY Melville Conf RM 2.91, 0
+2024-08-28 17:34:14, NY Melville Conf RM 2.90, 0
+2024-08-28 17:34:14, NY Melville Conf RM 2.89, 0
+2024-08-28 17:34:14, NY Melville Conf RM 2.14, 0
+2024-08-28 17:34:14, Mumbai God Father, 0
+2024-08-28 17:34:14, Mumbai Bond007, 0
+2024-08-28 17:34:14, Mumbai Iron Man, 0
+2024-08-28 17:34:14, Mumbai Darth Vader, 0
+2024-08-28 17:34:14, Mumbai War Room, 0
+2024-08-28 17:34:14, Mumbai Einstein, 1
+2024-08-28 17:34:14, Mumbai Newton, 1
+2024-08-28 17:34:14, PA Philly Conf 29E 55, 0
+2024-08-28 17:34:14, PA Philly Conf 29W 24, 0
+2024-08-28 17:34:14, PA Philly Conf 30E 55, 0
+2024-08-28 17:34:14, PA Philly Conf 30E 02, 0
+2024-08-28 17:34:14, PA Philly Conf 30W 09, 0
+2024-08-28 17:34:14, NJ MP 6002 6th floor, 0
+2024-08-28 17:34:14, NJ MP 6003 6th floor, 1
+2024-08-28 17:34:14, NJ MP 6107 6th floor, 0
+2024-08-28 17:34:14, NJ MP 6203 6th floor, 0
+2024-08-28 17:34:14, NJ MP 6255 6th floor, 0
+2024-08-28 17:34:14, NJ MP 6309 6th floor, 0
+2024-08-28 17:34:14, NJ MP 6310 6th floor, 0
+2024-08-28 17:34:14, NJ MP 7107 7th floor, 0
+2024-08-28 17:34:14, NJ MP 7201 7th floor, 1
+2024-08-28 17:34:14, NJ MP 7202 7th floor, 0
+2024-08-28 17:34:14, NJ MP 7310 7th floor, 0
+2024-08-28 17:34:14, NJ MP 7366 7th floor, 0
+2024-08-28 17:34:14, NJ MP 8309 8th floor, 0
+2024-08-28 17:34:14, NJ MP 8322 8th floor, 0
+2024-08-28 17:34:14, NJ MP TR B 1st floor, 1
+2024-08-28 17:34:14, NJ MP TR A 1st floor, 1
+2024-08-28 17:34:14, NJ Metropark Boardroom 6th floor, 0
+2024-08-28 17:34:14, NYC MC 6.52 6th floor, 1
+2024-08-28 17:34:14, NYC Liberty 6th floor, 0
+2024-08-28 17:34:14, NYC Wall St 6th floor, 0
+2024-08-28 17:34:14, NYC Grammercy 7th floor, 0
+2024-08-28 17:34:14, NYC MC 7.85 7th floor, 0
+2024-08-28 17:34:14, NYC High Line 7th floor, 0
+2024-08-28 17:34:14, NYC Union Square 7th floor, 0
+2024-08-28 17:34:14, NYC MC 8.52 8th floor, 1
+2024-08-28 17:34:14, NYC Rock Center 8th floor, 0
+2024-08-28 17:34:14, NYC Bryant Park 8th floor, 0
+2024-08-28 17:34:14, NYC MC 9.52 9th floor, 0
+2024-08-28 17:34:14, NYC Moma 9th floor, 0
+2024-08-28 17:34:14, NYC Columbus Circle 9th floor, 0
+2024-08-28 17:34:14, NYC MC 10.52 10th floor, 0
+2024-08-28 17:34:14, NYC The Met 10th floor, 0
+2024-08-28 17:34:14, NYC Apollo 10th floor, 0
+2024-08-28 17:24:15, FL Fort Lauderdale Conf Room, 0
+2024-08-28 17:24:15, Chicago Large Conf Room, 0
+2024-08-28 17:24:15, Chicago Small Conf Room, 1
+2024-08-28 17:24:15, MD Owing Mills Large Conf, 0
+2024-08-28 17:24:15, MD Owing Mills Medium Conf, 0
+2024-08-28 17:24:15, MD Owing Mills Small Conf, 0
+2024-08-28 17:24:15, CA San Mateo, 0
+2024-08-28 17:24:15, Dallas Training Room, 0
+2024-08-28 17:24:15, Dallas Main Conference Room, 0
+2024-08-28 17:24:15, Dallas JP Conference Room, 0
+2024-08-28 17:24:15, Bangalore Eden, 0
+2024-08-28 17:24:15, Bangalore CampNou, 0
+2024-08-28 17:24:15, Bangalore SanSiro, 1
+2024-08-28 17:24:15, Bangalore OldTrafford, 0
+2024-08-28 17:24:15, Bangalore Anfield, 1
+2024-08-28 17:24:15, Bangalore Guruku, 1
+2024-08-28 17:24:15, CA La Jolla The Cove, 0
+2024-08-28 17:24:15, CA La Jolla The Shores, 0
+2024-08-28 17:24:15, MN Eiger Room, 0
+2024-08-28 17:24:15, MN Glickman, 0
+2024-08-28 17:24:15, MN Boardroom, 0
+2024-08-28 17:24:15, MN Lurie Room MCC, 0
+2024-08-28 17:24:15, NJ Woodcliff Lake New Jersey, 0
+2024-08-28 17:24:15, Hyderabad Kakatiya Training Room, 1
+2024-08-28 17:24:15, Hyderabad Koh-i-Noor, 0
+2024-08-28 17:24:15, Hyderabad Falaknuma, 0
+2024-08-28 17:24:15, FL West Palm Beach Large Tax Conference, 0
+2024-08-28 17:24:15, FL West Palm Beach Audit Tax Conference, 1
+2024-08-28 17:24:15, FL West Palm Beach WPB 10th Conf RM, 0
+2024-08-28 17:24:15, NJ Mt. Laurel Conf Rm, 0
+2024-08-28 17:24:15, NY Melville Conf RM 2.91, 0
+2024-08-28 17:24:15, NY Melville Conf RM 2.90, 0
+2024-08-28 17:24:15, NY Melville Conf RM 2.89, 0
+2024-08-28 17:24:15, NY Melville Conf RM 2.14, 0
+2024-08-28 17:24:15, Mumbai God Father, 0
+2024-08-28 17:24:15, Mumbai Bond007, 0
+2024-08-28 17:24:15, Mumbai Iron Man, 0
+2024-08-28 17:24:15, Mumbai Darth Vader, 0
+2024-08-28 17:24:15, Mumbai War Room, 0
+2024-08-28 17:24:15, Mumbai Einstein, 1
+2024-08-28 17:24:15, Mumbai Newton, 1
+2024-08-28 17:24:15, PA Philly Conf 29E 55, 0
+2024-08-28 17:24:15, PA Philly Conf 29W 24, 0
+2024-08-28 17:24:15, PA Philly Conf 30E 55, 0
+2024-08-28 17:24:15, PA Philly Conf 30E 02, 0
+2024-08-28 17:24:15, PA Philly Conf 30W 09, 0
+2024-08-28 17:24:15, NJ MP 6002 6th floor, 0
+2024-08-28 17:24:15, NJ MP 6003 6th floor, 1
+2024-08-28 17:24:15, NJ MP 6107 6th floor, 0
+2024-08-28 17:24:15, NJ MP 6203 6th floor, 0
+2024-08-28 17:24:15, NJ MP 6255 6th floor, 0
+2024-08-28 17:24:15, NJ MP 6309 6th floor, 0
+2024-08-28 17:24:15, NJ MP 6310 6th floor, 0
+2024-08-28 17:24:15, NJ MP 7107 7th floor, 0
+2024-08-28 17:24:15, NJ MP 7201 7th floor, 1
+2024-08-28 17:24:15, NJ MP 7202 7th floor, 0
+2024-08-28 17:24:15, NJ MP 7310 7th floor, 0
+2024-08-28 17:24:15, NJ MP 7366 7th floor, 0
+2024-08-28 17:24:15, NJ MP 8309 8th floor, 0
+2024-08-28 17:24:15, NJ MP 8322 8th floor, 0
+2024-08-28 17:24:15, NJ MP TR B 1st floor, 1
+2024-08-28 17:24:15, NJ MP TR A 1st floor, 1
+2024-08-28 17:24:15, NJ Metropark Boardroom 6th floor, 0
+2024-08-28 17:24:15, NYC MC 6.52 6th floor, 1
+2024-08-28 17:24:15, NYC Liberty 6th floor, 0
+2024-08-28 17:24:15, NYC Wall St 6th floor, 0
+2024-08-28 17:24:15, NYC Grammercy 7th floor, 0
+2024-08-28 17:24:15, NYC MC 7.85 7th floor, 0
+2024-08-28 17:24:15, NYC High Line 7th floor, 0
+2024-08-28 17:24:15, NYC Union Square 7th floor, 0
+2024-08-28 17:24:15, NYC MC 8.52 8th floor, 1
+2024-08-28 17:24:15, NYC Rock Center 8th floor, 0
+2024-08-28 17:24:15, NYC Bryant Park 8th floor, 0
+2024-08-28 17:24:15, NYC MC 9.52 9th floor, 0
+2024-08-28 17:24:15, NYC Moma 9th floor, 0
+2024-08-28 17:24:15, NYC Columbus Circle 9th floor, 0
+2024-08-28 17:24:15, NYC MC 10.52 10th floor, 0
+2024-08-28 17:24:15, NYC The Met 10th floor, 0
+2024-08-28 17:24:15, NYC Apollo 10th floor, 0
+2024-08-28 17:14:13, FL Fort Lauderdale Conf Room, 0
+2024-08-28 17:14:13, Chicago Large Conf Room, 0
+2024-08-28 17:14:13, Chicago Small Conf Room, 1
+2024-08-28 17:14:13, MD Owing Mills Large Conf, 0
+2024-08-28 17:14:13, MD Owing Mills Medium Conf, 0
+2024-08-28 17:14:13, MD Owing Mills Small Conf, 0
+2024-08-28 17:14:13, CA San Mateo, 0
+2024-08-28 17:14:13, Dallas Training Room, 0
+2024-08-28 17:14:13, Dallas Main Conference Room, 0
+2024-08-28 17:14:13, Dallas JP Conference Room, 0
+2024-08-28 17:14:13, Bangalore Eden, 0
+2024-08-28 17:14:13, Bangalore CampNou, 0
+2024-08-28 17:14:13, Bangalore SanSiro, 1
+2024-08-28 17:14:13, Bangalore OldTrafford, 0
+2024-08-28 17:14:13, Bangalore Anfield, 1
+2024-08-28 17:14:13, Bangalore Guruku, 1
+2024-08-28 17:14:13, CA La Jolla The Cove, 0
+2024-08-28 17:14:13, CA La Jolla The Shores, 0
+2024-08-28 17:14:13, MN Eiger Room, 0
+2024-08-28 17:14:13, MN Glickman, 0
+2024-08-28 17:14:13, MN Boardroom, 0
+2024-08-28 17:14:13, MN Lurie Room MCC, 0
+2024-08-28 17:14:13, NJ Woodcliff Lake New Jersey, 0
+2024-08-28 17:14:13, Hyderabad Kakatiya Training Room, 1
+2024-08-28 17:14:13, Hyderabad Koh-i-Noor, 0
+2024-08-28 17:14:13, Hyderabad Falaknuma, 0
+2024-08-28 17:14:13, FL West Palm Beach Large Tax Conference, 0
+2024-08-28 17:14:13, FL West Palm Beach Audit Tax Conference, 1
+2024-08-28 17:14:13, FL West Palm Beach WPB 10th Conf RM, 0
+2024-08-28 17:14:13, NJ Mt. Laurel Conf Rm, 0
+2024-08-28 17:14:13, NY Melville Conf RM 2.91, 0
+2024-08-28 17:14:13, NY Melville Conf RM 2.90, 0
+2024-08-28 17:14:13, NY Melville Conf RM 2.89, 0
+2024-08-28 17:14:13, NY Melville Conf RM 2.14, 0
+2024-08-28 17:14:13, Mumbai God Father, 0
+2024-08-28 17:14:13, Mumbai Bond007, 0
+2024-08-28 17:14:13, Mumbai Iron Man, 0
+2024-08-28 17:14:13, Mumbai Darth Vader, 0
+2024-08-28 17:14:13, Mumbai War Room, 0
+2024-08-28 17:14:13, Mumbai Einstein, 1
+2024-08-28 17:14:13, Mumbai Newton, 1
+2024-08-28 17:14:13, PA Philly Conf 29E 55, 0
+2024-08-28 17:14:13, PA Philly Conf 29W 24, 0
+2024-08-28 17:14:13, PA Philly Conf 30E 55, 0
+2024-08-28 17:14:13, PA Philly Conf 30E 02, 0
+2024-08-28 17:14:13, PA Philly Conf 30W 09, 0
+2024-08-28 17:14:13, NJ MP 6002 6th floor, 0
+2024-08-28 17:14:13, NJ MP 6003 6th floor, 1
+2024-08-28 17:14:13, NJ MP 6107 6th floor, 0
+2024-08-28 17:14:13, NJ MP 6203 6th floor, 0
+2024-08-28 17:14:13, NJ MP 6255 6th floor, 0
+2024-08-28 17:14:13, NJ MP 6309 6th floor, 0
+2024-08-28 17:14:13, NJ MP 6310 6th floor, 0
+2024-08-28 17:14:13, NJ MP 7107 7th floor, 0
+2024-08-28 17:14:13, NJ MP 7201 7th floor, 1
+2024-08-28 17:14:13, NJ MP 7202 7th floor, 0
+2024-08-28 17:14:13, NJ MP 7310 7th floor, 0
+2024-08-28 17:14:13, NJ MP 7366 7th floor, 0
+2024-08-28 17:14:13, NJ MP 8309 8th floor, 0
+2024-08-28 17:14:13, NJ MP 8322 8th floor, 0
+2024-08-28 17:14:13, NJ MP TR B 1st floor, 1
+2024-08-28 17:14:13, NJ MP TR A 1st floor, 1
+2024-08-28 17:14:13, NJ Metropark Boardroom 6th floor, 0
+2024-08-28 17:14:13, NYC MC 6.52 6th floor, 1
+2024-08-28 17:14:13, NYC Liberty 6th floor, 0
+2024-08-28 17:14:13, NYC Wall St 6th floor, 0
+2024-08-28 17:14:13, NYC Grammercy 7th floor, 0
+2024-08-28 17:14:13, NYC MC 7.85 7th floor, 0
+2024-08-28 17:14:13, NYC High Line 7th floor, 0
+2024-08-28 17:14:13, NYC Union Square 7th floor, 0
+2024-08-28 17:14:13, NYC MC 8.52 8th floor, 1
+2024-08-28 17:14:13, NYC Rock Center 8th floor, 0
+2024-08-28 17:14:13, NYC Bryant Park 8th floor, 0
+2024-08-28 17:14:13, NYC MC 9.52 9th floor, 0
+2024-08-28 17:14:13, NYC Moma 9th floor, 0
+2024-08-28 17:14:13, NYC Columbus Circle 9th floor, 0
+2024-08-28 17:14:13, NYC MC 10.52 10th floor, 0
+2024-08-28 17:14:13, NYC The Met 10th floor, 0
+2024-08-28 17:14:13, NYC Apollo 10th floor, 0
+2024-08-28 17:04:14, FL Fort Lauderdale Conf Room, 0
+2024-08-28 17:04:14, Chicago Large Conf Room, 0
+2024-08-28 17:04:14, Chicago Small Conf Room, 1
+2024-08-28 17:04:14, MD Owing Mills Large Conf, 0
+2024-08-28 17:04:14, MD Owing Mills Medium Conf, 0
+2024-08-28 17:04:14, MD Owing Mills Small Conf, 0
+2024-08-28 17:04:14, CA San Mateo, 0
+2024-08-28 17:04:14, Dallas Training Room, 0
+2024-08-28 17:04:14, Dallas Main Conference Room, 0
+2024-08-28 17:04:14, Dallas JP Conference Room, 0
+2024-08-28 17:04:14, Bangalore Eden, 0
+2024-08-28 17:04:14, Bangalore CampNou, 0
+2024-08-28 17:04:14, Bangalore SanSiro, 1
+2024-08-28 17:04:14, Bangalore OldTrafford, 0
+2024-08-28 17:04:14, Bangalore Anfield, 1
+2024-08-28 17:04:14, Bangalore Guruku, 1
+2024-08-28 17:04:14, CA La Jolla The Cove, 0
+2024-08-28 17:04:14, CA La Jolla The Shores, 0
+2024-08-28 17:04:14, MN Eiger Room, 0
+2024-08-28 17:04:14, MN Glickman, 0
+2024-08-28 17:04:14, MN Boardroom, 0
+2024-08-28 17:04:14, MN Lurie Room MCC, 0
+2024-08-28 17:04:14, NJ Woodcliff Lake New Jersey, 0
+2024-08-28 17:04:14, Hyderabad Kakatiya Training Room, 1
+2024-08-28 17:04:14, Hyderabad Koh-i-Noor, 0
+2024-08-28 17:04:14, Hyderabad Falaknuma, 0
+2024-08-28 17:04:14, FL West Palm Beach Large Tax Conference, 0
+2024-08-28 17:04:14, FL West Palm Beach Audit Tax Conference, 1
+2024-08-28 17:04:14, FL West Palm Beach WPB 10th Conf RM, 0
+2024-08-28 17:04:14, NJ Mt. Laurel Conf Rm, 0
+2024-08-28 17:04:14, NY Melville Conf RM 2.91, 0
+2024-08-28 17:04:14, NY Melville Conf RM 2.90, 0
+2024-08-28 17:04:14, NY Melville Conf RM 2.89, 0
+2024-08-28 17:04:14, NY Melville Conf RM 2.14, 0
+2024-08-28 17:04:14, Mumbai God Father, 0
+2024-08-28 17:04:14, Mumbai Bond007, 0
+2024-08-28 17:04:14, Mumbai Iron Man, 0
+2024-08-28 17:04:14, Mumbai Darth Vader, 0
+2024-08-28 17:04:14, Mumbai War Room, 0
+2024-08-28 17:04:14, Mumbai Einstein, 1
+2024-08-28 17:04:14, Mumbai Newton, 1
+2024-08-28 17:04:14, PA Philly Conf 29E 55, 0
+2024-08-28 17:04:14, PA Philly Conf 29W 24, 0
+2024-08-28 17:04:14, PA Philly Conf 30E 55, 0
+2024-08-28 17:04:14, PA Philly Conf 30E 02, 0
+2024-08-28 17:04:14, PA Philly Conf 30W 09, 0
+2024-08-28 17:04:14, NJ MP 6002 6th floor, 0
+2024-08-28 17:04:14, NJ MP 6003 6th floor, 1
+2024-08-28 17:04:14, NJ MP 6107 6th floor, 0
+2024-08-28 17:04:14, NJ MP 6203 6th floor, 0
+2024-08-28 17:04:14, NJ MP 6255 6th floor, 0
+2024-08-28 17:04:14, NJ MP 6309 6th floor, 0
+2024-08-28 17:04:14, NJ MP 6310 6th floor, 0
+2024-08-28 17:04:14, NJ MP 7107 7th floor, 0
+2024-08-28 17:04:14, NJ MP 7201 7th floor, 1
+2024-08-28 17:04:14, NJ MP 7202 7th floor, 0
+2024-08-28 17:04:14, NJ MP 7310 7th floor, 0
+2024-08-28 17:04:14, NJ MP 7366 7th floor, 0
+2024-08-28 17:04:14, NJ MP 8309 8th floor, 0
+2024-08-28 17:04:14, NJ MP 8322 8th floor, 0
+2024-08-28 17:04:14, NJ MP TR B 1st floor, 1
+2024-08-28 17:04:14, NJ MP TR A 1st floor, 1
+2024-08-28 17:04:14, NJ Metropark Boardroom 6th floor, 0
+2024-08-28 17:04:14, NYC MC 6.52 6th floor, 1
+2024-08-28 17:04:14, NYC Liberty 6th floor, 0
+2024-08-28 17:04:14, NYC Wall St 6th floor, 0
+2024-08-28 17:04:14, NYC Grammercy 7th floor, 0
+2024-08-28 17:04:14, NYC MC 7.85 7th floor, 0
+2024-08-28 17:04:14, NYC High Line 7th floor, 0
+2024-08-28 17:04:14, NYC Union Square 7th floor, 0
+2024-08-28 17:04:14, NYC MC 8.52 8th floor, 1
+2024-08-28 17:04:14, NYC Rock Center 8th floor, 0
+2024-08-28 17:04:14, NYC Bryant Park 8th floor, 0
+2024-08-28 17:04:14, NYC MC 9.52 9th floor, 0
+2024-08-28 17:04:14, NYC Moma 9th floor, 0
+2024-08-28 17:04:14, NYC Columbus Circle 9th floor, 0
+2024-08-28 17:04:14, NYC MC 10.52 10th floor, 0
+2024-08-28 17:04:14, NYC The Met 10th floor, 0
+2024-08-28 17:04:14, NYC Apollo 10th floor, 0
+2024-08-28 16:54:15, FL Fort Lauderdale Conf Room, 0
+2024-08-28 16:54:15, Chicago Large Conf Room, 0
+2024-08-28 16:54:15, Chicago Small Conf Room, 1
+2024-08-28 16:54:15, MD Owing Mills Large Conf, 0
+2024-08-28 16:54:15, MD Owing Mills Medium Conf, 0
+2024-08-28 16:54:15, MD Owing Mills Small Conf, 0
+2024-08-28 16:54:15, CA San Mateo, 0
+2024-08-28 16:54:15, Dallas Training Room, 0
+2024-08-28 16:54:15, Dallas Main Conference Room, 0
+2024-08-28 16:54:15, Dallas JP Conference Room, 0
+2024-08-28 16:54:15, Bangalore Eden, 0
+2024-08-28 16:54:15, Bangalore CampNou, 0
+2024-08-28 16:54:15, Bangalore SanSiro, 1
+2024-08-28 16:54:15, Bangalore OldTrafford, 0
+2024-08-28 16:54:15, Bangalore Anfield, 1
+2024-08-28 16:54:15, Bangalore Guruku, 1
+2024-08-28 16:54:15, CA La Jolla The Cove, 0
+2024-08-28 16:54:15, CA La Jolla The Shores, 0
+2024-08-28 16:54:15, MN Eiger Room, 0
+2024-08-28 16:54:15, MN Glickman, 0
+2024-08-28 16:54:15, MN Boardroom, 0
+2024-08-28 16:54:15, MN Lurie Room MCC, 0
+2024-08-28 16:54:15, NJ Woodcliff Lake New Jersey, 0
+2024-08-28 16:54:15, Hyderabad Kakatiya Training Room, 1
+2024-08-28 16:54:15, Hyderabad Koh-i-Noor, 0
+2024-08-28 16:54:15, Hyderabad Falaknuma, 0
+2024-08-28 16:54:15, FL West Palm Beach Large Tax Conference, 0
+2024-08-28 16:54:15, FL West Palm Beach Audit Tax Conference, 1
+2024-08-28 16:54:15, FL West Palm Beach WPB 10th Conf RM, 0
+2024-08-28 16:54:15, NJ Mt. Laurel Conf Rm, 0
+2024-08-28 16:54:15, NY Melville Conf RM 2.91, 0
+2024-08-28 16:54:15, NY Melville Conf RM 2.90, 0
+2024-08-28 16:54:15, NY Melville Conf RM 2.89, 0
+2024-08-28 16:54:15, NY Melville Conf RM 2.14, 0
+2024-08-28 16:54:15, Mumbai God Father, 0
+2024-08-28 16:54:15, Mumbai Bond007, 0
+2024-08-28 16:54:15, Mumbai Iron Man, 0
+2024-08-28 16:54:15, Mumbai Darth Vader, 0
+2024-08-28 16:54:15, Mumbai War Room, 0
+2024-08-28 16:54:15, Mumbai Einstein, 1
+2024-08-28 16:54:15, Mumbai Newton, 1
+2024-08-28 16:54:15, PA Philly Conf 29E 55, 0
+2024-08-28 16:54:15, PA Philly Conf 29W 24, 0
+2024-08-28 16:54:15, PA Philly Conf 30E 55, 0
+2024-08-28 16:54:15, PA Philly Conf 30E 02, 0
+2024-08-28 16:54:15, PA Philly Conf 30W 09, 0
+2024-08-28 16:54:15, NJ MP 6002 6th floor, 0
+2024-08-28 16:54:15, NJ MP 6003 6th floor, 1
+2024-08-28 16:54:15, NJ MP 6107 6th floor, 0
+2024-08-28 16:54:15, NJ MP 6203 6th floor, 0
+2024-08-28 16:54:15, NJ MP 6255 6th floor, 0
+2024-08-28 16:54:15, NJ MP 6309 6th floor, 0
+2024-08-28 16:54:15, NJ MP 6310 6th floor, 0
+2024-08-28 16:54:15, NJ MP 7107 7th floor, 0
+2024-08-28 16:54:15, NJ MP 7201 7th floor, 1
+2024-08-28 16:54:15, NJ MP 7202 7th floor, 0
+2024-08-28 16:54:15, NJ MP 7310 7th floor, 0
+2024-08-28 16:54:15, NJ MP 7366 7th floor, 0
+2024-08-28 16:54:15, NJ MP 8309 8th floor, 0
+2024-08-28 16:54:15, NJ MP 8322 8th floor, 0
+2024-08-28 16:54:15, NJ MP TR B 1st floor, 1
+2024-08-28 16:54:15, NJ MP TR A 1st floor, 1
+2024-08-28 16:54:15, NJ Metropark Boardroom 6th floor, 0
+2024-08-28 16:54:15, NYC MC 6.52 6th floor, 1
+2024-08-28 16:54:15, NYC Liberty 6th floor, 0
+2024-08-28 16:54:15, NYC Wall St 6th floor, 0
+2024-08-28 16:54:15, NYC Grammercy 7th floor, 0
+2024-08-28 16:54:15, NYC MC 7.85 7th floor, 0
+2024-08-28 16:54:15, NYC High Line 7th floor, 0
+2024-08-28 16:54:15, NYC Union Square 7th floor, 0
+2024-08-28 16:54:15, NYC MC 8.52 8th floor, 1
+2024-08-28 16:54:15, NYC Rock Center 8th floor, 0
+2024-08-28 16:54:15, NYC Bryant Park 8th floor, 0
+2024-08-28 16:54:15, NYC MC 9.52 9th floor, 0
+2024-08-28 16:54:15, NYC Moma 9th floor, 0
+2024-08-28 16:54:15, NYC Columbus Circle 9th floor, 0
+2024-08-28 16:54:15, NYC MC 10.52 10th floor, 0
+2024-08-28 16:54:15, NYC The Met 10th floor, 0
+2024-08-28 16:54:15, NYC Apollo 10th floor, 0
+2024-08-28 16:44:15, FL Fort Lauderdale Conf Room, 0
+2024-08-28 16:44:15, Chicago Large Conf Room, 0
+2024-08-28 16:44:15, Chicago Small Conf Room, 1
+2024-08-28 16:44:15, MD Owing Mills Large Conf, 0
+2024-08-28 16:44:15, MD Owing Mills Medium Conf, 0
+2024-08-28 16:44:15, MD Owing Mills Small Conf, 0
+2024-08-28 16:44:15, CA San Mateo, 0
+2024-08-28 16:44:15, Dallas Training Room, 0
+2024-08-28 16:44:15, Dallas Main Conference Room, 0
+2024-08-28 16:44:15, Dallas JP Conference Room, 0
+2024-08-28 16:44:15, Bangalore Eden, 0
+2024-08-28 16:44:15, Bangalore CampNou, 0
+2024-08-28 16:44:15, Bangalore SanSiro, 1
+2024-08-28 16:44:15, Bangalore OldTrafford, 0
+2024-08-28 16:44:15, Bangalore Anfield, 1
+2024-08-28 16:44:15, Bangalore Guruku, 1
+2024-08-28 16:44:15, CA La Jolla The Cove, 0
+2024-08-28 16:44:15, CA La Jolla The Shores, 0
+2024-08-28 16:44:15, MN Eiger Room, 0
+2024-08-28 16:44:15, MN Glickman, 0
+2024-08-28 16:44:15, MN Boardroom, 0
+2024-08-28 16:44:15, MN Lurie Room MCC, 0
+2024-08-28 16:44:15, NJ Woodcliff Lake New Jersey, 0
+2024-08-28 16:44:15, Hyderabad Kakatiya Training Room, 1
+2024-08-28 16:44:15, Hyderabad Koh-i-Noor, 0
+2024-08-28 16:44:15, Hyderabad Falaknuma, 0
+2024-08-28 16:44:15, FL West Palm Beach Large Tax Conference, 0
+2024-08-28 16:44:15, FL West Palm Beach Audit Tax Conference, 1
+2024-08-28 16:44:15, FL West Palm Beach WPB 10th Conf RM, 0
+2024-08-28 16:44:15, NJ Mt. Laurel Conf Rm, 0
+2024-08-28 16:44:15, NY Melville Conf RM 2.91, 0
+2024-08-28 16:44:15, NY Melville Conf RM 2.90, 0
+2024-08-28 16:44:15, NY Melville Conf RM 2.89, 0
+2024-08-28 16:44:15, NY Melville Conf RM 2.14, 0
+2024-08-28 16:44:15, Mumbai God Father, 0
+2024-08-28 16:44:15, Mumbai Bond007, 0
+2024-08-28 16:44:15, Mumbai Iron Man, 0
+2024-08-28 16:44:15, Mumbai Darth Vader, 0
+2024-08-28 16:44:15, Mumbai War Room, 0
+2024-08-28 16:44:15, Mumbai Einstein, 1
+2024-08-28 16:44:15, Mumbai Newton, 1
+2024-08-28 16:44:15, PA Philly Conf 29E 55, 0
+2024-08-28 16:44:15, PA Philly Conf 29W 24, 0
+2024-08-28 16:44:15, PA Philly Conf 30E 55, 0
+2024-08-28 16:44:15, PA Philly Conf 30E 02, 0
+2024-08-28 16:44:15, PA Philly Conf 30W 09, 0
+2024-08-28 16:44:15, NJ MP 6002 6th floor, 0
+2024-08-28 16:44:15, NJ MP 6003 6th floor, 1
+2024-08-28 16:44:15, NJ MP 6107 6th floor, 0
+2024-08-28 16:44:15, NJ MP 6203 6th floor, 0
+2024-08-28 16:44:15, NJ MP 6255 6th floor, 0
+2024-08-28 16:44:15, NJ MP 6309 6th floor, 0
+2024-08-28 16:44:15, NJ MP 6310 6th floor, 0
+2024-08-28 16:44:15, NJ MP 7107 7th floor, 0
+2024-08-28 16:44:15, NJ MP 7201 7th floor, 1
+2024-08-28 16:44:15, NJ MP 7202 7th floor, 0
+2024-08-28 16:44:15, NJ MP 7310 7th floor, 0
+2024-08-28 16:44:15, NJ MP 7366 7th floor, 0
+2024-08-28 16:44:15, NJ MP 8309 8th floor, 0
+2024-08-28 16:44:15, NJ MP 8322 8th floor, 0
+2024-08-28 16:44:15, NJ MP TR B 1st floor, 1
+2024-08-28 16:44:15, NJ MP TR A 1st floor, 1
+2024-08-28 16:44:15, NJ Metropark Boardroom 6th floor, 0
+2024-08-28 16:44:15, NYC MC 6.52 6th floor, 1
+2024-08-28 16:44:15, NYC Liberty 6th floor, 0
+2024-08-28 16:44:15, NYC Wall St 6th floor, 0
+2024-08-28 16:44:15, NYC Grammercy 7th floor, 0
+2024-08-28 16:44:15, NYC MC 7.85 7th floor, 0
+2024-08-28 16:44:15, NYC High Line 7th floor, 0
+2024-08-28 16:44:15, NYC Union Square 7th floor, 0
+2024-08-28 16:44:15, NYC MC 8.52 8th floor, 1
+2024-08-28 16:44:15, NYC Rock Center 8th floor, 0
+2024-08-28 16:44:15, NYC Bryant Park 8th floor, 0
+2024-08-28 16:44:15, NYC MC 9.52 9th floor, 0
+2024-08-28 16:44:15, NYC Moma 9th floor, 0
+2024-08-28 16:44:15, NYC Columbus Circle 9th floor, 0
+2024-08-28 16:44:15, NYC MC 10.52 10th floor, 0
+2024-08-28 16:44:15, NYC The Met 10th floor, 0
+2024-08-28 16:44:15, NYC Apollo 10th floor, 0
+2024-08-28 16:34:28, FL Fort Lauderdale Conf Room, 0
+2024-08-28 16:34:28, Chicago Large Conf Room, 0
+2024-08-28 16:34:28, Chicago Small Conf Room, 1
+2024-08-28 16:34:28, MD Owing Mills Large Conf, 0
+2024-08-28 16:34:28, MD Owing Mills Medium Conf, 0
+2024-08-28 16:34:28, MD Owing Mills Small Conf, 0
+2024-08-28 16:34:28, CA San Mateo, 0
+2024-08-28 16:34:28, Dallas Training Room, 0
+2024-08-28 16:34:28, Dallas Main Conference Room, 0
+2024-08-28 16:34:28, Dallas JP Conference Room, 0
+2024-08-28 16:34:28, Bangalore Eden, 0
+2024-08-28 16:34:28, Bangalore CampNou, 0
+2024-08-28 16:34:28, Bangalore SanSiro, 1
+2024-08-28 16:34:28, Bangalore OldTrafford, 0
+2024-08-28 16:34:28, Bangalore Anfield, 1
+2024-08-28 16:34:28, Bangalore Guruku, 1
+2024-08-28 16:34:28, CA La Jolla The Cove, 0
+2024-08-28 16:34:28, CA La Jolla The Shores, 0
+2024-08-28 16:34:28, MN Eiger Room, 0
+2024-08-28 16:34:28, MN Glickman, 0
+2024-08-28 16:34:28, MN Boardroom, 0
+2024-08-28 16:34:28, MN Lurie Room MCC, 0
+2024-08-28 16:34:28, NJ Woodcliff Lake New Jersey, 0
+2024-08-28 16:34:28, Hyderabad Kakatiya Training Room, 1
+2024-08-28 16:34:28, Hyderabad Koh-i-Noor, 0
+2024-08-28 16:34:28, Hyderabad Falaknuma, 0
+2024-08-28 16:34:28, FL West Palm Beach Large Tax Conference, 0
+2024-08-28 16:34:28, FL West Palm Beach Audit Tax Conference, 1
+2024-08-28 16:34:28, FL West Palm Beach WPB 10th Conf RM, 0
+2024-08-28 16:34:28, NJ Mt. Laurel Conf Rm, 0
+2024-08-28 16:34:28, NY Melville Conf RM 2.91, 0
+2024-08-28 16:34:28, NY Melville Conf RM 2.90, 0
+2024-08-28 16:34:28, NY Melville Conf RM 2.89, 0
+2024-08-28 16:34:28, NY Melville Conf RM 2.14, 0
+2024-08-28 16:34:28, Mumbai God Father, 0
+2024-08-28 16:34:28, Mumbai Bond007, 0
+2024-08-28 16:34:28, Mumbai Iron Man, 0
+2024-08-28 16:34:28, Mumbai Darth Vader, 0
+2024-08-28 16:34:28, Mumbai War Room, 0
+2024-08-28 16:34:28, Mumbai Einstein, 1
+2024-08-28 16:34:28, Mumbai Newton, 1
+2024-08-28 16:34:28, PA Philly Conf 29E 55, 0
+2024-08-28 16:34:28, PA Philly Conf 29W 24, 0
+2024-08-28 16:34:28, PA Philly Conf 30E 55, 0
+2024-08-28 16:34:28, PA Philly Conf 30E 02, 0
+2024-08-28 16:34:28, PA Philly Conf 30W 09, 0
+2024-08-28 16:34:28, NJ MP 6002 6th floor, 0
+2024-08-28 16:34:28, NJ MP 6003 6th floor, 1
+2024-08-28 16:34:28, NJ MP 6107 6th floor, 0
+2024-08-28 16:34:28, NJ MP 6203 6th floor, 0
+2024-08-28 16:34:28, NJ MP 6255 6th floor, 0
+2024-08-28 16:34:28, NJ MP 6309 6th floor, 0
+2024-08-28 16:34:28, NJ MP 6310 6th floor, 0
+2024-08-28 16:34:28, NJ MP 7107 7th floor, 0
+2024-08-28 16:34:28, NJ MP 7201 7th floor, 1
+2024-08-28 16:34:28, NJ MP 7202 7th floor, 0
+2024-08-28 16:34:28, NJ MP 7310 7th floor, 0
+2024-08-28 16:34:28, NJ MP 7366 7th floor, 0
+2024-08-28 16:34:28, NJ MP 8309 8th floor, 0
+2024-08-28 16:34:28, NJ MP 8322 8th floor, 0
+2024-08-28 16:34:28, NJ MP TR B 1st floor, 1
+2024-08-28 16:34:28, NJ MP TR A 1st floor, 1
+2024-08-28 16:34:28, NJ Metropark Boardroom 6th floor, 0
+2024-08-28 16:34:28, NYC MC 6.52 6th floor, 1
+2024-08-28 16:34:28, NYC Liberty 6th floor, 0
+2024-08-28 16:34:28, NYC Wall St 6th floor, 0
+2024-08-28 16:34:28, NYC Grammercy 7th floor, 0
+2024-08-28 16:34:28, NYC MC 7.85 7th floor, 0
+2024-08-28 16:34:28, NYC High Line 7th floor, 0
+2024-08-28 16:34:28, NYC Union Square 7th floor, 0
+2024-08-28 16:34:28, NYC MC 8.52 8th floor, 1
+2024-08-28 16:34:28, NYC Rock Center 8th floor, 0
+2024-08-28 16:34:28, NYC Bryant Park 8th floor, 0
+2024-08-28 16:34:28, NYC MC 9.52 9th floor, 0
+2024-08-28 16:34:28, NYC Moma 9th floor, 0
+2024-08-28 16:34:28, NYC Columbus Circle 9th floor, 0
+2024-08-28 16:34:28, NYC MC 10.52 10th floor, 0
+2024-08-28 16:34:28, NYC The Met 10th floor, 0
+2024-08-28 16:34:28, NYC Apollo 10th floor, 0
+2024-08-28 16:34:13, FL Fort Lauderdale Conf Room, 0
+2024-08-28 16:34:13, Chicago Large Conf Room, 0
+2024-08-28 16:34:13, Chicago Small Conf Room, 1
+2024-08-28 16:34:13, MD Owing Mills Large Conf, 0
+2024-08-28 16:34:13, MD Owing Mills Medium Conf, 0
+2024-08-28 16:34:13, MD Owing Mills Small Conf, 0
+2024-08-28 16:34:13, CA San Mateo, 0
+2024-08-28 16:34:13, Dallas Training Room, 0
+2024-08-28 16:34:13, Dallas Main Conference Room, 0
+2024-08-28 16:34:13, Dallas JP Conference Room, 0
+2024-08-28 16:34:13, Bangalore Eden, 0
+2024-08-28 16:34:13, Bangalore CampNou, 0
+2024-08-28 16:34:13, Bangalore SanSiro, 1
+2024-08-28 16:34:13, Bangalore OldTrafford, 0
+2024-08-28 16:34:13, Bangalore Anfield, 1
+2024-08-28 16:34:13, Bangalore Guruku, 1
+2024-08-28 16:34:13, CA La Jolla The Cove, 0
+2024-08-28 16:34:13, CA La Jolla The Shores, 0
+2024-08-28 16:34:13, MN Eiger Room, 0
+2024-08-28 16:34:13, MN Glickman, 0
+2024-08-28 16:34:13, MN Boardroom, 0
+2024-08-28 16:34:13, MN Lurie Room MCC, 0
+2024-08-28 16:34:13, NJ Woodcliff Lake New Jersey, 0
+2024-08-28 16:34:13, Hyderabad Kakatiya Training Room, 1
+2024-08-28 16:34:13, Hyderabad Koh-i-Noor, 0
+2024-08-28 16:34:13, Hyderabad Falaknuma, 0
+2024-08-28 16:34:13, FL West Palm Beach Large Tax Conference, 0
+2024-08-28 16:34:13, FL West Palm Beach Audit Tax Conference, 1
+2024-08-28 16:34:13, FL West Palm Beach WPB 10th Conf RM, 0
+2024-08-28 16:34:13, NJ Mt. Laurel Conf Rm, 0
+2024-08-28 16:34:13, NY Melville Conf RM 2.91, 0
+2024-08-28 16:34:13, NY Melville Conf RM 2.90, 0
+2024-08-28 16:34:13, NY Melville Conf RM 2.89, 0
+2024-08-28 16:34:13, NY Melville Conf RM 2.14, 0
+2024-08-28 16:34:13, Mumbai God Father, 0
+2024-08-28 16:34:13, Mumbai Bond007, 0
+2024-08-28 16:34:13, Mumbai Iron Man, 0
+2024-08-28 16:34:13, Mumbai Darth Vader, 0
+2024-08-28 16:34:13, Mumbai War Room, 0
+2024-08-28 16:34:13, Mumbai Einstein, 1
+2024-08-28 16:34:13, Mumbai Newton, 1
+2024-08-28 16:34:13, PA Philly Conf 29E 55, 0
+2024-08-28 16:34:13, PA Philly Conf 29W 24, 0
+2024-08-28 16:34:13, PA Philly Conf 30E 55, 0
+2024-08-28 16:34:13, PA Philly Conf 30E 02, 0
+2024-08-28 16:34:13, PA Philly Conf 30W 09, 0
+2024-08-28 16:34:13, NJ MP 6002 6th floor, 0
+2024-08-28 16:34:13, NJ MP 6003 6th floor, 1
+2024-08-28 16:34:13, NJ MP 6107 6th floor, 0
+2024-08-28 16:34:13, NJ MP 6203 6th floor, 0
+2024-08-28 16:34:13, NJ MP 6255 6th floor, 0
+2024-08-28 16:34:13, NJ MP 6309 6th floor, 0
+2024-08-28 16:34:13, NJ MP 6310 6th floor, 0
+2024-08-28 16:34:13, NJ MP 7107 7th floor, 0
+2024-08-28 16:34:13, NJ MP 7201 7th floor, 1
+2024-08-28 16:34:13, NJ MP 7202 7th floor, 0
+2024-08-28 16:34:13, NJ MP 7310 7th floor, 0
+2024-08-28 16:34:13, NJ MP 7366 7th floor, 0
+2024-08-28 16:34:13, NJ MP 8309 8th floor, 0
+2024-08-28 16:34:13, NJ MP 8322 8th floor, 0
+2024-08-28 16:34:13, NJ MP TR B 1st floor, 1
+2024-08-28 16:34:13, NJ MP TR A 1st floor, 1
+2024-08-28 16:34:13, NJ Metropark Boardroom 6th floor, 0
+2024-08-28 16:34:13, NYC MC 6.52 6th floor, 1
+2024-08-28 16:34:13, NYC Liberty 6th floor, 0
+2024-08-28 16:34:13, NYC Wall St 6th floor, 0
+2024-08-28 16:34:13, NYC Grammercy 7th floor, 0
+2024-08-28 16:34:13, NYC MC 7.85 7th floor, 0
+2024-08-28 16:34:13, NYC High Line 7th floor, 0
+2024-08-28 16:34:13, NYC Union Square 7th floor, 0
+2024-08-28 16:34:13, NYC MC 8.52 8th floor, 1
+2024-08-28 16:34:13, NYC Rock Center 8th floor, 0
+2024-08-28 16:34:13, NYC Bryant Park 8th floor, 0
+2024-08-28 16:34:13, NYC MC 9.52 9th floor, 0
+2024-08-28 16:34:13, NYC Moma 9th floor, 0
+2024-08-28 16:34:13, NYC Columbus Circle 9th floor, 0
+2024-08-28 16:34:13, NYC MC 10.52 10th floor, 0
+2024-08-28 16:34:13, NYC The Met 10th floor, 0
+2024-08-28 16:34:13, NYC Apollo 10th floor, 0
+2024-08-28 16:24:14, FL Fort Lauderdale Conf Room, 0
+2024-08-28 16:24:14, Chicago Large Conf Room, 0
+2024-08-28 16:24:14, Chicago Small Conf Room, 1
+2024-08-28 16:24:14, MD Owing Mills Large Conf, 0
+2024-08-28 16:24:14, MD Owing Mills Medium Conf, 0
+2024-08-28 16:24:14, MD Owing Mills Small Conf, 0
+2024-08-28 16:24:14, CA San Mateo, 0
+2024-08-28 16:24:14, Dallas Training Room, 0
+2024-08-28 16:24:14, Dallas Main Conference Room, 0
+2024-08-28 16:24:14, Dallas JP Conference Room, 0
+2024-08-28 16:24:14, Bangalore Eden, 0
+2024-08-28 16:24:14, Bangalore CampNou, 0
+2024-08-28 16:24:14, Bangalore SanSiro, 1
+2024-08-28 16:24:14, Bangalore OldTrafford, 0
+2024-08-28 16:24:14, Bangalore Anfield, 1
+2024-08-28 16:24:14, Bangalore Guruku, 1
+2024-08-28 16:24:14, CA La Jolla The Cove, 0
+2024-08-28 16:24:14, CA La Jolla The Shores, 0
+2024-08-28 16:24:14, MN Eiger Room, 0
+2024-08-28 16:24:14, MN Glickman, 0
+2024-08-28 16:24:14, MN Boardroom, 0
+2024-08-28 16:24:14, MN Lurie Room MCC, 0
+2024-08-28 16:24:14, NJ Woodcliff Lake New Jersey, 0
+2024-08-28 16:24:14, Hyderabad Kakatiya Training Room, 1
+2024-08-28 16:24:14, Hyderabad Koh-i-Noor, 0
+2024-08-28 16:24:14, Hyderabad Falaknuma, 0
+2024-08-28 16:24:14, FL West Palm Beach Large Tax Conference, 0
+2024-08-28 16:24:14, FL West Palm Beach Audit Tax Conference, 1
+2024-08-28 16:24:14, FL West Palm Beach WPB 10th Conf RM, 0
+2024-08-28 16:24:14, NJ Mt. Laurel Conf Rm, 0
+2024-08-28 16:24:14, NY Melville Conf RM 2.91, 0
+2024-08-28 16:24:14, NY Melville Conf RM 2.90, 0
+2024-08-28 16:24:14, NY Melville Conf RM 2.89, 0
+2024-08-28 16:24:14, NY Melville Conf RM 2.14, 0
+2024-08-28 16:24:14, Mumbai God Father, 0
+2024-08-28 16:24:14, Mumbai Bond007, 0
+2024-08-28 16:24:14, Mumbai Iron Man, 0
+2024-08-28 16:24:14, Mumbai Darth Vader, 0
+2024-08-28 16:24:14, Mumbai War Room, 0
+2024-08-28 16:24:14, Mumbai Einstein, 1
+2024-08-28 16:24:14, Mumbai Newton, 1
+2024-08-28 16:24:14, PA Philly Conf 29E 55, 0
+2024-08-28 16:24:14, PA Philly Conf 29W 24, 0
+2024-08-28 16:24:14, PA Philly Conf 30E 55, 0
+2024-08-28 16:24:14, PA Philly Conf 30E 02, 0
+2024-08-28 16:24:14, PA Philly Conf 30W 09, 0
+2024-08-28 16:24:14, NJ MP 6002 6th floor, 0
+2024-08-28 16:24:14, NJ MP 6003 6th floor, 1
+2024-08-28 16:24:14, NJ MP 6107 6th floor, 0
+2024-08-28 16:24:14, NJ MP 6203 6th floor, 0
+2024-08-28 16:24:14, NJ MP 6255 6th floor, 0
+2024-08-28 16:24:14, NJ MP 6309 6th floor, 0
+2024-08-28 16:24:14, NJ MP 6310 6th floor, 0
+2024-08-28 16:24:14, NJ MP 7107 7th floor, 0
+2024-08-28 16:24:14, NJ MP 7201 7th floor, 1
+2024-08-28 16:24:14, NJ MP 7202 7th floor, 0
+2024-08-28 16:24:14, NJ MP 7310 7th floor, 0
+2024-08-28 16:24:14, NJ MP 7366 7th floor, 0
+2024-08-28 16:24:14, NJ MP 8309 8th floor, 0
+2024-08-28 16:24:14, NJ MP 8322 8th floor, 0
+2024-08-28 16:24:14, NJ MP TR B 1st floor, 1
+2024-08-28 16:24:14, NJ MP TR A 1st floor, 1
+2024-08-28 16:24:14, NJ Metropark Boardroom 6th floor, 0
+2024-08-28 16:24:14, NYC MC 6.52 6th floor, 1
+2024-08-28 16:24:14, NYC Liberty 6th floor, 0
+2024-08-28 16:24:14, NYC Wall St 6th floor, 0
+2024-08-28 16:24:14, NYC Grammercy 7th floor, 0
+2024-08-28 16:24:14, NYC MC 7.85 7th floor, 0
+2024-08-28 16:24:14, NYC High Line 7th floor, 0
+2024-08-28 16:24:14, NYC Union Square 7th floor, 0
+2024-08-28 16:24:14, NYC MC 8.52 8th floor, 1
+2024-08-28 16:24:14, NYC Rock Center 8th floor, 0
+2024-08-28 16:24:14, NYC Bryant Park 8th floor, 0
+2024-08-28 16:24:14, NYC MC 9.52 9th floor, 0
+2024-08-28 16:24:14, NYC Moma 9th floor, 0
+2024-08-28 16:24:14, NYC Columbus Circle 9th floor, 0
+2024-08-28 16:24:14, NYC MC 10.52 10th floor, 0
+2024-08-28 16:24:14, NYC The Met 10th floor, 0
+2024-08-28 16:24:14, NYC Apollo 10th floor, 0
+2024-08-28 16:14:34, FL Fort Lauderdale Conf Room, 0
+2024-08-28 16:14:34, Chicago Large Conf Room, 0
+2024-08-28 16:14:34, Chicago Small Conf Room, 1
+2024-08-28 16:14:34, MD Owing Mills Large Conf, 0
+2024-08-28 16:14:34, MD Owing Mills Medium Conf, 0
+2024-08-28 16:14:34, MD Owing Mills Small Conf, 1
+2024-08-28 16:14:34, CA San Mateo, 0
+2024-08-28 16:14:34, Dallas Training Room, 0
+2024-08-28 16:14:34, Dallas Main Conference Room, 0
+2024-08-28 16:14:34, Dallas JP Conference Room, 0
+2024-08-28 16:14:34, Bangalore Eden, 0
+2024-08-28 16:14:34, Bangalore CampNou, 0
+2024-08-28 16:14:34, Bangalore SanSiro, 1
+2024-08-28 16:14:34, Bangalore OldTrafford, 0
+2024-08-28 16:14:34, Bangalore Anfield, 1
+2024-08-28 16:14:34, Bangalore Guruku, 1
+2024-08-28 16:14:34, CA La Jolla The Cove, 0
+2024-08-28 16:14:34, CA La Jolla The Shores, 0
+2024-08-28 16:14:34, MN Eiger Room, 0
+2024-08-28 16:14:34, MN Glickman, 0
+2024-08-28 16:14:34, MN Boardroom, 0
+2024-08-28 16:14:34, MN Lurie Room MCC, 0
+2024-08-28 16:14:34, NJ Woodcliff Lake New Jersey, 0
+2024-08-28 16:14:34, Hyderabad Kakatiya Training Room, 1
+2024-08-28 16:14:34, Hyderabad Koh-i-Noor, 0
+2024-08-28 16:14:34, Hyderabad Falaknuma, 0
+2024-08-28 16:14:34, FL West Palm Beach Large Tax Conference, 0
+2024-08-28 16:14:34, FL West Palm Beach Audit Tax Conference, 1
+2024-08-28 16:14:34, FL West Palm Beach WPB 10th Conf RM, 0
+2024-08-28 16:14:34, NJ Mt. Laurel Conf Rm, 0
+2024-08-28 16:14:34, NY Melville Conf RM 2.91, 0
+2024-08-28 16:14:34, NY Melville Conf RM 2.90, 0
+2024-08-28 16:14:34, NY Melville Conf RM 2.89, 0
+2024-08-28 16:14:34, NY Melville Conf RM 2.14, 0
+2024-08-28 16:14:34, Mumbai God Father, 0
+2024-08-28 16:14:34, Mumbai Bond007, 0
+2024-08-28 16:14:34, Mumbai Iron Man, 0
+2024-08-28 16:14:34, Mumbai Darth Vader, 0
+2024-08-28 16:14:34, Mumbai War Room, 0
+2024-08-28 16:14:34, Mumbai Einstein, 1
+2024-08-28 16:14:34, Mumbai Newton, 1
+2024-08-28 16:14:34, PA Philly Conf 29E 55, 0
+2024-08-28 16:14:34, PA Philly Conf 29W 24, 0
+2024-08-28 16:14:34, PA Philly Conf 30E 55, 0
+2024-08-28 16:14:34, PA Philly Conf 30E 02, 0
+2024-08-28 16:14:34, PA Philly Conf 30W 09, 0
+2024-08-28 16:14:34, NJ MP 6002 6th floor, 0
+2024-08-28 16:14:34, NJ MP 6003 6th floor, 1
+2024-08-28 16:14:34, NJ MP 6107 6th floor, 0
+2024-08-28 16:14:34, NJ MP 6203 6th floor, 0
+2024-08-28 16:14:34, NJ MP 6255 6th floor, 0
+2024-08-28 16:14:34, NJ MP 6309 6th floor, 0
+2024-08-28 16:14:34, NJ MP 6310 6th floor, 0
+2024-08-28 16:14:34, NJ MP 7107 7th floor, 0
+2024-08-28 16:14:34, NJ MP 7201 7th floor, 1
+2024-08-28 16:14:34, NJ MP 7202 7th floor, 0
+2024-08-28 16:14:34, NJ MP 7310 7th floor, 0
+2024-08-28 16:14:34, NJ MP 7366 7th floor, 0
+2024-08-28 16:14:34, NJ MP 8309 8th floor, 0
+2024-08-28 16:14:34, NJ MP 8322 8th floor, 0
+2024-08-28 16:14:34, NJ MP TR B 1st floor, 1
+2024-08-28 16:14:34, NJ MP TR A 1st floor, 1
+2024-08-28 16:14:34, NJ Metropark Boardroom 6th floor, 0
+2024-08-28 16:14:34, NYC MC 6.52 6th floor, 1
+2024-08-28 16:14:34, NYC Liberty 6th floor, 0
+2024-08-28 16:14:34, NYC Wall St 6th floor, 0
+2024-08-28 16:14:34, NYC Grammercy 7th floor, 0
+2024-08-28 16:14:34, NYC MC 7.85 7th floor, 0
+2024-08-28 16:14:34, NYC High Line 7th floor, 0
+2024-08-28 16:14:34, NYC Union Square 7th floor, 0
+2024-08-28 16:14:34, NYC MC 8.52 8th floor, 1
+2024-08-28 16:14:34, NYC Rock Center 8th floor, 0
+2024-08-28 16:14:34, NYC Bryant Park 8th floor, 0
+2024-08-28 16:14:34, NYC MC 9.52 9th floor, 0
+2024-08-28 16:14:34, NYC Moma 9th floor, 0
+2024-08-28 16:14:34, NYC Columbus Circle 9th floor, 0
+2024-08-28 16:14:34, NYC MC 10.52 10th floor, 0
+2024-08-28 16:14:34, NYC The Met 10th floor, 0
+2024-08-28 16:14:34, NYC Apollo 10th floor, 0
+2024-08-28 16:04:14, FL Fort Lauderdale Conf Room, 0
+2024-08-28 16:04:14, Chicago Large Conf Room, 0
+2024-08-28 16:04:14, Chicago Small Conf Room, 1
+2024-08-28 16:04:14, MD Owing Mills Large Conf, 0
+2024-08-28 16:04:14, MD Owing Mills Medium Conf, 0
+2024-08-28 16:04:14, MD Owing Mills Small Conf, 0
+2024-08-28 16:04:14, CA San Mateo, 0
+2024-08-28 16:04:14, Dallas Training Room, 0
+2024-08-28 16:04:14, Dallas Main Conference Room, 0
+2024-08-28 16:04:14, Dallas JP Conference Room, 0
+2024-08-28 16:04:14, Bangalore Eden, 0
+2024-08-28 16:04:14, Bangalore CampNou, 0
+2024-08-28 16:04:14, Bangalore SanSiro, 1
+2024-08-28 16:04:14, Bangalore OldTrafford, 0
+2024-08-28 16:04:14, Bangalore Anfield, 1
+2024-08-28 16:04:14, Bangalore Guruku, 1
+2024-08-28 16:04:14, CA La Jolla The Cove, 0
+2024-08-28 16:04:14, CA La Jolla The Shores, 0
+2024-08-28 16:04:14, MN Eiger Room, 0
+2024-08-28 16:04:14, MN Glickman, 0
+2024-08-28 16:04:14, MN Boardroom, 0
+2024-08-28 16:04:14, MN Lurie Room MCC, 0
+2024-08-28 16:04:14, NJ Woodcliff Lake New Jersey, 0
+2024-08-28 16:04:14, Hyderabad Kakatiya Training Room, 1
+2024-08-28 16:04:14, Hyderabad Koh-i-Noor, 0
+2024-08-28 16:04:14, Hyderabad Falaknuma, 0
+2024-08-28 16:04:14, FL West Palm Beach Large Tax Conference, 0
+2024-08-28 16:04:14, FL West Palm Beach Audit Tax Conference, 1
+2024-08-28 16:04:14, FL West Palm Beach WPB 10th Conf RM, 0
+2024-08-28 16:04:14, NJ Mt. Laurel Conf Rm, 0
+2024-08-28 16:04:14, NY Melville Conf RM 2.91, 0
+2024-08-28 16:04:14, NY Melville Conf RM 2.90, 0
+2024-08-28 16:04:14, NY Melville Conf RM 2.89, 0
+2024-08-28 16:04:14, NY Melville Conf RM 2.14, 0
+2024-08-28 16:04:14, Mumbai God Father, 0
+2024-08-28 16:04:14, Mumbai Bond007, 0
+2024-08-28 16:04:14, Mumbai Iron Man, 0
+2024-08-28 16:04:14, Mumbai Darth Vader, 0
+2024-08-28 16:04:14, Mumbai War Room, 0
+2024-08-28 16:04:14, Mumbai Einstein, 1
+2024-08-28 16:04:14, Mumbai Newton, 1
+2024-08-28 16:04:14, PA Philly Conf 29E 55, 0
+2024-08-28 16:04:14, PA Philly Conf 29W 24, 0
+2024-08-28 16:04:14, PA Philly Conf 30E 55, 0
+2024-08-28 16:04:14, PA Philly Conf 30E 02, 0
+2024-08-28 16:04:14, PA Philly Conf 30W 09, 0
+2024-08-28 16:04:14, NJ MP 6002 6th floor, 0
+2024-08-28 16:04:14, NJ MP 6003 6th floor, 1
+2024-08-28 16:04:14, NJ MP 6107 6th floor, 0
+2024-08-28 16:04:14, NJ MP 6203 6th floor, 0
+2024-08-28 16:04:14, NJ MP 6255 6th floor, 0
+2024-08-28 16:04:14, NJ MP 6309 6th floor, 0
+2024-08-28 16:04:14, NJ MP 6310 6th floor, 0
+2024-08-28 16:04:14, NJ MP 7107 7th floor, 0
+2024-08-28 16:04:14, NJ MP 7201 7th floor, 1
+2024-08-28 16:04:14, NJ MP 7202 7th floor, 0
+2024-08-28 16:04:14, NJ MP 7310 7th floor, 0
+2024-08-28 16:04:14, NJ MP 7366 7th floor, 0
+2024-08-28 16:04:14, NJ MP 8309 8th floor, 0
+2024-08-28 16:04:14, NJ MP 8322 8th floor, 0
+2024-08-28 16:04:14, NJ MP TR B 1st floor, 1
+2024-08-28 16:04:14, NJ MP TR A 1st floor, 1
+2024-08-28 16:04:14, NJ Metropark Boardroom 6th floor, 0
+2024-08-28 16:04:14, NYC MC 6.52 6th floor, 1
+2024-08-28 16:04:14, NYC Liberty 6th floor, 0
+2024-08-28 16:04:14, NYC Wall St 6th floor, 0
+2024-08-28 16:04:14, NYC Grammercy 7th floor, 0
+2024-08-28 16:04:14, NYC MC 7.85 7th floor, 0
+2024-08-28 16:04:14, NYC High Line 7th floor, 0
+2024-08-28 16:04:14, NYC Union Square 7th floor, 0
+2024-08-28 16:04:14, NYC MC 8.52 8th floor, 1
+2024-08-28 16:04:14, NYC Rock Center 8th floor, 0
+2024-08-28 16:04:14, NYC Bryant Park 8th floor, 0
+2024-08-28 16:04:14, NYC MC 9.52 9th floor, 0
+2024-08-28 16:04:14, NYC Moma 9th floor, 0
+2024-08-28 16:04:14, NYC Columbus Circle 9th floor, 0
+2024-08-28 16:04:14, NYC MC 10.52 10th floor, 0
+2024-08-28 16:04:14, NYC The Met 10th floor, 0
+2024-08-28 16:04:14, NYC Apollo 10th floor, 0
+2024-08-28 15:54:14, FL Fort Lauderdale Conf Room, 0
+2024-08-28 15:54:14, Chicago Large Conf Room, 0
+2024-08-28 15:54:14, Chicago Small Conf Room, 1
+2024-08-28 15:54:14, MD Owing Mills Large Conf, 0
+2024-08-28 15:54:14, MD Owing Mills Medium Conf, 0
+2024-08-28 15:54:14, MD Owing Mills Small Conf, 0
+2024-08-28 15:54:14, CA San Mateo, 0
+2024-08-28 15:54:14, Dallas Training Room, 0
+2024-08-28 15:54:14, Dallas Main Conference Room, 0
+2024-08-28 15:54:14, Dallas JP Conference Room, 0
+2024-08-28 15:54:14, Bangalore Eden, 0
+2024-08-28 15:54:14, Bangalore CampNou, 0
+2024-08-28 15:54:14, Bangalore SanSiro, 1
+2024-08-28 15:54:14, Bangalore OldTrafford, 0
+2024-08-28 15:54:14, Bangalore Anfield, 1
+2024-08-28 15:54:14, Bangalore Guruku, 1
+2024-08-28 15:54:14, CA La Jolla The Cove, 0
+2024-08-28 15:54:14, CA La Jolla The Shores, 0
+2024-08-28 15:54:14, MN Eiger Room, 0
+2024-08-28 15:54:14, MN Glickman, 0
+2024-08-28 15:54:14, MN Boardroom, 0
+2024-08-28 15:54:14, MN Lurie Room MCC, 0
+2024-08-28 15:54:14, NJ Woodcliff Lake New Jersey, 0
+2024-08-28 15:54:14, Hyderabad Kakatiya Training Room, 1
+2024-08-28 15:54:14, Hyderabad Koh-i-Noor, 0
+2024-08-28 15:54:14, Hyderabad Falaknuma, 0
+2024-08-28 15:54:14, FL West Palm Beach Large Tax Conference, 0
+2024-08-28 15:54:14, FL West Palm Beach Audit Tax Conference, 1
+2024-08-28 15:54:14, FL West Palm Beach WPB 10th Conf RM, 0
+2024-08-28 15:54:14, NJ Mt. Laurel Conf Rm, 0
+2024-08-28 15:54:14, NY Melville Conf RM 2.91, 0
+2024-08-28 15:54:14, NY Melville Conf RM 2.90, 0
+2024-08-28 15:54:14, NY Melville Conf RM 2.89, 0
+2024-08-28 15:54:14, NY Melville Conf RM 2.14, 0
+2024-08-28 15:54:14, Mumbai God Father, 0
+2024-08-28 15:54:14, Mumbai Bond007, 0
+2024-08-28 15:54:14, Mumbai Iron Man, 0
+2024-08-28 15:54:14, Mumbai Darth Vader, 0
+2024-08-28 15:54:14, Mumbai War Room, 0
+2024-08-28 15:54:14, Mumbai Einstein, 1
+2024-08-28 15:54:14, Mumbai Newton, 1
+2024-08-28 15:54:14, PA Philly Conf 29E 55, 0
+2024-08-28 15:54:14, PA Philly Conf 29W 24, 0
+2024-08-28 15:54:14, PA Philly Conf 30E 55, 0
+2024-08-28 15:54:14, PA Philly Conf 30E 02, 0
+2024-08-28 15:54:14, PA Philly Conf 30W 09, 0
+2024-08-28 15:54:14, NJ MP 6002 6th floor, 0
+2024-08-28 15:54:14, NJ MP 6003 6th floor, 1
+2024-08-28 15:54:14, NJ MP 6107 6th floor, 0
+2024-08-28 15:54:14, NJ MP 6203 6th floor, 0
+2024-08-28 15:54:14, NJ MP 6255 6th floor, 0
+2024-08-28 15:54:14, NJ MP 6309 6th floor, 0

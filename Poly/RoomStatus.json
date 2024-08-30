@@ -157,8 +157,8 @@
         "Room": "NJ MP 7310 7th floor",
         "Mic": true,
         "Camera": true,
-        "Controller": false,
-        "Alert": true
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "NJ MP 7202 7th floor",
@@ -239,10 +239,10 @@
     },
     {
         "Room": "PA Philly Conf 30E 02",
-        "Mic": false,
-        "Camera": false,
-        "Controller": false,
-        "Alert": true
+        "Mic": true,
+        "Camera": true,
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "PA Philly Conf 30E 55",
@@ -253,10 +253,10 @@
     },
     {
         "Room": "PA Philly Conf 29W 24",
-        "Mic": true,
-        "Camera": true,
-        "Controller": true,
-        "Alert": false
+        "Mic": false,
+        "Camera": false,
+        "Controller": false,
+        "Alert": true
     },
     {
         "Room": "PA Philly Conf 29E 55",
@@ -323,10 +323,10 @@
     },
     {
         "Room": "NY Melville Conf RM 2.89",
-        "Mic": false,
-        "Camera": false,
-        "Controller": false,
-        "Alert": true
+        "Mic": true,
+        "Camera": true,
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "NY Melville Conf RM 2.90",
@@ -514,8 +514,8 @@
         "Room": "MD Owing Mills Small Conf",
         "Mic": true,
         "Camera": true,
-        "Controller": false,
-        "Alert": true
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "MD Owing Mills Medium Conf",

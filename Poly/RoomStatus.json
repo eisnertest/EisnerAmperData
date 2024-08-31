@@ -540,10 +540,10 @@
     },
     {
         "Room": "Chicago Large Conf Room",
-        "Mic": false,
+        "Mic": true,
         "Camera": true,
         "Controller": true,
-        "Alert": true
+        "Alert": false
     },
     {
         "Room": "FL Fort Lauderdale Conf Room",

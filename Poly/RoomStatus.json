@@ -157,7 +157,7 @@
         "Room": "NJ MP 7310 7th floor",
         "Mic": true,
         "Camera": true,
-        "Controller": false,
+        "Controller": true,
         "Alert": false
     },
     {
@@ -323,9 +323,9 @@
     },
     {
         "Room": "NY Melville Conf RM 2.89",
-        "Mic": true,
-        "Camera": true,
-        "Controller": true,
+        "Mic": false,
+        "Camera": false,
+        "Controller": false,
         "Alert": false
     },
     {
@@ -344,10 +344,10 @@
     },
     {
         "Room": "NJ Mt. Laurel Conf Rm",
-        "Mic": true,
-        "Camera": true,
-        "Controller": true,
-        "Alert": false
+        "Mic": false,
+        "Camera": false,
+        "Controller": false,
+        "Alert": true
     },
     {
         "Room": "FL West Palm Beach WPB 10th Conf RM",
@@ -519,10 +519,10 @@
     },
     {
         "Room": "MD Owing Mills Medium Conf",
-        "Mic": true,
-        "Camera": true,
-        "Controller": true,
-        "Alert": false
+        "Mic": false,
+        "Camera": false,
+        "Controller": false,
+        "Alert": true
     },
     {
         "Room": "MD Owing Mills Large Conf",

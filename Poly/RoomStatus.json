@@ -64,10 +64,10 @@
     },
     {
         "Room": "NYC Union Square 7th floor",
-        "Mic": false,
-        "Camera": false,
-        "Controller": false,
-        "Alert": true
+        "Mic": true,
+        "Camera": true,
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "NYC High Line 7th floor",
@@ -253,10 +253,10 @@
     },
     {
         "Room": "PA Philly Conf 29W 24",
-        "Mic": false,
-        "Camera": false,
-        "Controller": false,
-        "Alert": true
+        "Mic": true,
+        "Camera": true,
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "PA Philly Conf 29E 55",

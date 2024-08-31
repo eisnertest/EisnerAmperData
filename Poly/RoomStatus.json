@@ -64,10 +64,10 @@
     },
     {
         "Room": "NYC Union Square 7th floor",
-        "Mic": true,
-        "Camera": true,
-        "Controller": true,
-        "Alert": false
+        "Mic": false,
+        "Camera": false,
+        "Controller": false,
+        "Alert": true
     },
     {
         "Room": "NYC High Line 7th floor",
@@ -253,10 +253,10 @@
     },
     {
         "Room": "PA Philly Conf 29W 24",
-        "Mic": true,
-        "Camera": true,
-        "Controller": true,
-        "Alert": false
+        "Mic": false,
+        "Camera": false,
+        "Controller": false,
+        "Alert": true
     },
     {
         "Room": "PA Philly Conf 29E 55",
@@ -323,9 +323,9 @@
     },
     {
         "Room": "NY Melville Conf RM 2.89",
-        "Mic": false,
-        "Camera": false,
-        "Controller": false,
+        "Mic": true,
+        "Camera": true,
+        "Controller": true,
         "Alert": false
     },
     {
@@ -344,10 +344,10 @@
     },
     {
         "Room": "NJ Mt. Laurel Conf Rm",
-        "Mic": false,
-        "Camera": false,
-        "Controller": false,
-        "Alert": true
+        "Mic": true,
+        "Camera": true,
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "FL West Palm Beach WPB 10th Conf RM",
@@ -519,10 +519,10 @@
     },
     {
         "Room": "MD Owing Mills Medium Conf",
-        "Mic": false,
-        "Camera": false,
-        "Controller": false,
-        "Alert": true
+        "Mic": true,
+        "Camera": true,
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "MD Owing Mills Large Conf",

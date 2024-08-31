@@ -157,7 +157,7 @@
         "Room": "NJ MP 7310 7th floor",
         "Mic": true,
         "Camera": true,
-        "Controller": true,
+        "Controller": false,
         "Alert": false
     },
     {

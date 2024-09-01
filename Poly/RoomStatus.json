@@ -281,10 +281,10 @@
     },
     {
         "Room": "Mumbai War Room",
-        "Mic": true,
-        "Camera": true,
-        "Controller": true,
-        "Alert": false
+        "Mic": false,
+        "Camera": false,
+        "Controller": false,
+        "Alert": true
     },
     {
         "Room": "Mumbai Darth Vader",
@@ -451,7 +451,7 @@
         "Room": "Bangalore Anfield",
         "Mic": false,
         "Camera": false,
-        "Controller": false,
+        "Controller": true,
         "Alert": false
     },
     {
@@ -470,9 +470,9 @@
     },
     {
         "Room": "Bangalore CampNou",
-        "Mic": true,
-        "Camera": true,
-        "Controller": true,
+        "Mic": false,
+        "Camera": false,
+        "Controller": false,
         "Alert": false
     },
     {

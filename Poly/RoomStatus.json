@@ -241,8 +241,8 @@
         "Room": "PA Philly Conf 30E 02",
         "Mic": true,
         "Camera": true,
-        "Controller": false,
-        "Alert": true
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "PA Philly Conf 30E 55",
@@ -330,10 +330,10 @@
     },
     {
         "Room": "NY Melville Conf RM 2.90",
-        "Mic": false,
-        "Camera": false,
-        "Controller": false,
-        "Alert": true
+        "Mic": true,
+        "Camera": true,
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "NY Melville Conf RM 2.91",
@@ -512,10 +512,10 @@
     },
     {
         "Room": "MD Owing Mills Small Conf",
-        "Mic": true,
-        "Camera": true,
-        "Controller": true,
-        "Alert": false
+        "Mic": false,
+        "Camera": false,
+        "Controller": false,
+        "Alert": true
     },
     {
         "Room": "MD Owing Mills Medium Conf",
@@ -549,7 +549,7 @@
         "Room": "FL Fort Lauderdale Conf Room",
         "Mic": true,
         "Camera": true,
-        "Controller": true,
+        "Controller": false,
         "Alert": false
     }
 ]

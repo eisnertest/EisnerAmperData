@@ -113,10 +113,10 @@
     },
     {
         "Room": "NJ Metropark Boardroom 6th floor",
-        "Mic": false,
-        "Camera": false,
-        "Controller": false,
-        "Alert": true
+        "Mic": true,
+        "Camera": true,
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "NJ MP TR A 1st floor",
@@ -141,16 +141,16 @@
     },
     {
         "Room": "NJ MP 8309 8th floor",
-        "Mic": false,
-        "Camera": false,
-        "Controller": false,
-        "Alert": true
+        "Mic": true,
+        "Camera": true,
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "NJ MP 7366 7th floor",
         "Mic": true,
         "Camera": true,
-        "Controller": false,
+        "Controller": true,
         "Alert": false
     },
     {
@@ -169,10 +169,10 @@
     },
     {
         "Room": "NJ MP 7201 7th floor",
-        "Mic": false,
-        "Camera": false,
-        "Controller": false,
-        "Alert": true
+        "Mic": true,
+        "Camera": true,
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "NJ MP 7107 7th floor",
@@ -227,7 +227,7 @@
         "Room": "NJ MP 6002 6th floor",
         "Mic": true,
         "Camera": true,
-        "Controller": false,
+        "Controller": true,
         "Alert": false
     },
     {
@@ -246,10 +246,10 @@
     },
     {
         "Room": "PA Philly Conf 30E 55",
-        "Mic": true,
-        "Camera": true,
-        "Controller": true,
-        "Alert": false
+        "Mic": false,
+        "Camera": false,
+        "Controller": false,
+        "Alert": true
     },
     {
         "Room": "PA Philly Conf 29W 24",
@@ -260,10 +260,10 @@
     },
     {
         "Room": "PA Philly Conf 29E 55",
-        "Mic": true,
-        "Camera": true,
-        "Controller": true,
-        "Alert": false
+        "Mic": false,
+        "Camera": false,
+        "Controller": false,
+        "Alert": true
     },
     {
         "Room": "Mumbai Newton",
@@ -472,7 +472,7 @@
         "Room": "Bangalore CampNou",
         "Mic": true,
         "Camera": true,
-        "Controller": false,
+        "Controller": true,
         "Alert": false
     },
     {

@@ -1,5 +1,18 @@
 "timestamp", "Service", "message"
 "timestamp", "Service", "message"
+2024-09-10 10:24:35, Okta, 0
+2024-09-10 10:24:35, Japan - e-Bunsho for Invoice, 0
+2024-09-10 10:24:35, Japan - Japan Public Transportation (JPT), 0
+2024-09-10 10:24:35, Japan - e-Bunsho for Expense, 0
+2024-09-10 10:24:35, Compleat (TMC Services), 0
+2024-09-10 10:24:35, Mobile, 0
+2024-09-10 10:24:35, Analysis/Intelligence, 0
+2024-09-10 10:24:35, Imaging, 0
+2024-09-10 10:24:35, Request, 0
+2024-09-10 10:24:35, Invoice, 0
+2024-09-10 10:24:35, Travel, 0
+2024-09-10 10:24:35, Expense, 0
+2024-09-10 10:24:35, Replicon, 0
 2024-09-10 10:14:37, Okta, 0
 2024-09-10 10:14:37, Japan - e-Bunsho for Invoice, 0
 2024-09-10 10:14:37, Japan - Japan Public Transportation (JPT), 0
@@ -987,16 +1000,3 @@
 2024-09-10 01:35:17, Okta, 0
 2024-09-10 01:35:17, Japan - e-Bunsho for Invoice, 0
 2024-09-10 01:35:17, Japan - Japan Public Transportation (JPT), 0
-2024-09-10 01:35:17, Japan - e-Bunsho for Expense, 0
-2024-09-10 01:35:17, Compleat (TMC Services), 0
-2024-09-10 01:35:17, Mobile, 0
-2024-09-10 01:35:17, Analysis/Intelligence, 0
-2024-09-10 01:35:17, Imaging, 0
-2024-09-10 01:35:17, Request, 0
-2024-09-10 01:35:17, Invoice, 0
-2024-09-10 01:35:17, Travel, 0
-2024-09-10 01:35:17, Expense, 0
-2024-09-10 01:35:17, Replicon, 0
-2024-09-10 01:35:17, ConsumerList, 0
-2024-09-10 01:35:17, TeamsforLife, 0
-2024-09-10 01:35:17, YourPhone, 0

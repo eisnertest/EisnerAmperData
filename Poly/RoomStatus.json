@@ -113,9 +113,9 @@
     },
     {
         "Room": "NJ Metropark Boardroom 6th floor",
-        "Mic": false,
-        "Camera": false,
-        "Controller": false,
+        "Mic": true,
+        "Camera": true,
+        "Controller": true,
         "Alert": false
     },
     {
@@ -134,9 +134,9 @@
     },
     {
         "Room": "NJ MP 8322 8th floor",
-        "Mic": false,
-        "Camera": false,
-        "Controller": false,
+        "Mic": true,
+        "Camera": true,
+        "Controller": true,
         "Alert": false
     },
     {
@@ -547,9 +547,9 @@
     },
     {
         "Room": "FL Fort Lauderdale Conf Room",
-        "Mic": false,
-        "Camera": false,
-        "Controller": false,
-        "Alert": true
+        "Mic": true,
+        "Camera": true,
+        "Controller": true,
+        "Alert": false
     }
 ]

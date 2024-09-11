@@ -498,10 +498,10 @@
     },
     {
         "Room": "Dallas Training Room",
-        "Mic": false,
+        "Mic": true,
         "Camera": true,
         "Controller": true,
-        "Alert": true
+        "Alert": false
     },
     {
         "Room": "CA San Mateo",

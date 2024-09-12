@@ -332,7 +332,7 @@
         "Room": "NY Melville Conf RM 2.90",
         "Mic": true,
         "Camera": true,
-        "Controller": false,
+        "Controller": true,
         "Alert": false
     },
     {

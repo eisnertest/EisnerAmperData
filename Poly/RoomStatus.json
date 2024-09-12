@@ -332,8 +332,8 @@
         "Room": "NY Melville Conf RM 2.90",
         "Mic": true,
         "Camera": true,
-        "Controller": true,
-        "Alert": false
+        "Controller": false,
+        "Alert": true
     },
     {
         "Room": "NY Melville Conf RM 2.91",

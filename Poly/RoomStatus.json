@@ -114,9 +114,9 @@
     {
         "Room": "NJ Metropark Boardroom 6th floor",
         "Mic": true,
-        "Camera": true,
-        "Controller": true,
-        "Alert": false
+        "Camera": false,
+        "Controller": false,
+        "Alert": true
     },
     {
         "Room": "NJ MP TR A 1st floor",
@@ -143,8 +143,8 @@
         "Room": "NJ MP 8309 8th floor",
         "Mic": true,
         "Camera": true,
-        "Controller": true,
-        "Alert": false
+        "Controller": false,
+        "Alert": true
     },
     {
         "Room": "NJ MP 7366 7th floor",
@@ -171,8 +171,8 @@
         "Room": "NJ MP 7201 7th floor",
         "Mic": true,
         "Camera": true,
-        "Controller": true,
-        "Alert": false
+        "Controller": false,
+        "Alert": true
     },
     {
         "Room": "NJ MP 7107 7th floor",
@@ -183,10 +183,10 @@
     },
     {
         "Room": "NJ MP 6310 6th floor",
-        "Mic": true,
-        "Camera": true,
-        "Controller": true,
-        "Alert": false
+        "Mic": false,
+        "Camera": false,
+        "Controller": false,
+        "Alert": true
     },
     {
         "Room": "NJ MP 6309 6th floor",

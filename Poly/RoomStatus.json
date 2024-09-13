@@ -71,10 +71,10 @@
     },
     {
         "Room": "NYC High Line 7th floor",
-        "Mic": true,
-        "Camera": true,
-        "Controller": true,
-        "Alert": false
+        "Mic": false,
+        "Camera": false,
+        "Controller": false,
+        "Alert": true
     },
     {
         "Room": "NYC MC 7.85 7th floor",
@@ -99,10 +99,10 @@
     },
     {
         "Room": "NYC Liberty 6th floor",
-        "Mic": false,
-        "Camera": false,
-        "Controller": false,
-        "Alert": true
+        "Mic": true,
+        "Camera": true,
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "NYC MC 6.52 6th floor",
@@ -218,10 +218,10 @@
     },
     {
         "Room": "NJ MP 6003 6th floor",
-        "Mic": true,
-        "Camera": true,
-        "Controller": true,
-        "Alert": false
+        "Mic": false,
+        "Camera": false,
+        "Controller": false,
+        "Alert": true
     },
     {
         "Room": "NJ MP 6002 6th floor",
@@ -512,9 +512,9 @@
     },
     {
         "Room": "MD Owing Mills Small Conf",
-        "Mic": false,
-        "Camera": false,
-        "Controller": false,
+        "Mic": true,
+        "Camera": true,
+        "Controller": true,
         "Alert": false
     },
     {

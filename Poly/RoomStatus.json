@@ -473,7 +473,7 @@
         "Mic": true,
         "Camera": true,
         "Controller": false,
-        "Alert": true
+        "Alert": false
     },
     {
         "Room": "Bangalore Eden",

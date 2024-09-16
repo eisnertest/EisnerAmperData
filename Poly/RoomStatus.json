@@ -493,8 +493,8 @@
         "Room": "Dallas Main Conference Room",
         "Mic": true,
         "Camera": true,
-        "Controller": true,
-        "Alert": false
+        "Controller": false,
+        "Alert": true
     },
     {
         "Room": "Dallas Training Room",

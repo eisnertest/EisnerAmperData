@@ -204,9 +204,9 @@
     },
     {
         "Room": "NJ MP 6203 6th floor",
-        "Mic": false,
-        "Camera": false,
-        "Controller": false,
+        "Mic": true,
+        "Camera": true,
+        "Controller": true,
         "Alert": false
     },
     {
@@ -498,10 +498,10 @@
     },
     {
         "Room": "Dallas Training Room",
-        "Mic": true,
-        "Camera": true,
-        "Controller": true,
-        "Alert": false
+        "Mic": false,
+        "Camera": false,
+        "Controller": false,
+        "Alert": true
     },
     {
         "Room": "CA San Mateo",

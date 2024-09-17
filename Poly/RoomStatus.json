@@ -101,8 +101,8 @@
         "Room": "NYC Liberty 6th floor",
         "Mic": true,
         "Camera": true,
-        "Controller": false,
-        "Alert": true
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "NYC MC 6.52 6th floor",
@@ -157,7 +157,7 @@
         "Room": "NJ MP 7310 7th floor",
         "Mic": true,
         "Camera": true,
-        "Controller": false,
+        "Controller": true,
         "Alert": false
     },
     {
@@ -519,10 +519,10 @@
     },
     {
         "Room": "MD Owing Mills Medium Conf",
-        "Mic": false,
-        "Camera": false,
-        "Controller": false,
-        "Alert": true
+        "Mic": true,
+        "Camera": true,
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "MD Owing Mills Large Conf",

@@ -470,8 +470,8 @@
     },
     {
         "Room": "Bangalore CampNou",
-        "Mic": false,
-        "Camera": false,
+        "Mic": true,
+        "Camera": true,
         "Controller": false,
         "Alert": false
     },

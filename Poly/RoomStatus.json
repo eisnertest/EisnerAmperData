@@ -486,7 +486,7 @@
         "Room": "Dallas JP Conference Room",
         "Mic": true,
         "Camera": true,
-        "Controller": true,
+        "Controller": false,
         "Alert": false
     },
     {

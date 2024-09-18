@@ -190,10 +190,10 @@
     },
     {
         "Room": "NJ MP 6309 6th floor",
-        "Mic": false,
-        "Camera": false,
-        "Controller": false,
-        "Alert": true
+        "Mic": true,
+        "Camera": true,
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "NJ MP 6255 6th floor",
@@ -519,17 +519,17 @@
     },
     {
         "Room": "MD Owing Mills Medium Conf",
-        "Mic": true,
-        "Camera": true,
-        "Controller": true,
+        "Mic": false,
+        "Camera": false,
+        "Controller": false,
         "Alert": false
     },
     {
         "Room": "MD Owing Mills Large Conf",
-        "Mic": true,
-        "Camera": true,
-        "Controller": true,
-        "Alert": false
+        "Mic": false,
+        "Camera": false,
+        "Controller": false,
+        "Alert": true
     },
     {
         "Room": "Chicago Small Conf Room",

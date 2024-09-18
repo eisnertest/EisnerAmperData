@@ -302,8 +302,8 @@
     },
     {
         "Room": "Mumbai Bond007",
-        "Mic": true,
-        "Camera": true,
+        "Mic": false,
+        "Camera": false,
         "Controller": false,
         "Alert": false
     },

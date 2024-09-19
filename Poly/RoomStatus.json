@@ -372,17 +372,17 @@
     },
     {
         "Room": "Hyderabad Falaknuma",
-        "Mic": false,
-        "Camera": false,
-        "Controller": false,
+        "Mic": true,
+        "Camera": true,
+        "Controller": true,
         "Alert": false
     },
     {
         "Room": "Hyderabad Koh-i-Noor",
         "Mic": true,
         "Camera": true,
-        "Controller": false,
-        "Alert": true
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "Hyderabad Kakatiya Training Room",

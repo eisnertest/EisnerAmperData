@@ -409,8 +409,8 @@
         "Room": "MN Boardroom",
         "Mic": true,
         "Camera": true,
-        "Controller": false,
-        "Alert": true
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "MN Glickman",
@@ -547,9 +547,9 @@
     },
     {
         "Room": "FL Fort Lauderdale Conf Room",
-        "Mic": true,
-        "Camera": true,
-        "Controller": true,
-        "Alert": false
+        "Mic": false,
+        "Camera": false,
+        "Controller": false,
+        "Alert": true
     }
 ]

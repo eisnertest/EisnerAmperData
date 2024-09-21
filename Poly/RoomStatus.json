@@ -101,8 +101,8 @@
         "Room": "NYC Liberty 6th floor",
         "Mic": true,
         "Camera": true,
-        "Controller": true,
-        "Alert": false
+        "Controller": false,
+        "Alert": true
     },
     {
         "Room": "NYC MC 6.52 6th floor",
@@ -136,8 +136,8 @@
         "Room": "NJ MP 8322 8th floor",
         "Mic": true,
         "Camera": true,
-        "Controller": false,
-        "Alert": true
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "NJ MP 8309 8th floor",
@@ -332,8 +332,8 @@
         "Room": "NY Melville Conf RM 2.90",
         "Mic": true,
         "Camera": true,
-        "Controller": true,
-        "Alert": false
+        "Controller": false,
+        "Alert": true
     },
     {
         "Room": "NY Melville Conf RM 2.91",

@@ -46,8 +46,8 @@
     },
     {
         "Service": "TeamsforLife",
-        "Status": true,
-        "Alert": false
+        "Status": false,
+        "Alert": true
     },
     {
         "Service": "ConsumerList",

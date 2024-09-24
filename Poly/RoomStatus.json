@@ -458,8 +458,8 @@
         "Room": "Bangalore OldTrafford",
         "Mic": true,
         "Camera": true,
-        "Controller": true,
-        "Alert": false
+        "Controller": false,
+        "Alert": true
     },
     {
         "Room": "Bangalore SanSiro",
@@ -472,8 +472,8 @@
         "Room": "Bangalore CampNou",
         "Mic": true,
         "Camera": true,
-        "Controller": true,
-        "Alert": false
+        "Controller": false,
+        "Alert": true
     },
     {
         "Room": "Bangalore Eden",
@@ -484,10 +484,10 @@
     },
     {
         "Room": "Dallas JP Conference Room",
-        "Mic": false,
-        "Camera": false,
-        "Controller": false,
-        "Alert": true
+        "Mic": true,
+        "Camera": true,
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "Dallas Main Conference Room",

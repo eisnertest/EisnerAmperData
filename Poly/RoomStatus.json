@@ -276,7 +276,7 @@
         "Room": "Mumbai Einstein",
         "Mic": false,
         "Camera": false,
-        "Controller": true,
+        "Controller": false,
         "Alert": false
     },
     {
@@ -304,8 +304,8 @@
         "Room": "Mumbai Bond007",
         "Mic": true,
         "Camera": true,
-        "Controller": false,
-        "Alert": true
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "Mumbai God Father",
@@ -381,8 +381,8 @@
         "Room": "Hyderabad Koh-i-Noor",
         "Mic": true,
         "Camera": true,
-        "Controller": false,
-        "Alert": true
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "Hyderabad Kakatiya Training Room",
@@ -451,7 +451,7 @@
         "Room": "Bangalore Anfield",
         "Mic": false,
         "Camera": false,
-        "Controller": true,
+        "Controller": false,
         "Alert": false
     },
     {

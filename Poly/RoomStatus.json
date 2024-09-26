@@ -276,7 +276,7 @@
         "Room": "Mumbai Einstein",
         "Mic": false,
         "Camera": false,
-        "Controller": false,
+        "Controller": true,
         "Alert": false
     },
     {
@@ -297,8 +297,8 @@
         "Room": "Mumbai Iron Man",
         "Mic": true,
         "Camera": true,
-        "Controller": false,
-        "Alert": true
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "Mumbai Bond007",
@@ -458,7 +458,7 @@
         "Room": "Bangalore OldTrafford",
         "Mic": true,
         "Camera": true,
-        "Controller": false,
+        "Controller": true,
         "Alert": false
     },
     {

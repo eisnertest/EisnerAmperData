@@ -458,8 +458,8 @@
         "Room": "Bangalore OldTrafford",
         "Mic": true,
         "Camera": true,
-        "Controller": false,
-        "Alert": true
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "Bangalore SanSiro",

@@ -46,7 +46,7 @@
     },
     {
         "Service": "TeamsforLife",
-        "Status": false,
+        "Status": true,
         "Alert": false
     },
     {

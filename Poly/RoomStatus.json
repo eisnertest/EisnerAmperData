@@ -491,10 +491,10 @@
     },
     {
         "Room": "Dallas Main Conference Room",
-        "Mic": true,
-        "Camera": true,
-        "Controller": true,
-        "Alert": false
+        "Mic": false,
+        "Camera": false,
+        "Controller": false,
+        "Alert": true
     },
     {
         "Room": "Dallas Training Room",

@@ -15,9 +15,9 @@
     },
     {
         "Room": "NYC MC 10.52 10th floor",
-        "Mic": false,
-        "Camera": false,
-        "Controller": false,
+        "Mic": true,
+        "Camera": true,
+        "Controller": true,
         "Alert": false
     },
     {

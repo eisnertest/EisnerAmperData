@@ -128,8 +128,8 @@
     {
         "Room": "NJ MP TR B 1st floor",
         "Mic": false,
-        "Camera": false,
-        "Controller": false,
+        "Camera": true,
+        "Controller": true,
         "Alert": false
     },
     {
@@ -207,7 +207,7 @@
         "Mic": true,
         "Camera": true,
         "Controller": false,
-        "Alert": true
+        "Alert": false
     },
     {
         "Room": "NJ MP 6107 6th floor",
@@ -232,10 +232,10 @@
     },
     {
         "Room": "PA Philly Conf 30W 09",
-        "Mic": false,
-        "Camera": false,
-        "Controller": false,
-        "Alert": true
+        "Mic": true,
+        "Camera": true,
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "PA Philly Conf 30E 02",
@@ -256,14 +256,28 @@
         "Mic": false,
         "Camera": false,
         "Controller": false,
-        "Alert": true
+        "Alert": false
     },
     {
         "Room": "PA Philly Conf 29E 55",
         "Mic": false,
         "Camera": false,
         "Controller": false,
-        "Alert": true
+        "Alert": false
+    },
+    {
+        "Room": "PA Philly Training Rm",
+        "Mic": true,
+        "Camera": true,
+        "Controller": true,
+        "Alert": false
+    },
+    {
+        "Room": "PA Boardroom",
+        "Mic": true,
+        "Camera": true,
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "Mumbai Newton",
@@ -288,9 +302,9 @@
     },
     {
         "Room": "Mumbai Darth Vader",
-        "Mic": false,
-        "Camera": false,
-        "Controller": false,
+        "Mic": true,
+        "Camera": true,
+        "Controller": true,
         "Alert": false
     },
     {
@@ -347,7 +361,7 @@
         "Mic": false,
         "Camera": false,
         "Controller": false,
-        "Alert": true
+        "Alert": false
     },
     {
         "Room": "FL West Palm Beach WPB 10th Conf RM",
@@ -407,30 +421,37 @@
     },
     {
         "Room": "MN Glickman",
-        "Mic": false,
-        "Camera": false,
-        "Controller": false,
-        "Alert": true
+        "Mic": true,
+        "Camera": true,
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "MN Eiger Room",
-        "Mic": false,
-        "Camera": false,
-        "Controller": false,
-        "Alert": true
+        "Mic": true,
+        "Camera": true,
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "CA La Jolla The Shores",
-        "Mic": false,
-        "Camera": false,
-        "Controller": false,
+        "Mic": true,
+        "Camera": true,
+        "Controller": true,
         "Alert": false
     },
     {
         "Room": "CA La Jolla The Cove",
-        "Mic": false,
-        "Camera": false,
-        "Controller": false,
+        "Mic": true,
+        "Camera": true,
+        "Controller": true,
+        "Alert": false
+    },
+    {
+        "Room": "CA San Mateo",
+        "Mic": true,
+        "Camera": true,
+        "Controller": true,
         "Alert": false
     },
     {
@@ -497,6 +518,27 @@
         "Alert": false
     },
     {
+        "Room": "MD Owing Mills Small Conf",
+        "Mic": true,
+        "Camera": true,
+        "Controller": true,
+        "Alert": false
+    },
+    {
+        "Room": "MD Owing Mills Medium Conf",
+        "Mic": true,
+        "Camera": true,
+        "Controller": true,
+        "Alert": false
+    },
+    {
+        "Room": "MD Owing Mills Large Conf",
+        "Mic": true,
+        "Camera": true,
+        "Controller": true,
+        "Alert": false
+    },
+    {
         "Room": "Chicago Small Conf Room",
         "Mic": false,
         "Camera": false,
@@ -511,7 +553,21 @@
         "Alert": false
     },
     {
-        "Room": "Fort Lauderdale FL",
+        "Room": "FL Ft Lauderdale Boardroom",
+        "Mic": true,
+        "Camera": true,
+        "Controller": true,
+        "Alert": false
+    },
+    {
+        "Room": "FL Coral Gables Conf 1130",
+        "Mic": false,
+        "Camera": true,
+        "Controller": true,
+        "Alert": true
+    },
+    {
+        "Room": "FL Coral GABLES Conf 1131",
         "Mic": false,
         "Camera": false,
         "Controller": false,

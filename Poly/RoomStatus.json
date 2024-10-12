@@ -297,8 +297,8 @@
         "Room": "Mumbai War Room",
         "Mic": true,
         "Camera": true,
-        "Controller": true,
-        "Alert": false
+        "Controller": false,
+        "Alert": true
     },
     {
         "Room": "Mumbai Darth Vader",

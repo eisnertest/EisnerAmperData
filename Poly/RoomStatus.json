@@ -297,7 +297,7 @@
         "Room": "Mumbai War Room",
         "Mic": true,
         "Camera": true,
-        "Controller": false,
+        "Controller": true,
         "Alert": false
     },
     {

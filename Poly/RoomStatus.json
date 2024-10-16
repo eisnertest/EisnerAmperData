@@ -17,8 +17,8 @@
         "Room": "NYC MC 10.52 10th floor",
         "Mic": true,
         "Camera": true,
-        "Controller": false,
-        "Alert": true
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "NYC Columbus Circle 9th floor",
@@ -241,8 +241,8 @@
         "Room": "PA Philly Conf 30E 02",
         "Mic": true,
         "Camera": true,
-        "Controller": false,
-        "Alert": true
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "PA Philly Conf 30E 55",
@@ -316,10 +316,10 @@
     },
     {
         "Room": "Mumbai Bond007",
-        "Mic": true,
+        "Mic": false,
         "Camera": true,
         "Controller": true,
-        "Alert": false
+        "Alert": true
     },
     {
         "Room": "Mumbai God Father",
@@ -554,10 +554,10 @@
     },
     {
         "Room": "FL Ft Lauderdale Boardroom",
-        "Mic": false,
-        "Camera": false,
-        "Controller": false,
-        "Alert": true
+        "Mic": true,
+        "Camera": true,
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "FL Coral Gables Conf 1130",

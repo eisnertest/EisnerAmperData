@@ -570,7 +570,7 @@
         "Room": "FL Coral GABLES Conf 1131",
         "Mic": true,
         "Camera": true,
-        "Controller": true,
-        "Alert": false
+        "Controller": false,
+        "Alert": true
     }
 ]

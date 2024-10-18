@@ -87,7 +87,7 @@
         "Room": "NYC Grammercy 7th floor",
         "Mic": true,
         "Camera": true,
-        "Controller": true,
+        "Controller": false,
         "Alert": false
     },
     {
@@ -562,7 +562,7 @@
     {
         "Room": "FL Coral Gables Conf 1130",
         "Mic": false,
-        "Camera": true,
+        "Camera": false,
         "Controller": true,
         "Alert": false
     },

@@ -86,8 +86,8 @@
     },
     {
         "Service": "Analysis/Intelligence",
-        "Status": true,
-        "Alert": false
+        "Status": false,
+        "Alert": true
     },
     {
         "Service": "Mobile",
@@ -116,7 +116,7 @@
     },
     {
         "Service": "Okta",
-        "Status": false,
+        "Status": true,
         "Alert": false
     }
 ]

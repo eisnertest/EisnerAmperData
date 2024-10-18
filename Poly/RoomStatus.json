@@ -87,7 +87,7 @@
         "Room": "NYC Grammercy 7th floor",
         "Mic": true,
         "Camera": true,
-        "Controller": false,
+        "Controller": true,
         "Alert": false
     },
     {

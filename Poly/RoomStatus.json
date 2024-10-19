@@ -562,7 +562,7 @@
     {
         "Room": "FL Coral Gables Conf 1130",
         "Mic": false,
-        "Camera": false,
+        "Camera": true,
         "Controller": true,
         "Alert": false
     },

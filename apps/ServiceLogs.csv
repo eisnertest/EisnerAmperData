@@ -1,5 +1,53 @@
 "timestamp", "Service", "message"
 "timestamp", "Service", "message"
+2024-10-20 00:50:43, Okta, 1
+2024-10-20 00:50:43, Japan - e-Bunsho for Invoice, 0
+2024-10-20 00:50:43, Japan - Japan Public Transportation (JPT), 0
+2024-10-20 00:50:43, Japan - e-Bunsho for Expense, 0
+2024-10-20 00:50:43, Compleat (TMC Services), 0
+2024-10-20 00:50:43, Mobile, 0
+2024-10-20 00:50:43, Analysis/Intelligence, 0
+2024-10-20 00:50:43, Imaging, 0
+2024-10-20 00:50:43, Request, 0
+2024-10-20 00:50:43, Invoice, 0
+2024-10-20 00:50:43, Travel, 0
+2024-10-20 00:50:43, Expense, 0
+2024-10-20 00:50:43, Replicon, 1
+2024-10-20 00:50:43, ConsumerList, 0
+2024-10-20 00:50:43, TeamsforLife, 0
+2024-10-20 00:50:43, YourPhone, 0
+2024-10-20 00:50:43, Whiteboard, 0
+2024-10-20 00:50:43, OfficeOnlineConsumer, 0
+2024-10-20 00:50:43, Skype, 0
+2024-10-20 00:50:43, microsofttodo, 0
+2024-10-20 00:50:43, CopilotConsumer, 0
+2024-10-20 00:50:43, OneDriveConsumer, 0
+2024-10-20 00:50:43, Outlook.com, 0
+2024-10-20 00:50:43, M365Consumer, 0
+2024-10-20 00:50:42, Okta, 1
+2024-10-20 00:50:42, Japan - e-Bunsho for Invoice, 0
+2024-10-20 00:50:42, Japan - Japan Public Transportation (JPT), 0
+2024-10-20 00:50:42, Japan - e-Bunsho for Expense, 0
+2024-10-20 00:50:42, Compleat (TMC Services), 0
+2024-10-20 00:50:42, Mobile, 0
+2024-10-20 00:50:42, Analysis/Intelligence, 0
+2024-10-20 00:50:42, Imaging, 0
+2024-10-20 00:50:42, Request, 0
+2024-10-20 00:50:42, Invoice, 0
+2024-10-20 00:50:42, Travel, 0
+2024-10-20 00:50:42, Expense, 0
+2024-10-20 00:50:42, Replicon, 1
+2024-10-20 00:50:42, ConsumerList, 0
+2024-10-20 00:50:42, TeamsforLife, 0
+2024-10-20 00:50:42, YourPhone, 0
+2024-10-20 00:50:42, Whiteboard, 0
+2024-10-20 00:50:42, OfficeOnlineConsumer, 0
+2024-10-20 00:50:42, Skype, 0
+2024-10-20 00:50:42, microsofttodo, 0
+2024-10-20 00:50:42, CopilotConsumer, 0
+2024-10-20 00:50:42, OneDriveConsumer, 0
+2024-10-20 00:50:42, Outlook.com, 0
+2024-10-20 00:50:42, M365Consumer, 0
 2024-10-20 00:22:06, Okta, 1
 2024-10-20 00:22:06, Japan - e-Bunsho for Invoice, 0
 2024-10-20 00:22:06, Japan - Japan Public Transportation (JPT), 0
@@ -952,51 +1000,3 @@
 2024-10-19 14:20:36, ConsumerList, 0
 2024-10-19 14:20:36, TeamsforLife, 0
 2024-10-19 14:20:36, YourPhone, 0
-2024-10-19 14:20:36, Whiteboard, 0
-2024-10-19 14:20:36, OfficeOnlineConsumer, 0
-2024-10-19 14:20:36, Skype, 0
-2024-10-19 14:20:36, microsofttodo, 0
-2024-10-19 14:20:36, CopilotConsumer, 0
-2024-10-19 14:20:36, OneDriveConsumer, 0
-2024-10-19 14:20:36, Outlook.com, 0
-2024-10-19 14:20:36, M365Consumer, 0
-2024-10-19 14:20:36, Okta, 1
-2024-10-19 14:20:36, Japan - e-Bunsho for Invoice, 0
-2024-10-19 14:20:36, Japan - Japan Public Transportation (JPT), 0
-2024-10-19 14:20:36, Japan - e-Bunsho for Expense, 0
-2024-10-19 14:20:36, Compleat (TMC Services), 0
-2024-10-19 14:20:36, Mobile, 0
-2024-10-19 14:20:36, Analysis/Intelligence, 0
-2024-10-19 14:20:36, Imaging, 0
-2024-10-19 14:20:36, Request, 0
-2024-10-19 14:20:36, Invoice, 0
-2024-10-19 14:20:36, Travel, 0
-2024-10-19 14:20:36, Expense, 0
-2024-10-19 14:20:36, Replicon, 0
-2024-10-19 14:20:36, ConsumerList, 0
-2024-10-19 14:20:36, TeamsforLife, 0
-2024-10-19 14:20:36, YourPhone, 0
-2024-10-19 14:20:36, Whiteboard, 0
-2024-10-19 14:20:36, OfficeOnlineConsumer, 0
-2024-10-19 14:20:36, Skype, 0
-2024-10-19 14:20:36, microsofttodo, 0
-2024-10-19 14:20:36, CopilotConsumer, 0
-2024-10-19 14:20:36, OneDriveConsumer, 0
-2024-10-19 14:20:36, Outlook.com, 0
-2024-10-19 14:20:36, M365Consumer, 0
-2024-10-19 13:50:43, Okta, 1
-2024-10-19 13:50:43, Japan - e-Bunsho for Invoice, 0
-2024-10-19 13:50:43, Japan - Japan Public Transportation (JPT), 0
-2024-10-19 13:50:43, Japan - e-Bunsho for Expense, 0
-2024-10-19 13:50:43, Compleat (TMC Services), 0
-2024-10-19 13:50:43, Mobile, 0
-2024-10-19 13:50:43, Analysis/Intelligence, 0
-2024-10-19 13:50:43, Imaging, 0
-2024-10-19 13:50:43, Request, 0
-2024-10-19 13:50:43, Invoice, 0
-2024-10-19 13:50:43, Travel, 0
-2024-10-19 13:50:43, Expense, 0
-2024-10-19 13:50:43, Replicon, 0
-2024-10-19 13:50:43, ConsumerList, 0
-2024-10-19 13:50:43, TeamsforLife, 0
-2024-10-19 13:50:43, YourPhone, 0

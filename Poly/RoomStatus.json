@@ -554,10 +554,10 @@
     },
     {
         "Room": "FL Ft Lauderdale Boardroom",
-        "Mic": false,
-        "Camera": false,
-        "Controller": false,
-        "Alert": true
+        "Mic": true,
+        "Camera": true,
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "FL Coral Gables Conf 1130",

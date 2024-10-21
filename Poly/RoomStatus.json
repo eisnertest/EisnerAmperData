@@ -246,8 +246,8 @@
     },
     {
         "Room": "PA Philly Conf 30E 55",
-        "Mic": false,
-        "Camera": false,
+        "Mic": true,
+        "Camera": true,
         "Controller": false,
         "Alert": false
     },
@@ -267,10 +267,10 @@
     },
     {
         "Room": "PA Philly Training Rm",
-        "Mic": true,
-        "Camera": true,
+        "Mic": false,
+        "Camera": false,
         "Controller": true,
-        "Alert": false
+        "Alert": true
     },
     {
         "Room": "PA Boardroom",

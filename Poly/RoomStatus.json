@@ -269,7 +269,7 @@
         "Room": "PA Philly Training Rm",
         "Mic": false,
         "Camera": false,
-        "Controller": true,
+        "Controller": false,
         "Alert": false
     },
     {

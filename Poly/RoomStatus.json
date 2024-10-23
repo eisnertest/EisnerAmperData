@@ -155,10 +155,10 @@
     },
     {
         "Room": "NJ MP 7310 7th floor",
-        "Mic": true,
-        "Camera": true,
-        "Controller": true,
-        "Alert": false
+        "Mic": false,
+        "Camera": false,
+        "Controller": false,
+        "Alert": true
     },
     {
         "Room": "NJ MP 7202 7th floor",
@@ -190,10 +190,10 @@
     },
     {
         "Room": "NJ MP 6309 6th floor",
-        "Mic": true,
-        "Camera": true,
-        "Controller": true,
-        "Alert": false
+        "Mic": false,
+        "Camera": false,
+        "Controller": false,
+        "Alert": true
     },
     {
         "Room": "NJ MP 6255 6th floor",
@@ -367,8 +367,8 @@
         "Room": "FL West Palm Beach WPB 10th Conf RM",
         "Mic": true,
         "Camera": true,
-        "Controller": true,
-        "Alert": false
+        "Controller": false,
+        "Alert": true
     },
     {
         "Room": "FL West Palm Beach Audit Tax Conference",
@@ -562,8 +562,8 @@
     {
         "Room": "FL Coral Gables Conf 1130",
         "Mic": false,
-        "Camera": true,
-        "Controller": true,
+        "Camera": false,
+        "Controller": false,
         "Alert": false
     },
     {

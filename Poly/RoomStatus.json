@@ -183,10 +183,10 @@
     },
     {
         "Room": "NJ MP 6310 6th floor",
-        "Mic": true,
-        "Camera": true,
-        "Controller": true,
-        "Alert": false
+        "Mic": false,
+        "Camera": false,
+        "Controller": false,
+        "Alert": true
     },
     {
         "Room": "NJ MP 6309 6th floor",
@@ -204,8 +204,8 @@
     },
     {
         "Room": "NJ MP 6203 6th floor",
-        "Mic": false,
-        "Camera": false,
+        "Mic": true,
+        "Camera": true,
         "Controller": false,
         "Alert": false
     },

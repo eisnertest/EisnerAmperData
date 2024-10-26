@@ -549,8 +549,8 @@
         "Room": "Chicago Large Conf Room",
         "Mic": true,
         "Camera": true,
-        "Controller": false,
-        "Alert": true
+        "Controller": true,
+        "Alert": false
     },
     {
         "Room": "FL Ft Lauderdale Boardroom",

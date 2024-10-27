@@ -190,10 +190,10 @@
     },
     {
         "Room": "NJ MP 6309 6th floor",
-        "Mic": true,
-        "Camera": true,
-        "Controller": true,
-        "Alert": false
+        "Mic": false,
+        "Camera": false,
+        "Controller": false,
+        "Alert": true
     },
     {
         "Room": "NJ MP 6255 6th floor",
@@ -351,10 +351,10 @@
     },
     {
         "Room": "NY Melville Conf RM 2.91",
-        "Mic": true,
-        "Camera": true,
-        "Controller": true,
-        "Alert": false
+        "Mic": false,
+        "Camera": false,
+        "Controller": false,
+        "Alert": true
     },
     {
         "Room": "NJ Mt. Laurel Conf Rm",
@@ -554,8 +554,8 @@
     },
     {
         "Room": "FL Ft Lauderdale Boardroom",
-        "Mic": true,
-        "Camera": true,
+        "Mic": false,
+        "Camera": false,
         "Controller": false,
         "Alert": false
     },
